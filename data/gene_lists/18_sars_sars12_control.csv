@@ -1,0 +1,1359 @@
+comparison_id,comparison_name,gene_set,gene_name
+sars_sars12_control,SARS12,Upregulated genes,AL034417.4
+sars_sars12_control,SARS12,Downregulated genes,UBXN10
+sars_sars12_control,SARS12,Differential exon usage,SELENOW
+sars_sars12_control,SARS12,Differential transcript expression,SERPINB2
+sars_sars12_control,SARS12,Differential intron excision,GRB7
+sars_sars12_control,SARS12,Differential alternative splicing,CYP24A1
+sars_sars12_control,SARS12,Upregulated genes,SH2D5
+sars_sars12_control,SARS12,Downregulated genes,ID3
+sars_sars12_control,SARS12,Differential exon usage,CALU
+sars_sars12_control,SARS12,Differential transcript expression,CYP1B1
+sars_sars12_control,SARS12,Differential intron excision,CYP24A1
+sars_sars12_control,SARS12,Differential alternative splicing,GRB7
+sars_sars12_control,SARS12,Upregulated genes,HTR1D
+sars_sars12_control,SARS12,Downregulated genes,VTCN1
+sars_sars12_control,SARS12,Differential exon usage,U2SURP
+sars_sars12_control,SARS12,Differential transcript expression,ARRDC3
+sars_sars12_control,SARS12,Differential intron excision,NPIPP1
+sars_sars12_control,SARS12,Differential alternative splicing,SMARCA4
+sars_sars12_control,SARS12,Upregulated genes,ZNF436
+sars_sars12_control,SARS12,Downregulated genes,MUC1
+sars_sars12_control,SARS12,Differential exon usage,DAZAP1
+sars_sars12_control,SARS12,Differential transcript expression,SELENOW
+sars_sars12_control,SARS12,Differential intron excision,HLA-A
+sars_sars12_control,SARS12,Differential alternative splicing,SLC25A36
+sars_sars12_control,SARS12,Upregulated genes,RSRP1
+sars_sars12_control,SARS12,Downregulated genes,AL356276.1
+sars_sars12_control,SARS12,Differential exon usage,FAR1
+sars_sars12_control,SARS12,Differential intron excision,FHL2
+sars_sars12_control,SARS12,Differential alternative splicing,GGNBP2
+sars_sars12_control,SARS12,Upregulated genes,IFI44L
+sars_sars12_control,SARS12,Downregulated genes,PPFIA4
+sars_sars12_control,SARS12,Differential exon usage,SREK1
+sars_sars12_control,SARS12,Differential intron excision,SAT1
+sars_sars12_control,SARS12,Differential alternative splicing,C1QTNF6
+sars_sars12_control,SARS12,Upregulated genes,S100A2
+sars_sars12_control,SARS12,Downregulated genes,SLC26A9
+sars_sars12_control,SARS12,Differential exon usage,CHORDC1
+sars_sars12_control,SARS12,Differential intron excision,ZNF207
+sars_sars12_control,SARS12,Differential alternative splicing,CUTC
+sars_sars12_control,SARS12,Upregulated genes,HSPA6
+sars_sars12_control,SARS12,Downregulated genes,PIGR
+sars_sars12_control,SARS12,Differential exon usage,CYB5A
+sars_sars12_control,SARS12,Differential intron excision,SLMAP
+sars_sars12_control,SARS12,Differential alternative splicing,BCLAF1
+sars_sars12_control,SARS12,Upregulated genes,LYST
+sars_sars12_control,SARS12,Downregulated genes,CYP1B1
+sars_sars12_control,SARS12,Differential exon usage,DHX36
+sars_sars12_control,SARS12,Differential intron excision,THRAP3
+sars_sars12_control,SARS12,Differential alternative splicing,C12orf73
+sars_sars12_control,SARS12,Upregulated genes,RSAD2
+sars_sars12_control,SARS12,Downregulated genes,PDK1
+sars_sars12_control,SARS12,Differential exon usage,THRAP3
+sars_sars12_control,SARS12,Differential intron excision,AP1S2
+sars_sars12_control,SARS12,Differential alternative splicing,ZC3H4
+sars_sars12_control,SARS12,Upregulated genes,LPIN1
+sars_sars12_control,SARS12,Downregulated genes,ERBB4
+sars_sars12_control,SARS12,Differential exon usage,LTBP3
+sars_sars12_control,SARS12,Differential intron excision,TBRG4
+sars_sars12_control,SARS12,Differential alternative splicing,POLL
+sars_sars12_control,SARS12,Upregulated genes,PAPOLG
+sars_sars12_control,SARS12,Downregulated genes,CYP27A1
+sars_sars12_control,SARS12,Differential exon usage,LCN2
+sars_sars12_control,SARS12,Differential intron excision,DYNC1H1
+sars_sars12_control,SARS12,Differential alternative splicing,RIMS2
+sars_sars12_control,SARS12,Upregulated genes,ZNF2
+sars_sars12_control,SARS12,Downregulated genes,VIPR1
+sars_sars12_control,SARS12,Differential exon usage,SLC25A39
+sars_sars12_control,SARS12,Differential intron excision,SNRNP200
+sars_sars12_control,SARS12,Differential alternative splicing,NQO2
+sars_sars12_control,SARS12,Upregulated genes,LYPD1
+sars_sars12_control,SARS12,Downregulated genes,ACTBP13
+sars_sars12_control,SARS12,Differential exon usage,HMGA2
+sars_sars12_control,SARS12,Differential intron excision,SF3B1
+sars_sars12_control,SARS12,Differential alternative splicing,LINC01515
+sars_sars12_control,SARS12,Upregulated genes,TNFAIP6
+sars_sars12_control,SARS12,Downregulated genes,FAM3D
+sars_sars12_control,SARS12,Differential exon usage,INPP4B
+sars_sars12_control,SARS12,Differential intron excision,ITGB3BP
+sars_sars12_control,SARS12,Differential alternative splicing,CDKN2B-AS1
+sars_sars12_control,SARS12,Upregulated genes,ITGB6
+sars_sars12_control,SARS12,Downregulated genes,MRAS
+sars_sars12_control,SARS12,Differential exon usage,NAE1
+sars_sars12_control,SARS12,Differential intron excision,RBM39
+sars_sars12_control,SARS12,Differential alternative splicing,WARS1
+sars_sars12_control,SARS12,Upregulated genes,AC092153.1
+sars_sars12_control,SARS12,Downregulated genes,TM4SF1-AS1
+sars_sars12_control,SARS12,Differential exon usage,DCP2
+sars_sars12_control,SARS12,Differential intron excision,PLOD2
+sars_sars12_control,SARS12,Differential alternative splicing,LBX2
+sars_sars12_control,SARS12,Upregulated genes,CLK1
+sars_sars12_control,SARS12,Downregulated genes,AC108751.5
+sars_sars12_control,SARS12,Differential exon usage,HP1BP3
+sars_sars12_control,SARS12,Differential intron excision,PHC2
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF420
+sars_sars12_control,SARS12,Upregulated genes,EPHA4
+sars_sars12_control,SARS12,Downregulated genes,RARRES1
+sars_sars12_control,SARS12,Differential exon usage,CRYZ
+sars_sars12_control,SARS12,Differential intron excision,ADGRF1
+sars_sars12_control,SARS12,Differential alternative splicing,AC105052.3
+sars_sars12_control,SARS12,Upregulated genes,WNT7A
+sars_sars12_control,SARS12,Downregulated genes,TNFSF10
+sars_sars12_control,SARS12,Differential exon usage,CIRBP
+sars_sars12_control,SARS12,Differential intron excision,REPS1
+sars_sars12_control,SARS12,Differential alternative splicing,POLR3E
+sars_sars12_control,SARS12,Upregulated genes,UCN2
+sars_sars12_control,SARS12,Downregulated genes,CLDN16
+sars_sars12_control,SARS12,Differential exon usage,NLRP2
+sars_sars12_control,SARS12,Differential intron excision,INSIG1
+sars_sars12_control,SARS12,Differential alternative splicing,UBAP2L
+sars_sars12_control,SARS12,Upregulated genes,COL7A1
+sars_sars12_control,SARS12,Downregulated genes,AC025539.1
+sars_sars12_control,SARS12,Differential exon usage,INO80E
+sars_sars12_control,SARS12,Differential intron excision,SRSF11
+sars_sars12_control,SARS12,Differential alternative splicing,KLRK1-AS1
+sars_sars12_control,SARS12,Upregulated genes,CISH
+sars_sars12_control,SARS12,Downregulated genes,SLC34A2
+sars_sars12_control,SARS12,Differential exon usage,ZMIZ2
+sars_sars12_control,SARS12,Differential intron excision,SLC25A36
+sars_sars12_control,SARS12,Differential alternative splicing,SYNPR-AS1
+sars_sars12_control,SARS12,Upregulated genes,DUBR
+sars_sars12_control,SARS12,Downregulated genes,AC099509.1
+sars_sars12_control,SARS12,Differential exon usage,NSD2
+sars_sars12_control,SARS12,Differential intron excision,MRPL32
+sars_sars12_control,SARS12,Differential alternative splicing,TRAF3IP1
+sars_sars12_control,SARS12,Upregulated genes,PTX3
+sars_sars12_control,SARS12,Downregulated genes,LOX
+sars_sars12_control,SARS12,Differential exon usage,RARRES1
+sars_sars12_control,SARS12,Differential intron excision,HSD17B7P2
+sars_sars12_control,SARS12,Differential alternative splicing,SCAMP5
+sars_sars12_control,SARS12,Upregulated genes,TMEM154
+sars_sars12_control,SARS12,Downregulated genes,HAVCR1
+sars_sars12_control,SARS12,Differential exon usage,RASA1
+sars_sars12_control,SARS12,Differential intron excision,GGNBP2
+sars_sars12_control,SARS12,Differential alternative splicing,ADCY10P1
+sars_sars12_control,SARS12,Upregulated genes,CDH6
+sars_sars12_control,SARS12,Downregulated genes,LINC00326
+sars_sars12_control,SARS12,Differential exon usage,LARP4B
+sars_sars12_control,SARS12,Differential intron excision,FIP1L1
+sars_sars12_control,SARS12,Differential alternative splicing,ZBTB8OS
+sars_sars12_control,SARS12,Upregulated genes,MAST4
+sars_sars12_control,SARS12,Downregulated genes,DNAH11
+sars_sars12_control,SARS12,Differential exon usage,ACAD9
+sars_sars12_control,SARS12,Differential intron excision,VRK2
+sars_sars12_control,SARS12,Differential alternative splicing,EXOSC3
+sars_sars12_control,SARS12,Upregulated genes,MAP1B
+sars_sars12_control,SARS12,Downregulated genes,UPK3B
+sars_sars12_control,SARS12,Differential exon usage,ANXA1
+sars_sars12_control,SARS12,Differential intron excision,BX890604.1
+sars_sars12_control,SARS12,Differential alternative splicing,MCU
+sars_sars12_control,SARS12,Upregulated genes,ARRDC3
+sars_sars12_control,SARS12,Downregulated genes,STEAP4
+sars_sars12_control,SARS12,Differential exon usage,S100A13
+sars_sars12_control,SARS12,Differential intron excision,RAPH1
+sars_sars12_control,SARS12,Differential alternative splicing,ZDHHC24
+sars_sars12_control,SARS12,Upregulated genes,MCTP1
+sars_sars12_control,SARS12,Downregulated genes,LINC00513
+sars_sars12_control,SARS12,Differential exon usage,DDX17
+sars_sars12_control,SARS12,Differential intron excision,PTPRF
+sars_sars12_control,SARS12,Differential alternative splicing,PSORS1C1
+sars_sars12_control,SARS12,Upregulated genes,FBXL21P
+sars_sars12_control,SARS12,Downregulated genes,TCAF2
+sars_sars12_control,SARS12,Differential exon usage,SLC12A2
+sars_sars12_control,SARS12,Differential intron excision,ATAD3B
+sars_sars12_control,SARS12,Differential alternative splicing,C3orf18
+sars_sars12_control,SARS12,Upregulated genes,SLC26A2
+sars_sars12_control,SARS12,Downregulated genes,PLAT
+sars_sars12_control,SARS12,Differential exon usage,CXCL1
+sars_sars12_control,SARS12,Differential alternative splicing,NOMO3
+sars_sars12_control,SARS12,Upregulated genes,NMUR2
+sars_sars12_control,SARS12,Downregulated genes,NDRG1
+sars_sars12_control,SARS12,Differential exon usage,GALNS
+sars_sars12_control,SARS12,Differential alternative splicing,NPIPB3
+sars_sars12_control,SARS12,Upregulated genes,ADAM19
+sars_sars12_control,SARS12,Downregulated genes,CA9
+sars_sars12_control,SARS12,Differential exon usage,ADAM9
+sars_sars12_control,SARS12,Differential alternative splicing,SORBS1
+sars_sars12_control,SARS12,Upregulated genes,ADRA1B
+sars_sars12_control,SARS12,Downregulated genes,KLF9
+sars_sars12_control,SARS12,Differential exon usage,ACSM3
+sars_sars12_control,SARS12,Differential alternative splicing,RABGAP1
+sars_sars12_control,SARS12,Upregulated genes,CDHR2
+sars_sars12_control,SARS12,Downregulated genes,AC022400.7
+sars_sars12_control,SARS12,Differential exon usage,SRSF10
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF826P
+sars_sars12_control,SARS12,Upregulated genes,AC145098.2
+sars_sars12_control,SARS12,Downregulated genes,PLEKHS1
+sars_sars12_control,SARS12,Differential exon usage,ANKRD11
+sars_sars12_control,SARS12,Differential alternative splicing,BICD1
+sars_sars12_control,SARS12,Upregulated genes,CLK4
+sars_sars12_control,SARS12,Downregulated genes,BNIP3
+sars_sars12_control,SARS12,Differential exon usage,PSME4
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF485
+sars_sars12_control,SARS12,Upregulated genes,RNF182
+sars_sars12_control,SARS12,Downregulated genes,MIR210HG
+sars_sars12_control,SARS12,Differential exon usage,KCNN4
+sars_sars12_control,SARS12,Differential alternative splicing,MARK3
+sars_sars12_control,SARS12,Upregulated genes,PPP1R18
+sars_sars12_control,SARS12,Downregulated genes,MUC6
+sars_sars12_control,SARS12,Differential exon usage,PHF14
+sars_sars12_control,SARS12,Differential alternative splicing,TSC22D2
+sars_sars12_control,SARS12,Upregulated genes,CDKN1A
+sars_sars12_control,SARS12,Downregulated genes,MUC5B
+sars_sars12_control,SARS12,Differential exon usage,VCL
+sars_sars12_control,SARS12,Differential alternative splicing,LINC00963
+sars_sars12_control,SARS12,Upregulated genes,ADGRF4
+sars_sars12_control,SARS12,Downregulated genes,ALDH3B1
+sars_sars12_control,SARS12,Differential exon usage,PSPC1
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF207
+sars_sars12_control,SARS12,Upregulated genes,TENT5A
+sars_sars12_control,SARS12,Downregulated genes,FGF19
+sars_sars12_control,SARS12,Differential exon usage,ALDH1A3
+sars_sars12_control,SARS12,Differential alternative splicing,RNF146
+sars_sars12_control,SARS12,Upregulated genes,PKIB
+sars_sars12_control,SARS12,Downregulated genes,SCNN1A
+sars_sars12_control,SARS12,Differential exon usage,DST
+sars_sars12_control,SARS12,Differential alternative splicing,AC097376.3
+sars_sars12_control,SARS12,Upregulated genes,SYNE1
+sars_sars12_control,SARS12,Downregulated genes,METTL7A
+sars_sars12_control,SARS12,Differential exon usage,PSME2
+sars_sars12_control,SARS12,Differential alternative splicing,CROCC
+sars_sars12_control,SARS12,Upregulated genes,PDGFA
+sars_sars12_control,SARS12,Downregulated genes,LINC02381
+sars_sars12_control,SARS12,Differential exon usage,CD46
+sars_sars12_control,SARS12,Differential alternative splicing,GCNT4
+sars_sars12_control,SARS12,Upregulated genes,THSD7A
+sars_sars12_control,SARS12,Downregulated genes,SHISA2
+sars_sars12_control,SARS12,Differential exon usage,ABCD4
+sars_sars12_control,SARS12,Differential alternative splicing,SYT7
+sars_sars12_control,SARS12,Upregulated genes,GPNMB
+sars_sars12_control,SARS12,Downregulated genes,ALDH1A3
+sars_sars12_control,SARS12,Differential exon usage,COX11
+sars_sars12_control,SARS12,Differential alternative splicing,RAB30
+sars_sars12_control,SARS12,Upregulated genes,STX1A
+sars_sars12_control,SARS12,Downregulated genes,CIITA
+sars_sars12_control,SARS12,Differential exon usage,SREBF2
+sars_sars12_control,SARS12,Differential alternative splicing,ANAPC16
+sars_sars12_control,SARS12,Upregulated genes,DNAJB9
+sars_sars12_control,SARS12,Downregulated genes,ACSM3
+sars_sars12_control,SARS12,Differential exon usage,KRT17
+sars_sars12_control,SARS12,Differential alternative splicing,VOPP1
+sars_sars12_control,SARS12,Upregulated genes,EPHB6
+sars_sars12_control,SARS12,Downregulated genes,CHST4
+sars_sars12_control,SARS12,Differential exon usage,TBC1D9B
+sars_sars12_control,SARS12,Differential alternative splicing,LINC01473
+sars_sars12_control,SARS12,Upregulated genes,INSIG1
+sars_sars12_control,SARS12,Downregulated genes,KRT16P2
+sars_sars12_control,SARS12,Differential exon usage,TSC22D2
+sars_sars12_control,SARS12,Differential alternative splicing,LINC00494
+sars_sars12_control,SARS12,Upregulated genes,AC107959.1
+sars_sars12_control,SARS12,Downregulated genes,ARHGAP23
+sars_sars12_control,SARS12,Differential exon usage,CPNE1
+sars_sars12_control,SARS12,Differential alternative splicing,TMEM161B-AS1
+sars_sars12_control,SARS12,Upregulated genes,NPBWR1
+sars_sars12_control,SARS12,Downregulated genes,PPP1R1B
+sars_sars12_control,SARS12,Differential exon usage,COG4
+sars_sars12_control,SARS12,Differential alternative splicing,BRCA2
+sars_sars12_control,SARS12,Upregulated genes,EYA1
+sars_sars12_control,SARS12,Downregulated genes,LINC01978
+sars_sars12_control,SARS12,Differential exon usage,VPS28
+sars_sars12_control,SARS12,Differential alternative splicing,SAT1
+sars_sars12_control,SARS12,Upregulated genes,GEM
+sars_sars12_control,SARS12,Downregulated genes,SERPINB2
+sars_sars12_control,SARS12,Differential exon usage,HACD2
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF121
+sars_sars12_control,SARS12,Upregulated genes,HAS2
+sars_sars12_control,SARS12,Downregulated genes,CEACAM1
+sars_sars12_control,SARS12,Differential exon usage,BCAR3
+sars_sars12_control,SARS12,Differential alternative splicing,E2F6
+sars_sars12_control,SARS12,Upregulated genes,CDKN2B
+sars_sars12_control,SARS12,Downregulated genes,SELENOW
+sars_sars12_control,SARS12,Differential exon usage,SPTAN1
+sars_sars12_control,SARS12,Differential alternative splicing,ATXN7
+sars_sars12_control,SARS12,Upregulated genes,GCNT1
+sars_sars12_control,SARS12,Downregulated genes,AL121772.1
+sars_sars12_control,SARS12,Differential exon usage,PDK2
+sars_sars12_control,SARS12,Differential alternative splicing,DPY19L2P2
+sars_sars12_control,SARS12,Upregulated genes,TNC
+sars_sars12_control,SARS12,Downregulated genes,BCAS1
+sars_sars12_control,SARS12,Differential exon usage,CTSA
+sars_sars12_control,SARS12,Differential alternative splicing,CIB2
+sars_sars12_control,SARS12,Upregulated genes,TRAF1
+sars_sars12_control,SARS12,Downregulated genes,YPEL1
+sars_sars12_control,SARS12,Differential exon usage,SPP1
+sars_sars12_control,SARS12,Differential alternative splicing,PDP1
+sars_sars12_control,SARS12,Upregulated genes,ZBTB34
+sars_sars12_control,SARS12,Downregulated genes,GNAZ
+sars_sars12_control,SARS12,Differential exon usage,LUC7L2
+sars_sars12_control,SARS12,Differential alternative splicing,ENDOV
+sars_sars12_control,SARS12,Upregulated genes,JCAD
+sars_sars12_control,SARS12,Downregulated genes,DMC1
+sars_sars12_control,SARS12,Differential exon usage,RBM39
+sars_sars12_control,SARS12,Differential alternative splicing,LINC00174
+sars_sars12_control,SARS12,Upregulated genes,AL117339.4
+sars_sars12_control,SARS12,Downregulated genes,SLC6A14
+sars_sars12_control,SARS12,Differential exon usage,AKT2
+sars_sars12_control,SARS12,Differential alternative splicing,PIP5K1A
+sars_sars12_control,SARS12,Upregulated genes,HSD17B7P2
+sars_sars12_control,SARS12,Differential exon usage,COL27A1
+sars_sars12_control,SARS12,Differential alternative splicing,KDM6A
+sars_sars12_control,SARS12,Upregulated genes,ZNF365
+sars_sars12_control,SARS12,Differential exon usage,XPO1
+sars_sars12_control,SARS12,Differential alternative splicing,MFSD13A
+sars_sars12_control,SARS12,Upregulated genes,AL731563.3
+sars_sars12_control,SARS12,Differential exon usage,EEF1D
+sars_sars12_control,SARS12,Differential alternative splicing,ATXN2
+sars_sars12_control,SARS12,Upregulated genes,PTPRE
+sars_sars12_control,SARS12,Differential exon usage,SCRIB
+sars_sars12_control,SARS12,Differential alternative splicing,RAB18
+sars_sars12_control,SARS12,Upregulated genes,CALCB
+sars_sars12_control,SARS12,Differential exon usage,CDK12
+sars_sars12_control,SARS12,Differential alternative splicing,AMY2B
+sars_sars12_control,SARS12,Upregulated genes,P2RY2
+sars_sars12_control,SARS12,Differential exon usage,ANXA4
+sars_sars12_control,SARS12,Differential alternative splicing,EME2
+sars_sars12_control,SARS12,Upregulated genes,RAB30
+sars_sars12_control,SARS12,Differential exon usage,RNASEH2B
+sars_sars12_control,SARS12,Differential alternative splicing,ANKRD36C
+sars_sars12_control,SARS12,Upregulated genes,MMP1
+sars_sars12_control,SARS12,Differential exon usage,CSRP1
+sars_sars12_control,SARS12,Differential alternative splicing,NAV3
+sars_sars12_control,SARS12,Upregulated genes,ALKBH8
+sars_sars12_control,SARS12,Differential exon usage,PRR13
+sars_sars12_control,SARS12,Differential alternative splicing,KLHDC4
+sars_sars12_control,SARS12,Upregulated genes,ADAMTS15
+sars_sars12_control,SARS12,Differential exon usage,MXD4
+sars_sars12_control,SARS12,Differential alternative splicing,ADAMTSL5
+sars_sars12_control,SARS12,Upregulated genes,VAMP1
+sars_sars12_control,SARS12,Differential exon usage,SLC44A4
+sars_sars12_control,SARS12,Differential alternative splicing,MTARC1
+sars_sars12_control,SARS12,Upregulated genes,PTHLH
+sars_sars12_control,SARS12,Differential exon usage,UCA1
+sars_sars12_control,SARS12,Differential alternative splicing,CLASP1
+sars_sars12_control,SARS12,Upregulated genes,RPSAP52
+sars_sars12_control,SARS12,Differential exon usage,ACSF2
+sars_sars12_control,SARS12,Differential alternative splicing,MATR3
+sars_sars12_control,SARS12,Upregulated genes,SOCS2
+sars_sars12_control,SARS12,Differential exon usage,EBLN3P
+sars_sars12_control,SARS12,Differential alternative splicing,PSPH
+sars_sars12_control,SARS12,Upregulated genes,HCFC2
+sars_sars12_control,SARS12,Differential exon usage,PIGT
+sars_sars12_control,SARS12,Differential alternative splicing,DNALI1
+sars_sars12_control,SARS12,Upregulated genes,NUAK1
+sars_sars12_control,SARS12,Differential exon usage,PPIA
+sars_sars12_control,SARS12,Differential alternative splicing,MIR924HG
+sars_sars12_control,SARS12,Upregulated genes,MVK
+sars_sars12_control,SARS12,Differential exon usage,KIAA0895
+sars_sars12_control,SARS12,Differential alternative splicing,KIAA1328
+sars_sars12_control,SARS12,Upregulated genes,OAS2
+sars_sars12_control,SARS12,Differential exon usage,CTSD
+sars_sars12_control,SARS12,Differential alternative splicing,ELL2
+sars_sars12_control,SARS12,Upregulated genes,USPL1
+sars_sars12_control,SARS12,Differential exon usage,TPM4
+sars_sars12_control,SARS12,Differential alternative splicing,AL390879.1
+sars_sars12_control,SARS12,Upregulated genes,MEDAG
+sars_sars12_control,SARS12,Differential exon usage,INTS14
+sars_sars12_control,SARS12,Differential alternative splicing,CLN6
+sars_sars12_control,SARS12,Upregulated genes,IRF9
+sars_sars12_control,SARS12,Differential exon usage,MGST3
+sars_sars12_control,SARS12,Differential alternative splicing,LINC00662
+sars_sars12_control,SARS12,Upregulated genes,FRMD6
+sars_sars12_control,SARS12,Differential exon usage,MVK
+sars_sars12_control,SARS12,Differential alternative splicing,MCOLN3
+sars_sars12_control,SARS12,Upregulated genes,LTBP2
+sars_sars12_control,SARS12,Differential exon usage,TPT1
+sars_sars12_control,SARS12,Differential alternative splicing,ZFAND2A-DT
+sars_sars12_control,SARS12,Upregulated genes,DIO3OS
+sars_sars12_control,SARS12,Differential exon usage,COQ8B
+sars_sars12_control,SARS12,Differential alternative splicing,FAM86B1
+sars_sars12_control,SARS12,Upregulated genes,DIO3
+sars_sars12_control,SARS12,Differential exon usage,GUK1
+sars_sars12_control,SARS12,Differential alternative splicing,CATSPER1
+sars_sars12_control,SARS12,Upregulated genes,HERC2P3
+sars_sars12_control,SARS12,Differential exon usage,ITPR1
+sars_sars12_control,SARS12,Differential alternative splicing,MAMDC4
+sars_sars12_control,SARS12,Upregulated genes,HERC2P2
+sars_sars12_control,SARS12,Differential exon usage,LAMB1
+sars_sars12_control,SARS12,Differential alternative splicing,ARHGAP12
+sars_sars12_control,SARS12,Upregulated genes,SHC4
+sars_sars12_control,SARS12,Differential exon usage,POLD4
+sars_sars12_control,SARS12,Differential alternative splicing,COBL
+sars_sars12_control,SARS12,Upregulated genes,SEMA7A
+sars_sars12_control,SARS12,Differential exon usage,ANKRA2
+sars_sars12_control,SARS12,Differential alternative splicing,CEP290
+sars_sars12_control,SARS12,Upregulated genes,ARID3B
+sars_sars12_control,SARS12,Differential exon usage,MVD
+sars_sars12_control,SARS12,Differential alternative splicing,DMTF1
+sars_sars12_control,SARS12,Upregulated genes,MEX3B
+sars_sars12_control,SARS12,Differential exon usage,SPECC1
+sars_sars12_control,SARS12,Differential alternative splicing,VEPH1
+sars_sars12_control,SARS12,Upregulated genes,BMERB1
+sars_sars12_control,SARS12,Differential exon usage,SECISBP2
+sars_sars12_control,SARS12,Differential alternative splicing,LINC00511
+sars_sars12_control,SARS12,Upregulated genes,SMG1P5
+sars_sars12_control,SARS12,Differential exon usage,TMEM129
+sars_sars12_control,SARS12,Differential alternative splicing,NAT1
+sars_sars12_control,SARS12,Upregulated genes,PDP2
+sars_sars12_control,SARS12,Differential exon usage,FAM135A
+sars_sars12_control,SARS12,Differential alternative splicing,LINC02532
+sars_sars12_control,SARS12,Upregulated genes,FOXC2
+sars_sars12_control,SARS12,Differential exon usage,TBRG4
+sars_sars12_control,SARS12,Differential alternative splicing,LINC00944
+sars_sars12_control,SARS12,Upregulated genes,XAF1
+sars_sars12_control,SARS12,Differential exon usage,ATF2
+sars_sars12_control,SARS12,Differential alternative splicing,MTIF3
+sars_sars12_control,SARS12,Upregulated genes,B4GALNT2
+sars_sars12_control,SARS12,Differential exon usage,AKR1B1
+sars_sars12_control,SARS12,Differential alternative splicing,PDZD8
+sars_sars12_control,SARS12,Upregulated genes,FHOD3
+sars_sars12_control,SARS12,Differential exon usage,HDAC8
+sars_sars12_control,SARS12,Differential alternative splicing,AL359715.1
+sars_sars12_control,SARS12,Upregulated genes,SMAD7
+sars_sars12_control,SARS12,Differential exon usage,AGAP3
+sars_sars12_control,SARS12,Differential alternative splicing,LINC01504
+sars_sars12_control,SARS12,Upregulated genes,LIPG
+sars_sars12_control,SARS12,Differential exon usage,SH3GLB1
+sars_sars12_control,SARS12,Differential alternative splicing,AC107294.2
+sars_sars12_control,SARS12,Upregulated genes,ZNF555
+sars_sars12_control,SARS12,Differential exon usage,ZNF257
+sars_sars12_control,SARS12,Differential alternative splicing,TRPC1
+sars_sars12_control,SARS12,Upregulated genes,ANGPTL4
+sars_sars12_control,SARS12,Differential exon usage,NCBP2
+sars_sars12_control,SARS12,Differential alternative splicing,DCAF6
+sars_sars12_control,SARS12,Upregulated genes,ZNF627
+sars_sars12_control,SARS12,Differential exon usage,TMEM132A
+sars_sars12_control,SARS12,Differential alternative splicing,ZC3H14
+sars_sars12_control,SARS12,Upregulated genes,ZFP14
+sars_sars12_control,SARS12,Differential exon usage,MAPKAPK5
+sars_sars12_control,SARS12,Differential alternative splicing,PPP3CB-AS1
+sars_sars12_control,SARS12,Upregulated genes,ZNF420
+sars_sars12_control,SARS12,Differential exon usage,SAR1A
+sars_sars12_control,SARS12,Differential alternative splicing,GALNT14
+sars_sars12_control,SARS12,Upregulated genes,ZNF585A
+sars_sars12_control,SARS12,Differential exon usage,SUMF2
+sars_sars12_control,SARS12,Differential alternative splicing,TRIM37
+sars_sars12_control,SARS12,Upregulated genes,LYPD3
+sars_sars12_control,SARS12,Differential exon usage,ENO1
+sars_sars12_control,SARS12,Differential alternative splicing,RBM27
+sars_sars12_control,SARS12,Upregulated genes,ZNF230
+sars_sars12_control,SARS12,Differential exon usage,PDS5B
+sars_sars12_control,SARS12,Differential alternative splicing,DTX2P1-UPK3BP1-PMS2P11
+sars_sars12_control,SARS12,Upregulated genes,CGB5
+sars_sars12_control,SARS12,Differential exon usage,ZNF75D
+sars_sars12_control,SARS12,Differential alternative splicing,CYRIB
+sars_sars12_control,SARS12,Upregulated genes,CGB7
+sars_sars12_control,SARS12,Differential exon usage,PCBP2
+sars_sars12_control,SARS12,Differential alternative splicing,SPDL1
+sars_sars12_control,SARS12,Upregulated genes,IL11
+sars_sars12_control,SARS12,Differential exon usage,GMDS-DT
+sars_sars12_control,SARS12,Differential alternative splicing,SS18
+sars_sars12_control,SARS12,Upregulated genes,FLRT3
+sars_sars12_control,SARS12,Differential exon usage,RBMS1
+sars_sars12_control,SARS12,Differential alternative splicing,LAMA2
+sars_sars12_control,SARS12,Upregulated genes,ACSS2
+sars_sars12_control,SARS12,Differential exon usage,BX890604.1
+sars_sars12_control,SARS12,Differential alternative splicing,SLCO1B3-SLCO1B7
+sars_sars12_control,SARS12,Upregulated genes,ZSWIM3
+sars_sars12_control,SARS12,Differential exon usage,ENOSF1
+sars_sars12_control,SARS12,Differential alternative splicing,SH3TC2
+sars_sars12_control,SARS12,Upregulated genes,AP000695.1
+sars_sars12_control,SARS12,Differential exon usage,ZNF585A
+sars_sars12_control,SARS12,Differential alternative splicing,BOLA2-SMG1P6
+sars_sars12_control,SARS12,Upregulated genes,MX1
+sars_sars12_control,SARS12,Differential exon usage,FDFT1
+sars_sars12_control,SARS12,Differential alternative splicing,BDH1
+sars_sars12_control,SARS12,Upregulated genes,AC245060.5
+sars_sars12_control,SARS12,Differential exon usage,TMEM106C
+sars_sars12_control,SARS12,Differential alternative splicing,MTRF1
+sars_sars12_control,SARS12,Upregulated genes,PNPLA3
+sars_sars12_control,SARS12,Differential exon usage,AP2A1
+sars_sars12_control,SARS12,Differential alternative splicing,MYLIP
+sars_sars12_control,SARS12,Upregulated genes,GCNA
+sars_sars12_control,SARS12,Differential exon usage,LRRC14
+sars_sars12_control,SARS12,Differential alternative splicing,TMEM218
+sars_sars12_control,SARS12,Upregulated genes,TMSB15B-AS1
+sars_sars12_control,SARS12,Differential exon usage,PIP5K1A
+sars_sars12_control,SARS12,Differential alternative splicing,YEATS2
+sars_sars12_control,SARS12,Upregulated genes,ZNF449
+sars_sars12_control,SARS12,Differential exon usage,GARS1
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF283
+sars_sars12_control,SARS12,Differential exon usage,PDGFC
+sars_sars12_control,SARS12,Differential alternative splicing,LARP7
+sars_sars12_control,SARS12,Differential exon usage,SSH2
+sars_sars12_control,SARS12,Differential alternative splicing,COBLL1
+sars_sars12_control,SARS12,Differential exon usage,RTN4
+sars_sars12_control,SARS12,Differential alternative splicing,ATF2
+sars_sars12_control,SARS12,Differential exon usage,CXCL8
+sars_sars12_control,SARS12,Differential alternative splicing,HMGCR
+sars_sars12_control,SARS12,Differential exon usage,METTL5
+sars_sars12_control,SARS12,Differential alternative splicing,HEATR6
+sars_sars12_control,SARS12,Differential exon usage,TENT2
+sars_sars12_control,SARS12,Differential alternative splicing,TCF7L2
+sars_sars12_control,SARS12,Differential exon usage,ERCC3
+sars_sars12_control,SARS12,Differential alternative splicing,ECHDC2
+sars_sars12_control,SARS12,Differential exon usage,PHF20L1
+sars_sars12_control,SARS12,Differential alternative splicing,BIN1
+sars_sars12_control,SARS12,Differential exon usage,P4HA2
+sars_sars12_control,SARS12,Differential alternative splicing,MFSD14C
+sars_sars12_control,SARS12,Differential exon usage,ATXN2
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF789
+sars_sars12_control,SARS12,Differential exon usage,EIF3D
+sars_sars12_control,SARS12,Differential alternative splicing,ARHGAP44
+sars_sars12_control,SARS12,Differential exon usage,SLC20A1
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF461
+sars_sars12_control,SARS12,Differential exon usage,TRAIP
+sars_sars12_control,SARS12,Differential alternative splicing,HDX
+sars_sars12_control,SARS12,Differential exon usage,YEATS2
+sars_sars12_control,SARS12,Differential alternative splicing,CTSC
+sars_sars12_control,SARS12,Differential exon usage,DNAJB6
+sars_sars12_control,SARS12,Differential alternative splicing,CREM
+sars_sars12_control,SARS12,Differential exon usage,TSC22D4
+sars_sars12_control,SARS12,Differential alternative splicing,SERPINA1
+sars_sars12_control,SARS12,Differential exon usage,ATXN7
+sars_sars12_control,SARS12,Differential alternative splicing,GNE
+sars_sars12_control,SARS12,Differential exon usage,GNAS
+sars_sars12_control,SARS12,Differential alternative splicing,PVT1
+sars_sars12_control,SARS12,Differential exon usage,VRK2
+sars_sars12_control,SARS12,Differential alternative splicing,SPATS2
+sars_sars12_control,SARS12,Differential exon usage,SREBF1
+sars_sars12_control,SARS12,Differential alternative splicing,CANT1
+sars_sars12_control,SARS12,Differential exon usage,NRG1
+sars_sars12_control,SARS12,Differential alternative splicing,CYB5R4
+sars_sars12_control,SARS12,Differential exon usage,LDHA
+sars_sars12_control,SARS12,Differential alternative splicing,ABI3BP
+sars_sars12_control,SARS12,Differential exon usage,ZNF45
+sars_sars12_control,SARS12,Differential alternative splicing,SLC3A2
+sars_sars12_control,SARS12,Differential exon usage,ZMYM2
+sars_sars12_control,SARS12,Differential alternative splicing,FAM193B
+sars_sars12_control,SARS12,Differential exon usage,TCF19
+sars_sars12_control,SARS12,Differential alternative splicing,RNPEPL1
+sars_sars12_control,SARS12,Differential exon usage,SMC6
+sars_sars12_control,SARS12,Differential alternative splicing,REPS1
+sars_sars12_control,SARS12,Differential exon usage,CCS
+sars_sars12_control,SARS12,Differential alternative splicing,FAM13A
+sars_sars12_control,SARS12,Differential exon usage,MUC20-OT1
+sars_sars12_control,SARS12,Differential alternative splicing,RPS24
+sars_sars12_control,SARS12,Differential exon usage,MIR4435-2HG
+sars_sars12_control,SARS12,Differential alternative splicing,FAM104A
+sars_sars12_control,SARS12,Differential exon usage,MICAL3
+sars_sars12_control,SARS12,Differential alternative splicing,RBM4
+sars_sars12_control,SARS12,Differential exon usage,TIA1
+sars_sars12_control,SARS12,Differential alternative splicing,PAK4
+sars_sars12_control,SARS12,Differential exon usage,STK25
+sars_sars12_control,SARS12,Differential alternative splicing,CRACD
+sars_sars12_control,SARS12,Differential exon usage,INO80C
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF28
+sars_sars12_control,SARS12,Differential exon usage,TSEN54
+sars_sars12_control,SARS12,Differential alternative splicing,ATRX
+sars_sars12_control,SARS12,Differential exon usage,ETNK1
+sars_sars12_control,SARS12,Differential alternative splicing,MCM9
+sars_sars12_control,SARS12,Differential exon usage,PPIC
+sars_sars12_control,SARS12,Differential alternative splicing,CEP72
+sars_sars12_control,SARS12,Differential exon usage,ELL2
+sars_sars12_control,SARS12,Differential alternative splicing,PRKAB2
+sars_sars12_control,SARS12,Differential exon usage,ZNF420
+sars_sars12_control,SARS12,Differential alternative splicing,SCML1
+sars_sars12_control,SARS12,Differential exon usage,GDE1
+sars_sars12_control,SARS12,Differential alternative splicing,UBE2B
+sars_sars12_control,SARS12,Differential exon usage,IFT52
+sars_sars12_control,SARS12,Differential alternative splicing,ZC3H18
+sars_sars12_control,SARS12,Differential exon usage,SETD5
+sars_sars12_control,SARS12,Differential alternative splicing,CASC19
+sars_sars12_control,SARS12,Differential exon usage,PHF12
+sars_sars12_control,SARS12,Differential alternative splicing,CCNT2
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF706
+sars_sars12_control,SARS12,Differential alternative splicing,SHF
+sars_sars12_control,SARS12,Differential alternative splicing,FAM111A
+sars_sars12_control,SARS12,Differential alternative splicing,AC002066.1
+sars_sars12_control,SARS12,Differential alternative splicing,SH3TC1
+sars_sars12_control,SARS12,Differential alternative splicing,PCMTD2
+sars_sars12_control,SARS12,Differential alternative splicing,NRM
+sars_sars12_control,SARS12,Differential alternative splicing,SIN3A
+sars_sars12_control,SARS12,Differential alternative splicing,SPATA6L
+sars_sars12_control,SARS12,Differential alternative splicing,SMUG1
+sars_sars12_control,SARS12,Differential alternative splicing,NCAPG
+sars_sars12_control,SARS12,Differential alternative splicing,AAK1
+sars_sars12_control,SARS12,Differential alternative splicing,ITGB3BP
+sars_sars12_control,SARS12,Differential alternative splicing,SPRY4
+sars_sars12_control,SARS12,Differential alternative splicing,COL22A1
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF620
+sars_sars12_control,SARS12,Differential alternative splicing,SUB1
+sars_sars12_control,SARS12,Differential alternative splicing,TCAF1
+sars_sars12_control,SARS12,Differential alternative splicing,CTNND1
+sars_sars12_control,SARS12,Differential alternative splicing,NSUN7
+sars_sars12_control,SARS12,Differential alternative splicing,SETD5
+sars_sars12_control,SARS12,Differential alternative splicing,NUP58
+sars_sars12_control,SARS12,Differential alternative splicing,ZCWPW1
+sars_sars12_control,SARS12,Differential alternative splicing,SUGCT
+sars_sars12_control,SARS12,Differential alternative splicing,ZBTB1
+sars_sars12_control,SARS12,Differential alternative splicing,EPHA1
+sars_sars12_control,SARS12,Differential alternative splicing,CEP63
+sars_sars12_control,SARS12,Differential alternative splicing,CBWD5
+sars_sars12_control,SARS12,Differential alternative splicing,DTX2
+sars_sars12_control,SARS12,Differential alternative splicing,FAM86B2
+sars_sars12_control,SARS12,Differential alternative splicing,PCBP1-AS1
+sars_sars12_control,SARS12,Differential alternative splicing,NUDT7
+sars_sars12_control,SARS12,Differential alternative splicing,TK2
+sars_sars12_control,SARS12,Differential alternative splicing,SGCB
+sars_sars12_control,SARS12,Differential alternative splicing,ALKBH3
+sars_sars12_control,SARS12,Differential alternative splicing,USP45
+sars_sars12_control,SARS12,Differential alternative splicing,DPP8
+sars_sars12_control,SARS12,Differential alternative splicing,TNXB
+sars_sars12_control,SARS12,Differential alternative splicing,BCORL1
+sars_sars12_control,SARS12,Differential alternative splicing,ENO1
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF26
+sars_sars12_control,SARS12,Differential alternative splicing,BX664727.3
+sars_sars12_control,SARS12,Differential alternative splicing,SLC25A23
+sars_sars12_control,SARS12,Differential alternative splicing,SLC9B2
+sars_sars12_control,SARS12,Differential alternative splicing,PSMA3-AS1
+sars_sars12_control,SARS12,Differential alternative splicing,SQSTM1
+sars_sars12_control,SARS12,Differential alternative splicing,ATP9B
+sars_sars12_control,SARS12,Differential alternative splicing,R3HCC1L
+sars_sars12_control,SARS12,Differential alternative splicing,RNF34
+sars_sars12_control,SARS12,Differential alternative splicing,TLCD2
+sars_sars12_control,SARS12,Differential alternative splicing,MLX
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF81
+sars_sars12_control,SARS12,Differential alternative splicing,CHD9
+sars_sars12_control,SARS12,Differential alternative splicing,TLCD4-RWDD3
+sars_sars12_control,SARS12,Differential alternative splicing,PTGR2
+sars_sars12_control,SARS12,Differential alternative splicing,CAMTA1
+sars_sars12_control,SARS12,Differential alternative splicing,IKZF4
+sars_sars12_control,SARS12,Differential alternative splicing,PEX11A
+sars_sars12_control,SARS12,Differential alternative splicing,BPGM
+sars_sars12_control,SARS12,Differential alternative splicing,AGO4
+sars_sars12_control,SARS12,Differential alternative splicing,TAF5
+sars_sars12_control,SARS12,Differential alternative splicing,CYP20A1
+sars_sars12_control,SARS12,Differential alternative splicing,ELAVL1
+sars_sars12_control,SARS12,Differential alternative splicing,AGMO
+sars_sars12_control,SARS12,Differential alternative splicing,CCDC58
+sars_sars12_control,SARS12,Differential alternative splicing,IGFLR1
+sars_sars12_control,SARS12,Differential alternative splicing,AC080013.1
+sars_sars12_control,SARS12,Differential alternative splicing,F3
+sars_sars12_control,SARS12,Differential alternative splicing,RUNX1
+sars_sars12_control,SARS12,Differential alternative splicing,EFCAB6
+sars_sars12_control,SARS12,Differential alternative splicing,MICAL1
+sars_sars12_control,SARS12,Differential alternative splicing,CLDND1
+sars_sars12_control,SARS12,Differential alternative splicing,CHEK2
+sars_sars12_control,SARS12,Differential alternative splicing,EVI5
+sars_sars12_control,SARS12,Differential alternative splicing,C6orf52
+sars_sars12_control,SARS12,Differential alternative splicing,HPS1
+sars_sars12_control,SARS12,Differential alternative splicing,RFC5
+sars_sars12_control,SARS12,Differential alternative splicing,MUC20-OT1
+sars_sars12_control,SARS12,Differential alternative splicing,TP53I3
+sars_sars12_control,SARS12,Differential alternative splicing,PHF20
+sars_sars12_control,SARS12,Differential alternative splicing,MAP4K3-DT
+sars_sars12_control,SARS12,Differential alternative splicing,DNHD1
+sars_sars12_control,SARS12,Differential alternative splicing,INSR
+sars_sars12_control,SARS12,Differential alternative splicing,CEP57L1
+sars_sars12_control,SARS12,Differential alternative splicing,RPGRIP1L
+sars_sars12_control,SARS12,Differential alternative splicing,VEGFA
+sars_sars12_control,SARS12,Differential alternative splicing,AC124242.1
+sars_sars12_control,SARS12,Differential alternative splicing,NPIPB4
+sars_sars12_control,SARS12,Differential alternative splicing,C1orf43
+sars_sars12_control,SARS12,Differential alternative splicing,ARPC1B
+sars_sars12_control,SARS12,Differential alternative splicing,TUBA5P
+sars_sars12_control,SARS12,Differential alternative splicing,CHMP7
+sars_sars12_control,SARS12,Differential alternative splicing,C1D
+sars_sars12_control,SARS12,Differential alternative splicing,RPL18A
+sars_sars12_control,SARS12,Differential alternative splicing,XRRA1
+sars_sars12_control,SARS12,Differential alternative splicing,SRSF11
+sars_sars12_control,SARS12,Differential alternative splicing,FKRP
+sars_sars12_control,SARS12,Differential alternative splicing,MACC1
+sars_sars12_control,SARS12,Differential alternative splicing,PGAP2
+sars_sars12_control,SARS12,Differential alternative splicing,RNF121
+sars_sars12_control,SARS12,Differential alternative splicing,AC245041.2
+sars_sars12_control,SARS12,Differential alternative splicing,NBEAL1
+sars_sars12_control,SARS12,Differential alternative splicing,USF1
+sars_sars12_control,SARS12,Differential alternative splicing,INTS4
+sars_sars12_control,SARS12,Differential alternative splicing,CATSPERB
+sars_sars12_control,SARS12,Differential alternative splicing,HNRNPLL
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF317
+sars_sars12_control,SARS12,Differential alternative splicing,DAG1
+sars_sars12_control,SARS12,Differential alternative splicing,TOPORS
+sars_sars12_control,SARS12,Differential alternative splicing,DDX43
+sars_sars12_control,SARS12,Differential alternative splicing,AP1S2
+sars_sars12_control,SARS12,Differential alternative splicing,CLHC1
+sars_sars12_control,SARS12,Differential alternative splicing,MAPK9
+sars_sars12_control,SARS12,Differential alternative splicing,ARSJ
+sars_sars12_control,SARS12,Differential alternative splicing,PRKCD
+sars_sars12_control,SARS12,Differential alternative splicing,UBE2J2
+sars_sars12_control,SARS12,Differential alternative splicing,HMGA2
+sars_sars12_control,SARS12,Differential alternative splicing,SLC30A6
+sars_sars12_control,SARS12,Differential alternative splicing,FLOT2
+sars_sars12_control,SARS12,Differential alternative splicing,SCMH1
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF615
+sars_sars12_control,SARS12,Differential alternative splicing,TRIM66
+sars_sars12_control,SARS12,Differential alternative splicing,GRB10
+sars_sars12_control,SARS12,Differential alternative splicing,GLCE
+sars_sars12_control,SARS12,Differential alternative splicing,TRMT11
+sars_sars12_control,SARS12,Differential alternative splicing,SERPINH1
+sars_sars12_control,SARS12,Differential alternative splicing,NR2F1-AS1
+sars_sars12_control,SARS12,Differential alternative splicing,PHF19
+sars_sars12_control,SARS12,Differential alternative splicing,TMEM168
+sars_sars12_control,SARS12,Differential alternative splicing,CCDC18
+sars_sars12_control,SARS12,Differential alternative splicing,SPEN
+sars_sars12_control,SARS12,Differential alternative splicing,IP6K2
+sars_sars12_control,SARS12,Differential alternative splicing,GALK2
+sars_sars12_control,SARS12,Differential alternative splicing,FAM86C1P
+sars_sars12_control,SARS12,Differential alternative splicing,TRIM26
+sars_sars12_control,SARS12,Differential alternative splicing,FBXW11
+sars_sars12_control,SARS12,Differential alternative splicing,B4GALT4
+sars_sars12_control,SARS12,Differential alternative splicing,UHRF2
+sars_sars12_control,SARS12,Differential alternative splicing,GCFC2
+sars_sars12_control,SARS12,Differential alternative splicing,PLEKHA1
+sars_sars12_control,SARS12,Differential alternative splicing,BACH2
+sars_sars12_control,SARS12,Differential alternative splicing,PANK4
+sars_sars12_control,SARS12,Differential alternative splicing,CD44
+sars_sars12_control,SARS12,Differential alternative splicing,INMT-MINDY4
+sars_sars12_control,SARS12,Differential alternative splicing,TRIM33
+sars_sars12_control,SARS12,Differential alternative splicing,ANKRD36
+sars_sars12_control,SARS12,Differential alternative splicing,AC022784.1
+sars_sars12_control,SARS12,Differential alternative splicing,NT5C2
+sars_sars12_control,SARS12,Differential alternative splicing,GMDS-DT
+sars_sars12_control,SARS12,Differential alternative splicing,FBXL12
+sars_sars12_control,SARS12,Differential alternative splicing,RBM23
+sars_sars12_control,SARS12,Differential alternative splicing,LINS1
+sars_sars12_control,SARS12,Differential alternative splicing,PHOSPHO2
+sars_sars12_control,SARS12,Differential alternative splicing,AC069544.2
+sars_sars12_control,SARS12,Differential alternative splicing,SPATA13
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF568
+sars_sars12_control,SARS12,Differential alternative splicing,SPIRE1
+sars_sars12_control,SARS12,Differential alternative splicing,ITSN2
+sars_sars12_control,SARS12,Differential alternative splicing,CEP164
+sars_sars12_control,SARS12,Differential alternative splicing,SERTAD4
+sars_sars12_control,SARS12,Differential alternative splicing,RPF2
+sars_sars12_control,SARS12,Differential alternative splicing,PRKG1-AS1
+sars_sars12_control,SARS12,Differential alternative splicing,IFT80
+sars_sars12_control,SARS12,Differential alternative splicing,GLUL
+sars_sars12_control,SARS12,Differential alternative splicing,ARID4B
+sars_sars12_control,SARS12,Differential alternative splicing,FHL2
+sars_sars12_control,SARS12,Differential alternative splicing,FAM200B
+sars_sars12_control,SARS12,Differential alternative splicing,FIP1L1
+sars_sars12_control,SARS12,Differential alternative splicing,INVS
+sars_sars12_control,SARS12,Differential alternative splicing,FAM86FP
+sars_sars12_control,SARS12,Differential alternative splicing,THSD1
+sars_sars12_control,SARS12,Differential alternative splicing,BCAP29
+sars_sars12_control,SARS12,Differential alternative splicing,DNM1
+sars_sars12_control,SARS12,Differential alternative splicing,SEC23B
+sars_sars12_control,SARS12,Differential alternative splicing,PEX7
+sars_sars12_control,SARS12,Differential alternative splicing,MKRN2OS
+sars_sars12_control,SARS12,Differential alternative splicing,ZDHHC7
+sars_sars12_control,SARS12,Differential alternative splicing,HIPK3
+sars_sars12_control,SARS12,Differential alternative splicing,MIR4435-2HG
+sars_sars12_control,SARS12,Differential alternative splicing,SDR42E1
+sars_sars12_control,SARS12,Differential alternative splicing,AGAP4
+sars_sars12_control,SARS12,Differential alternative splicing,LTN1
+sars_sars12_control,SARS12,Differential alternative splicing,SLC15A2
+sars_sars12_control,SARS12,Differential alternative splicing,KCNN4
+sars_sars12_control,SARS12,Differential alternative splicing,KMT2A
+sars_sars12_control,SARS12,Differential alternative splicing,XAF1
+sars_sars12_control,SARS12,Differential alternative splicing,FANCI
+sars_sars12_control,SARS12,Differential alternative splicing,DMKN
+sars_sars12_control,SARS12,Differential alternative splicing,TBL1XR1
+sars_sars12_control,SARS12,Differential alternative splicing,TBC1D14
+sars_sars12_control,SARS12,Differential alternative splicing,TARBP1
+sars_sars12_control,SARS12,Differential alternative splicing,TOGARAM1
+sars_sars12_control,SARS12,Differential alternative splicing,MLLT10
+sars_sars12_control,SARS12,Differential alternative splicing,SLC35B3
+sars_sars12_control,SARS12,Differential alternative splicing,NCAM1
+sars_sars12_control,SARS12,Differential alternative splicing,KATNAL2
+sars_sars12_control,SARS12,Differential alternative splicing,RERE
+sars_sars12_control,SARS12,Differential alternative splicing,SPRED2
+sars_sars12_control,SARS12,Differential alternative splicing,DDX46
+sars_sars12_control,SARS12,Differential alternative splicing,HSF2
+sars_sars12_control,SARS12,Differential alternative splicing,AC108488.1
+sars_sars12_control,SARS12,Differential alternative splicing,EEF1D
+sars_sars12_control,SARS12,Differential alternative splicing,ANKS3
+sars_sars12_control,SARS12,Differential alternative splicing,MED13
+sars_sars12_control,SARS12,Differential alternative splicing,FBXL5
+sars_sars12_control,SARS12,Differential alternative splicing,CPEB2
+sars_sars12_control,SARS12,Differential alternative splicing,FAM160A1
+sars_sars12_control,SARS12,Differential alternative splicing,GLT8D1
+sars_sars12_control,SARS12,Differential alternative splicing,WASF1
+sars_sars12_control,SARS12,Differential alternative splicing,NFYC
+sars_sars12_control,SARS12,Differential alternative splicing,PSTK
+sars_sars12_control,SARS12,Differential alternative splicing,CLCN3
+sars_sars12_control,SARS12,Differential alternative splicing,PTK6
+sars_sars12_control,SARS12,Differential alternative splicing,STYXL1
+sars_sars12_control,SARS12,Differential alternative splicing,NSMCE1
+sars_sars12_control,SARS12,Differential alternative splicing,VRK2
+sars_sars12_control,SARS12,Differential alternative splicing,ARHGAP32
+sars_sars12_control,SARS12,Differential alternative splicing,SLC25A19
+sars_sars12_control,SARS12,Differential alternative splicing,TANK
+sars_sars12_control,SARS12,Differential alternative splicing,ZEB1
+sars_sars12_control,SARS12,Differential alternative splicing,STK40
+sars_sars12_control,SARS12,Differential alternative splicing,PRSS36
+sars_sars12_control,SARS12,Differential alternative splicing,ANKRD6
+sars_sars12_control,SARS12,Differential alternative splicing,MDN1
+sars_sars12_control,SARS12,Differential alternative splicing,NOD1
+sars_sars12_control,SARS12,Differential alternative splicing,DDX50
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF343
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF569
+sars_sars12_control,SARS12,Differential alternative splicing,DNAJB6
+sars_sars12_control,SARS12,Differential alternative splicing,AFMID
+sars_sars12_control,SARS12,Differential alternative splicing,CA12
+sars_sars12_control,SARS12,Differential alternative splicing,MUTYH
+sars_sars12_control,SARS12,Differential alternative splicing,MEGF6
+sars_sars12_control,SARS12,Differential alternative splicing,DNMT3B
+sars_sars12_control,SARS12,Differential alternative splicing,TOP3B
+sars_sars12_control,SARS12,Differential alternative splicing,AHDC1
+sars_sars12_control,SARS12,Differential alternative splicing,PLOD2
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF652
+sars_sars12_control,SARS12,Differential alternative splicing,ACBD4
+sars_sars12_control,SARS12,Differential alternative splicing,G3BP2
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF599
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF875
+sars_sars12_control,SARS12,Differential alternative splicing,XPNPEP3
+sars_sars12_control,SARS12,Differential alternative splicing,APH1B
+sars_sars12_control,SARS12,Differential alternative splicing,KIAA0319
+sars_sars12_control,SARS12,Differential alternative splicing,PACRGL
+sars_sars12_control,SARS12,Differential alternative splicing,CARS2
+sars_sars12_control,SARS12,Differential alternative splicing,KMT2E
+sars_sars12_control,SARS12,Differential alternative splicing,TRMT2B
+sars_sars12_control,SARS12,Differential alternative splicing,MAP3K15
+sars_sars12_control,SARS12,Differential alternative splicing,RAD51AP1
+sars_sars12_control,SARS12,Differential alternative splicing,DPY19L1P1
+sars_sars12_control,SARS12,Differential alternative splicing,XPO1
+sars_sars12_control,SARS12,Differential alternative splicing,NBPF26
+sars_sars12_control,SARS12,Differential alternative splicing,LARP4
+sars_sars12_control,SARS12,Differential alternative splicing,KLHL8
+sars_sars12_control,SARS12,Differential alternative splicing,TRIM2
+sars_sars12_control,SARS12,Differential alternative splicing,PHACTR4
+sars_sars12_control,SARS12,Differential alternative splicing,AMBRA1
+sars_sars12_control,SARS12,Differential alternative splicing,NRIP1
+sars_sars12_control,SARS12,Differential alternative splicing,MIOS
+sars_sars12_control,SARS12,Differential alternative splicing,EIF4G1
+sars_sars12_control,SARS12,Differential alternative splicing,CSAD
+sars_sars12_control,SARS12,Differential alternative splicing,RNF217
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF573
+sars_sars12_control,SARS12,Differential alternative splicing,MYL12A
+sars_sars12_control,SARS12,Differential alternative splicing,WDR35
+sars_sars12_control,SARS12,Differential alternative splicing,RBM39
+sars_sars12_control,SARS12,Differential alternative splicing,TASP1
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF551
+sars_sars12_control,SARS12,Differential alternative splicing,RAPH1
+sars_sars12_control,SARS12,Differential alternative splicing,PPP1R1C
+sars_sars12_control,SARS12,Differential alternative splicing,NSRP1
+sars_sars12_control,SARS12,Differential alternative splicing,ATG16L2
+sars_sars12_control,SARS12,Differential alternative splicing,CYB5RL
+sars_sars12_control,SARS12,Differential alternative splicing,TP53INP1
+sars_sars12_control,SARS12,Differential alternative splicing,KRBOX4
+sars_sars12_control,SARS12,Differential alternative splicing,MYO15B
+sars_sars12_control,SARS12,Differential alternative splicing,STXBP5
+sars_sars12_control,SARS12,Differential alternative splicing,ELMOD3
+sars_sars12_control,SARS12,Differential alternative splicing,MPV17
+sars_sars12_control,SARS12,Differential alternative splicing,RNF7
+sars_sars12_control,SARS12,Differential alternative splicing,ENTR1
+sars_sars12_control,SARS12,Differential alternative splicing,NUP50-DT
+sars_sars12_control,SARS12,Differential alternative splicing,LINC00667
+sars_sars12_control,SARS12,Differential alternative splicing,ARHGEF10
+sars_sars12_control,SARS12,Differential alternative splicing,FAM13B
+sars_sars12_control,SARS12,Differential alternative splicing,MOK
+sars_sars12_control,SARS12,Differential alternative splicing,EPN2
+sars_sars12_control,SARS12,Differential alternative splicing,SORBS2
+sars_sars12_control,SARS12,Differential alternative splicing,SENP7
+sars_sars12_control,SARS12,Differential alternative splicing,TSEN15
+sars_sars12_control,SARS12,Differential alternative splicing,EXD3
+sars_sars12_control,SARS12,Differential alternative splicing,TMEM87B
+sars_sars12_control,SARS12,Differential alternative splicing,MDC1
+sars_sars12_control,SARS12,Differential alternative splicing,RAB3GAP1
+sars_sars12_control,SARS12,Differential alternative splicing,MRPS6
+sars_sars12_control,SARS12,Differential alternative splicing,PRELID3A
+sars_sars12_control,SARS12,Differential alternative splicing,SSR1
+sars_sars12_control,SARS12,Differential alternative splicing,ST3GAL6-AS1
+sars_sars12_control,SARS12,Differential alternative splicing,MROH3P
+sars_sars12_control,SARS12,Differential alternative splicing,MSANTD2
+sars_sars12_control,SARS12,Differential alternative splicing,EZH1
+sars_sars12_control,SARS12,Differential alternative splicing,GATD1
+sars_sars12_control,SARS12,Differential alternative splicing,DPH7
+sars_sars12_control,SARS12,Differential alternative splicing,HPS4
+sars_sars12_control,SARS12,Differential alternative splicing,SREBF1
+sars_sars12_control,SARS12,Differential alternative splicing,WDR20
+sars_sars12_control,SARS12,Differential alternative splicing,ACOX1
+sars_sars12_control,SARS12,Differential alternative splicing,DDX60L
+sars_sars12_control,SARS12,Differential alternative splicing,FNBP4
+sars_sars12_control,SARS12,Differential alternative splicing,RIN3
+sars_sars12_control,SARS12,Differential alternative splicing,NBPF15
+sars_sars12_control,SARS12,Differential alternative splicing,AKAP13
+sars_sars12_control,SARS12,Differential alternative splicing,ARHGEF9
+sars_sars12_control,SARS12,Differential alternative splicing,FSD1L
+sars_sars12_control,SARS12,Differential alternative splicing,APLF
+sars_sars12_control,SARS12,Differential alternative splicing,AMPD2
+sars_sars12_control,SARS12,Differential alternative splicing,RASAL1
+sars_sars12_control,SARS12,Differential alternative splicing,CALML4
+sars_sars12_control,SARS12,Differential alternative splicing,CDKAL1
+sars_sars12_control,SARS12,Differential alternative splicing,SCRN3
+sars_sars12_control,SARS12,Differential alternative splicing,RBM33
+sars_sars12_control,SARS12,Differential alternative splicing,SRSF6
+sars_sars12_control,SARS12,Differential alternative splicing,MMS22L
+sars_sars12_control,SARS12,Differential alternative splicing,JADE1
+sars_sars12_control,SARS12,Differential alternative splicing,ANK3
+sars_sars12_control,SARS12,Differential alternative splicing,IFT88
+sars_sars12_control,SARS12,Differential alternative splicing,PSMG4
+sars_sars12_control,SARS12,Differential alternative splicing,ATP6V0D1
+sars_sars12_control,SARS12,Differential alternative splicing,PIGB
+sars_sars12_control,SARS12,Differential alternative splicing,FOXP1
+sars_sars12_control,SARS12,Differential alternative splicing,SLC19A3
+sars_sars12_control,SARS12,Differential alternative splicing,RNF38
+sars_sars12_control,SARS12,Differential alternative splicing,WDR17
+sars_sars12_control,SARS12,Differential alternative splicing,DENND6B
+sars_sars12_control,SARS12,Differential alternative splicing,ATG13
+sars_sars12_control,SARS12,Differential alternative splicing,MICU1
+sars_sars12_control,SARS12,Differential alternative splicing,CAPN8
+sars_sars12_control,SARS12,Differential alternative splicing,DCLRE1C
+sars_sars12_control,SARS12,Differential alternative splicing,DYRK1A
+sars_sars12_control,SARS12,Differential alternative splicing,MFSD8
+sars_sars12_control,SARS12,Differential alternative splicing,SLC38A9
+sars_sars12_control,SARS12,Differential alternative splicing,ADAMTS13
+sars_sars12_control,SARS12,Differential alternative splicing,PDP2
+sars_sars12_control,SARS12,Differential alternative splicing,CHD8
+sars_sars12_control,SARS12,Differential alternative splicing,PHKG1
+sars_sars12_control,SARS12,Differential alternative splicing,RAD52
+sars_sars12_control,SARS12,Differential alternative splicing,ZFYVE26
+sars_sars12_control,SARS12,Differential alternative splicing,ADAM17
+sars_sars12_control,SARS12,Differential alternative splicing,TRIM15
+sars_sars12_control,SARS12,Differential alternative splicing,GPATCH2L
+sars_sars12_control,SARS12,Differential alternative splicing,NFKBIZ
+sars_sars12_control,SARS12,Differential alternative splicing,ANKRD23
+sars_sars12_control,SARS12,Differential alternative splicing,SYNGAP1
+sars_sars12_control,SARS12,Differential alternative splicing,KLHL2
+sars_sars12_control,SARS12,Differential alternative splicing,ARHGEF11
+sars_sars12_control,SARS12,Differential alternative splicing,ISYNA1
+sars_sars12_control,SARS12,Differential alternative splicing,GAPVD1
+sars_sars12_control,SARS12,Differential alternative splicing,HACE1
+sars_sars12_control,SARS12,Differential alternative splicing,RUFY1
+sars_sars12_control,SARS12,Differential alternative splicing,JPX
+sars_sars12_control,SARS12,Differential alternative splicing,THAP9-AS1
+sars_sars12_control,SARS12,Differential alternative splicing,DENND3
+sars_sars12_control,SARS12,Differential alternative splicing,UBP1
+sars_sars12_control,SARS12,Differential alternative splicing,SREK1
+sars_sars12_control,SARS12,Differential alternative splicing,APOL3
+sars_sars12_control,SARS12,Differential alternative splicing,CEP295
+sars_sars12_control,SARS12,Differential alternative splicing,AGAP3
+sars_sars12_control,SARS12,Differential alternative splicing,POMK
+sars_sars12_control,SARS12,Differential alternative splicing,SSX2IP
+sars_sars12_control,SARS12,Differential alternative splicing,U2AF1L4
+sars_sars12_control,SARS12,Differential alternative splicing,ANKRD28
+sars_sars12_control,SARS12,Differential alternative splicing,CCNE1
+sars_sars12_control,SARS12,Differential alternative splicing,MAPKAP1
+sars_sars12_control,SARS12,Differential alternative splicing,ASAP1
+sars_sars12_control,SARS12,Differential alternative splicing,SRP14-AS1
+sars_sars12_control,SARS12,Differential alternative splicing,PLAG1
+sars_sars12_control,SARS12,Differential alternative splicing,ADGRL2
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF75D
+sars_sars12_control,SARS12,Differential alternative splicing,LIG1
+sars_sars12_control,SARS12,Differential alternative splicing,AC015712.6
+sars_sars12_control,SARS12,Differential alternative splicing,MIER3
+sars_sars12_control,SARS12,Differential alternative splicing,SPIN1
+sars_sars12_control,SARS12,Differential alternative splicing,PICALM
+sars_sars12_control,SARS12,Differential alternative splicing,ADAM15
+sars_sars12_control,SARS12,Differential alternative splicing,NSUN5P1
+sars_sars12_control,SARS12,Differential alternative splicing,ZFP69B
+sars_sars12_control,SARS12,Differential alternative splicing,PPP1R12A-AS1
+sars_sars12_control,SARS12,Differential alternative splicing,MAP3K9
+sars_sars12_control,SARS12,Differential alternative splicing,SERPINB6
+sars_sars12_control,SARS12,Differential alternative splicing,NFKB1
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF821
+sars_sars12_control,SARS12,Differential alternative splicing,TMEM241
+sars_sars12_control,SARS12,Differential alternative splicing,LINC00665
+sars_sars12_control,SARS12,Differential alternative splicing,CTBS
+sars_sars12_control,SARS12,Differential alternative splicing,CPNE4
+sars_sars12_control,SARS12,Differential alternative splicing,SUOX
+sars_sars12_control,SARS12,Differential alternative splicing,FBXO4
+sars_sars12_control,SARS12,Differential alternative splicing,BX890604.1
+sars_sars12_control,SARS12,Differential alternative splicing,CFAP206
+sars_sars12_control,SARS12,Differential alternative splicing,MBD2
+sars_sars12_control,SARS12,Differential alternative splicing,CACNA1D
+sars_sars12_control,SARS12,Differential alternative splicing,MYO5B
+sars_sars12_control,SARS12,Differential alternative splicing,PDXDC2P-NPIPB14P
+sars_sars12_control,SARS12,Differential alternative splicing,MYNN
+sars_sars12_control,SARS12,Differential alternative splicing,MAPT
+sars_sars12_control,SARS12,Differential alternative splicing,AGBL5
+sars_sars12_control,SARS12,Differential alternative splicing,KLHL12
+sars_sars12_control,SARS12,Differential alternative splicing,TRAPPC13
+sars_sars12_control,SARS12,Differential alternative splicing,CSRNP2
+sars_sars12_control,SARS12,Differential alternative splicing,SLC25A43
+sars_sars12_control,SARS12,Differential alternative splicing,CPNE3
+sars_sars12_control,SARS12,Differential alternative splicing,APC
+sars_sars12_control,SARS12,Differential alternative splicing,STOML1
+sars_sars12_control,SARS12,Differential alternative splicing,UBXN11
+sars_sars12_control,SARS12,Differential alternative splicing,ENOX2
+sars_sars12_control,SARS12,Differential alternative splicing,USH1C
+sars_sars12_control,SARS12,Differential alternative splicing,HACL1
+sars_sars12_control,SARS12,Differential alternative splicing,RDH13
+sars_sars12_control,SARS12,Differential alternative splicing,GPM6A
+sars_sars12_control,SARS12,Differential alternative splicing,PIGU
+sars_sars12_control,SARS12,Differential alternative splicing,TTC7B
+sars_sars12_control,SARS12,Differential alternative splicing,FHOD3
+sars_sars12_control,SARS12,Differential alternative splicing,UBIAD1
+sars_sars12_control,SARS12,Differential alternative splicing,RABGEF1
+sars_sars12_control,SARS12,Differential alternative splicing,BRSK2
+sars_sars12_control,SARS12,Differential alternative splicing,DPY19L3
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF720
+sars_sars12_control,SARS12,Differential alternative splicing,TET2
+sars_sars12_control,SARS12,Differential alternative splicing,KIAA1109
+sars_sars12_control,SARS12,Differential alternative splicing,PTK2B
+sars_sars12_control,SARS12,Differential alternative splicing,HOXB-AS3
+sars_sars12_control,SARS12,Differential alternative splicing,HSF1
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF444
+sars_sars12_control,SARS12,Differential alternative splicing,FIRRE
+sars_sars12_control,SARS12,Differential alternative splicing,SP3
+sars_sars12_control,SARS12,Differential alternative splicing,SLC25A29
+sars_sars12_control,SARS12,Differential alternative splicing,SDCBP2-AS1
+sars_sars12_control,SARS12,Differential alternative splicing,DROSHA
+sars_sars12_control,SARS12,Differential alternative splicing,GPR155
+sars_sars12_control,SARS12,Differential alternative splicing,JUP
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF702P
+sars_sars12_control,SARS12,Differential alternative splicing,GBAP1
+sars_sars12_control,SARS12,Differential alternative splicing,PDK1
+sars_sars12_control,SARS12,Differential alternative splicing,AC004130.2
+sars_sars12_control,SARS12,Differential alternative splicing,SEC24B
+sars_sars12_control,SARS12,Differential alternative splicing,RGL1
+sars_sars12_control,SARS12,Differential alternative splicing,MAP4
+sars_sars12_control,SARS12,Differential alternative splicing,ST3GAL3
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF749
+sars_sars12_control,SARS12,Differential alternative splicing,HOOK3
+sars_sars12_control,SARS12,Differential alternative splicing,SUPT6H
+sars_sars12_control,SARS12,Differential alternative splicing,SKA2
+sars_sars12_control,SARS12,Differential alternative splicing,TMCC1
+sars_sars12_control,SARS12,Differential alternative splicing,MIA3
+sars_sars12_control,SARS12,Differential alternative splicing,ARHGEF1
+sars_sars12_control,SARS12,Differential alternative splicing,ERCC6L2
+sars_sars12_control,SARS12,Differential alternative splicing,CLK1
+sars_sars12_control,SARS12,Differential alternative splicing,FAM135A
+sars_sars12_control,SARS12,Differential alternative splicing,MFF
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF383
+sars_sars12_control,SARS12,Differential alternative splicing,SRPK2
+sars_sars12_control,SARS12,Differential alternative splicing,MLH3
+sars_sars12_control,SARS12,Differential alternative splicing,ITCH
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF236
+sars_sars12_control,SARS12,Differential alternative splicing,MDM4
+sars_sars12_control,SARS12,Differential alternative splicing,CCDC18-AS1
+sars_sars12_control,SARS12,Differential alternative splicing,MIPOL1
+sars_sars12_control,SARS12,Differential alternative splicing,CMC2
+sars_sars12_control,SARS12,Differential alternative splicing,LIN7B
+sars_sars12_control,SARS12,Differential alternative splicing,LCA5L
+sars_sars12_control,SARS12,Differential alternative splicing,BTN2A1
+sars_sars12_control,SARS12,Differential alternative splicing,RACGAP1
+sars_sars12_control,SARS12,Differential alternative splicing,KLHL20
+sars_sars12_control,SARS12,Differential alternative splicing,CNTNAP3B
+sars_sars12_control,SARS12,Differential alternative splicing,GMNC
+sars_sars12_control,SARS12,Differential alternative splicing,MAPK8IP3
+sars_sars12_control,SARS12,Differential alternative splicing,DDX59
+sars_sars12_control,SARS12,Differential alternative splicing,TMTC4
+sars_sars12_control,SARS12,Differential alternative splicing,PPP6R2
+sars_sars12_control,SARS12,Differential alternative splicing,FAM169A
+sars_sars12_control,SARS12,Differential alternative splicing,TRAPPC9
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF544
+sars_sars12_control,SARS12,Differential alternative splicing,HLA-F-AS1
+sars_sars12_control,SARS12,Differential alternative splicing,AC015712.1
+sars_sars12_control,SARS12,Differential alternative splicing,UBE2Q2P2
+sars_sars12_control,SARS12,Differential alternative splicing,KIAA1671-AS1
+sars_sars12_control,SARS12,Differential alternative splicing,LUC7L3
+sars_sars12_control,SARS12,Differential alternative splicing,FAM122C
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF587B
+sars_sars12_control,SARS12,Differential alternative splicing,SLC12A4
+sars_sars12_control,SARS12,Differential alternative splicing,C14orf93
+sars_sars12_control,SARS12,Differential alternative splicing,SYNRG
+sars_sars12_control,SARS12,Differential alternative splicing,DSTYK
+sars_sars12_control,SARS12,Differential alternative splicing,G2E3
+sars_sars12_control,SARS12,Differential alternative splicing,USP30
+sars_sars12_control,SARS12,Differential alternative splicing,BCL9L
+sars_sars12_control,SARS12,Differential alternative splicing,PDPR
+sars_sars12_control,SARS12,Differential alternative splicing,ACAD9
+sars_sars12_control,SARS12,Differential alternative splicing,XBP1
+sars_sars12_control,SARS12,Differential alternative splicing,S100A13
+sars_sars12_control,SARS12,Differential alternative splicing,SRSF5
+sars_sars12_control,SARS12,Differential alternative splicing,OBSL1
+sars_sars12_control,SARS12,Differential alternative splicing,FAM9B
+sars_sars12_control,SARS12,Differential alternative splicing,SMARCD3
+sars_sars12_control,SARS12,Differential alternative splicing,DISP1
+sars_sars12_control,SARS12,Differential alternative splicing,ATP1A3
+sars_sars12_control,SARS12,Differential alternative splicing,CCNJL
+sars_sars12_control,SARS12,Differential alternative splicing,OPLAH
+sars_sars12_control,SARS12,Differential alternative splicing,MYSM1
+sars_sars12_control,SARS12,Differential alternative splicing,GADD45B
+sars_sars12_control,SARS12,Differential alternative splicing,HNRNPH1
+sars_sars12_control,SARS12,Differential alternative splicing,TMEM107
+sars_sars12_control,SARS12,Differential alternative splicing,RAB15
+sars_sars12_control,SARS12,Differential alternative splicing,CARD9
+sars_sars12_control,SARS12,Differential alternative splicing,ATXN2L
+sars_sars12_control,SARS12,Differential alternative splicing,CCDC14
+sars_sars12_control,SARS12,Differential alternative splicing,FBF1
+sars_sars12_control,SARS12,Differential alternative splicing,ZMIZ2
+sars_sars12_control,SARS12,Differential alternative splicing,ABCD4
+sars_sars12_control,SARS12,Differential alternative splicing,TMEM91
+sars_sars12_control,SARS12,Differential alternative splicing,AL365205.1
+sars_sars12_control,SARS12,Differential alternative splicing,SPEF2
+sars_sars12_control,SARS12,Differential alternative splicing,TJAP1
+sars_sars12_control,SARS12,Differential alternative splicing,AP1G2
+sars_sars12_control,SARS12,Differential alternative splicing,BTNL9
+sars_sars12_control,SARS12,Differential alternative splicing,RBMX
+sars_sars12_control,SARS12,Differential alternative splicing,FAHD2A
+sars_sars12_control,SARS12,Differential alternative splicing,CCDC153
+sars_sars12_control,SARS12,Differential alternative splicing,CDK10
+sars_sars12_control,SARS12,Differential alternative splicing,TMEM52
+sars_sars12_control,SARS12,Differential alternative splicing,P4HTM
+sars_sars12_control,SARS12,Differential alternative splicing,RIOK1
+sars_sars12_control,SARS12,Differential alternative splicing,TINAGL1
+sars_sars12_control,SARS12,Differential alternative splicing,SLC9A5
+sars_sars12_control,SARS12,Differential alternative splicing,EXOC7
+sars_sars12_control,SARS12,Differential alternative splicing,PSME2
+sars_sars12_control,SARS12,Differential alternative splicing,RAB24
+sars_sars12_control,SARS12,Differential alternative splicing,IRF5
+sars_sars12_control,SARS12,Differential alternative splicing,GORASP1
+sars_sars12_control,SARS12,Differential alternative splicing,CIRBP
+sars_sars12_control,SARS12,Differential alternative splicing,MSH5
+sars_sars12_control,SARS12,Differential alternative splicing,ENO2
+sars_sars12_control,SARS12,Differential alternative splicing,AC142381.3
+sars_sars12_control,SARS12,Differential alternative splicing,PLCD1
+sars_sars12_control,SARS12,Differential alternative splicing,ERCC3
+sars_sars12_control,SARS12,Differential alternative splicing,STEAP2
+sars_sars12_control,SARS12,Differential alternative splicing,SF3B1
+sars_sars12_control,SARS12,Differential alternative splicing,DIO3OS
+sars_sars12_control,SARS12,Differential alternative splicing,STAT6
+sars_sars12_control,SARS12,Differential alternative splicing,MICALL2
+sars_sars12_control,SARS12,Differential alternative splicing,ACHE
+sars_sars12_control,SARS12,Differential alternative splicing,GMIP
+sars_sars12_control,SARS12,Differential alternative splicing,TMC8
+sars_sars12_control,SARS12,Differential alternative splicing,PIDD1
+sars_sars12_control,SARS12,Differential alternative splicing,NUP54
+sars_sars12_control,SARS12,Differential alternative splicing,ALAD
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF226
+sars_sars12_control,SARS12,Differential alternative splicing,STIL
+sars_sars12_control,SARS12,Differential alternative splicing,ABHD17A
+sars_sars12_control,SARS12,Differential alternative splicing,NPHP1
+sars_sars12_control,SARS12,Differential alternative splicing,MTG1
+sars_sars12_control,SARS12,Differential alternative splicing,WDR90
+sars_sars12_control,SARS12,Differential alternative splicing,PSRC1
+sars_sars12_control,SARS12,Differential alternative splicing,TANC1
+sars_sars12_control,SARS12,Differential alternative splicing,ACP7
+sars_sars12_control,SARS12,Differential alternative splicing,DHRS1
+sars_sars12_control,SARS12,Differential alternative splicing,ATPAF2
+sars_sars12_control,SARS12,Differential alternative splicing,IFT140
+sars_sars12_control,SARS12,Differential alternative splicing,ORC2
+sars_sars12_control,SARS12,Differential alternative splicing,HARS2
+sars_sars12_control,SARS12,Differential alternative splicing,CEP170
+sars_sars12_control,SARS12,Differential alternative splicing,SCRN2
+sars_sars12_control,SARS12,Differential alternative splicing,NDRG4
+sars_sars12_control,SARS12,Differential alternative splicing,CLMN
+sars_sars12_control,SARS12,Differential alternative splicing,FRMD5
+sars_sars12_control,SARS12,Differential alternative splicing,IL17RB
+sars_sars12_control,SARS12,Differential alternative splicing,PFKM
+sars_sars12_control,SARS12,Differential alternative splicing,CCDC189
+sars_sars12_control,SARS12,Differential alternative splicing,PNKP
+sars_sars12_control,SARS12,Differential alternative splicing,WDTC1
+sars_sars12_control,SARS12,Differential alternative splicing,PMEL
+sars_sars12_control,SARS12,Differential alternative splicing,STAT2
+sars_sars12_control,SARS12,Differential alternative splicing,COMMD4
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF181
+sars_sars12_control,SARS12,Differential alternative splicing,WDR45
+sars_sars12_control,SARS12,Differential alternative splicing,AC040162.1
+sars_sars12_control,SARS12,Differential alternative splicing,TMEM25
+sars_sars12_control,SARS12,Differential alternative splicing,NME3
+sars_sars12_control,SARS12,Differential alternative splicing,RFNG
+sars_sars12_control,SARS12,Differential alternative splicing,PCK2
+sars_sars12_control,SARS12,Differential alternative splicing,TSNAXIP1
+sars_sars12_control,SARS12,Differential alternative splicing,SIRT7
+sars_sars12_control,SARS12,Differential alternative splicing,DCUN1D4
+sars_sars12_control,SARS12,Differential alternative splicing,NUDT6
+sars_sars12_control,SARS12,Differential alternative splicing,CAPRIN2
+sars_sars12_control,SARS12,Differential alternative splicing,KIFBP
+sars_sars12_control,SARS12,Differential alternative splicing,PNISR
+sars_sars12_control,SARS12,Differential alternative splicing,LAS1L
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF714
+sars_sars12_control,SARS12,Differential alternative splicing,CTSF
+sars_sars12_control,SARS12,Differential alternative splicing,SCFD1
+sars_sars12_control,SARS12,Differential alternative splicing,ATF3
+sars_sars12_control,SARS12,Differential alternative splicing,GALT
+sars_sars12_control,SARS12,Differential alternative splicing,MTMR11
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF10
+sars_sars12_control,SARS12,Differential alternative splicing,GBF1
+sars_sars12_control,SARS12,Differential alternative splicing,WDR81
+sars_sars12_control,SARS12,Differential alternative splicing,MRNIP
+sars_sars12_control,SARS12,Differential alternative splicing,FXYD7
+sars_sars12_control,SARS12,Differential alternative splicing,ATR
+sars_sars12_control,SARS12,Differential alternative splicing,SLC9A6
+sars_sars12_control,SARS12,Differential alternative splicing,MSL3
+sars_sars12_control,SARS12,Differential alternative splicing,UBE2T
+sars_sars12_control,SARS12,Differential alternative splicing,FXYD1
+sars_sars12_control,SARS12,Differential alternative splicing,POMT1
+sars_sars12_control,SARS12,Differential alternative splicing,DNAH1
+sars_sars12_control,SARS12,Differential alternative splicing,TYMP
+sars_sars12_control,SARS12,Differential alternative splicing,B9D1
+sars_sars12_control,SARS12,Differential alternative splicing,CENPT
+sars_sars12_control,SARS12,Differential alternative splicing,WDR97
+sars_sars12_control,SARS12,Differential alternative splicing,JAG1
+sars_sars12_control,SARS12,Differential alternative splicing,CIT
+sars_sars12_control,SARS12,Differential alternative splicing,AIFM1
+sars_sars12_control,SARS12,Differential alternative splicing,TXNRD2
+sars_sars12_control,SARS12,Differential alternative splicing,PRRG2
+sars_sars12_control,SARS12,Differential alternative splicing,CYTH4
+sars_sars12_control,SARS12,Differential alternative splicing,LINC01547
+sars_sars12_control,SARS12,Differential alternative splicing,IRF3
+sars_sars12_control,SARS12,Differential alternative splicing,GLYCTK
+sars_sars12_control,SARS12,Differential alternative splicing,SNHG17
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF160
+sars_sars12_control,SARS12,Differential alternative splicing,SYVN1
+sars_sars12_control,SARS12,Differential alternative splicing,EIF2B5
+sars_sars12_control,SARS12,Differential alternative splicing,PIGQ
+sars_sars12_control,SARS12,Differential alternative splicing,CPNE1
+sars_sars12_control,SARS12,Differential alternative splicing,RPS6KB2
+sars_sars12_control,SARS12,Differential alternative splicing,CYB5R2
+sars_sars12_control,SARS12,Differential alternative splicing,ZFPL1
+sars_sars12_control,SARS12,Differential alternative splicing,SLC38A7
+sars_sars12_control,SARS12,Differential alternative splicing,SAMD4A
+sars_sars12_control,SARS12,Differential alternative splicing,BRPF1
+sars_sars12_control,SARS12,Differential alternative splicing,SGSM3
+sars_sars12_control,SARS12,Differential alternative splicing,MED13L
+sars_sars12_control,SARS12,Differential alternative splicing,LLGL1
+sars_sars12_control,SARS12,Differential alternative splicing,PCYT1A
+sars_sars12_control,SARS12,Differential alternative splicing,DNM1L
+sars_sars12_control,SARS12,Differential alternative splicing,SERINC5
+sars_sars12_control,SARS12,Differential alternative splicing,SCN3A
+sars_sars12_control,SARS12,Differential alternative splicing,CEACAM1
+sars_sars12_control,SARS12,Differential alternative splicing,GPR89A
+sars_sars12_control,SARS12,Differential alternative splicing,TESK2
+sars_sars12_control,SARS12,Differential alternative splicing,POLE2
+sars_sars12_control,SARS12,Differential alternative splicing,SLC35E3
+sars_sars12_control,SARS12,Differential alternative splicing,ZGRF1
+sars_sars12_control,SARS12,Differential alternative splicing,LINC01572
+sars_sars12_control,SARS12,Differential alternative splicing,DISC1
+sars_sars12_control,SARS12,Differential alternative splicing,ACO2
+sars_sars12_control,SARS12,Differential alternative splicing,IGF2BP3
+sars_sars12_control,SARS12,Differential alternative splicing,PC
+sars_sars12_control,SARS12,Differential alternative splicing,CARD8
+sars_sars12_control,SARS12,Differential alternative splicing,SLC25A45
+sars_sars12_control,SARS12,Differential alternative splicing,TTC7A
+sars_sars12_control,SARS12,Differential alternative splicing,MTFR1L
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF608
+sars_sars12_control,SARS12,Differential alternative splicing,PTPN2
+sars_sars12_control,SARS12,Differential alternative splicing,TBC1D15
+sars_sars12_control,SARS12,Differential alternative splicing,YPEL5
+sars_sars12_control,SARS12,Differential alternative splicing,SETD2
+sars_sars12_control,SARS12,Differential alternative splicing,ULK4
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF446
+sars_sars12_control,SARS12,Differential alternative splicing,TMEM171
+sars_sars12_control,SARS12,Differential alternative splicing,FBLIM1
+sars_sars12_control,SARS12,Differential alternative splicing,SKAP1
+sars_sars12_control,SARS12,Differential alternative splicing,CENPO
+sars_sars12_control,SARS12,Differential alternative splicing,XRN1
+sars_sars12_control,SARS12,Differential alternative splicing,FAM66C
+sars_sars12_control,SARS12,Differential alternative splicing,AF117829.1
+sars_sars12_control,SARS12,Differential alternative splicing,FKBP7
+sars_sars12_control,SARS12,Differential alternative splicing,CCDC74A
+sars_sars12_control,SARS12,Differential alternative splicing,ECI2
+sars_sars12_control,SARS12,Differential alternative splicing,PTPN20
+sars_sars12_control,SARS12,Differential alternative splicing,PFKL
+sars_sars12_control,SARS12,Differential alternative splicing,NPEPPS
+sars_sars12_control,SARS12,Differential alternative splicing,TBC1D31
+sars_sars12_control,SARS12,Differential alternative splicing,CDC16
+sars_sars12_control,SARS12,Differential alternative splicing,TRIQK
+sars_sars12_control,SARS12,Differential alternative splicing,INO80C
+sars_sars12_control,SARS12,Differential alternative splicing,FLT3LG
+sars_sars12_control,SARS12,Differential alternative splicing,TCOF1
+sars_sars12_control,SARS12,Differential alternative splicing,HROB
+sars_sars12_control,SARS12,Differential alternative splicing,BBIP1
+sars_sars12_control,SARS12,Differential alternative splicing,MGA
+sars_sars12_control,SARS12,Differential alternative splicing,ATP13A2
+sars_sars12_control,SARS12,Differential alternative splicing,NSUN3
+sars_sars12_control,SARS12,Differential alternative splicing,SBNO1
+sars_sars12_control,SARS12,Differential alternative splicing,ALS2CL
+sars_sars12_control,SARS12,Differential alternative splicing,SPG7
+sars_sars12_control,SARS12,Differential alternative splicing,CAPN12
+sars_sars12_control,SARS12,Differential alternative splicing,MTMR9LP
+sars_sars12_control,SARS12,Differential alternative splicing,SH2D6
+sars_sars12_control,SARS12,Differential alternative splicing,NAB1
+sars_sars12_control,SARS12,Differential alternative splicing,RHOC
+sars_sars12_control,SARS12,Differential alternative splicing,PHRF1
+sars_sars12_control,SARS12,Differential alternative splicing,C1orf159
+sars_sars12_control,SARS12,Differential alternative splicing,PI4KAP2
+sars_sars12_control,SARS12,Differential alternative splicing,SECISBP2
+sars_sars12_control,SARS12,Differential alternative splicing,PFDN5
+sars_sars12_control,SARS12,Differential alternative splicing,IGF2R
+sars_sars12_control,SARS12,Differential alternative splicing,PHF21A
+sars_sars12_control,SARS12,Differential alternative splicing,SLC2A11
+sars_sars12_control,SARS12,Differential alternative splicing,KIAA0753
+sars_sars12_control,SARS12,Differential alternative splicing,SPOPL
+sars_sars12_control,SARS12,Differential alternative splicing,CEP126
+sars_sars12_control,SARS12,Differential alternative splicing,WDR31
+sars_sars12_control,SARS12,Differential alternative splicing,ABHD11
+sars_sars12_control,SARS12,Differential alternative splicing,MAP11
+sars_sars12_control,SARS12,Differential alternative splicing,TMEM184B
+sars_sars12_control,SARS12,Differential alternative splicing,LRCH4
+sars_sars12_control,SARS12,Differential alternative splicing,PARD6A
+sars_sars12_control,SARS12,Differential alternative splicing,POU2F2
+sars_sars12_control,SARS12,Differential alternative splicing,RNF111
+sars_sars12_control,SARS12,Differential alternative splicing,KIAA1549
+sars_sars12_control,SARS12,Differential alternative splicing,RPE
+sars_sars12_control,SARS12,Differential alternative splicing,STARD5
+sars_sars12_control,SARS12,Differential alternative splicing,DOK7
+sars_sars12_control,SARS12,Differential alternative splicing,SMARCA2
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF484
+sars_sars12_control,SARS12,Differential alternative splicing,ADCY9
+sars_sars12_control,SARS12,Differential alternative splicing,CDV3
+sars_sars12_control,SARS12,Differential alternative splicing,ZCCHC17
+sars_sars12_control,SARS12,Differential alternative splicing,HNRNPA3
+sars_sars12_control,SARS12,Differential alternative splicing,ZNF180
+sars_sars12_control,SARS12,Differential alternative splicing,NT5M
+sars_sars12_control,SARS12,Differential alternative splicing,PLEKHS1
+sars_sars12_control,SARS12,Differential alternative splicing,SH3GLB1
+sars_sars12_control,SARS12,Differential alternative splicing,TBC1D7
+sars_sars12_control,SARS12,Differential alternative splicing,LMCD1-AS1
+sars_sars12_control,SARS12,Differential alternative splicing,PTOV1
+sars_sars12_control,SARS12,Differential alternative splicing,TRERF1
+sars_sars12_control,SARS12,Differential alternative splicing,CNOT6L
+sars_sars12_control,SARS12,Differential alternative splicing,SLC25A14
+sars_sars12_control,SARS12,Differential alternative splicing,P4HB
+sars_sars12_control,SARS12,Differential alternative splicing,METTL8
+sars_sars12_control,SARS12,Differential alternative splicing,RPUSD4
+sars_sars12_control,SARS12,Differential alternative splicing,AASS
+sars_sars12_control,SARS12,Differential alternative splicing,ZGPAT
+sars_sars12_control,SARS12,Differential alternative splicing,TRMT1
+sars_sars12_control,SARS12,Differential alternative splicing,PCM1
+sars_sars12_control,SARS12,Differential alternative splicing,CCDC82
+sars_sars12_control,SARS12,Differential alternative splicing,CDKN1C
+sars_sars12_control,SARS12,Differential alternative splicing,NETO2
+sars_sars12_control,SARS12,Differential alternative splicing,DNAAF3
+sars_sars12_control,SARS12,Differential alternative splicing,SPP1
+sars_sars12_control,SARS12,Differential alternative splicing,TLE3
+sars_sars12_control,SARS12,Differential alternative splicing,PCNT
+sars_sars12_control,SARS12,Differential alternative splicing,SPEG
+sars_sars12_control,SARS12,Differential alternative splicing,JADE2
+sars_sars12_control,SARS12,Differential alternative splicing,ATPSCKMT
+sars_sars12_control,SARS12,Differential alternative splicing,NUP42
+sars_sars12_control,SARS12,Differential alternative splicing,NSD3
+sars_sars12_control,SARS12,Differential alternative splicing,TMEM231
+sars_sars12_control,SARS12,Differential alternative splicing,SMG1P7
+sars_sars12_control,SARS12,Differential alternative splicing,ALDH3B1
+sars_sars12_control,SARS12,Differential alternative splicing,DHFR2
+sars_sars12_control,SARS12,Differential alternative splicing,FAM184A
+sars_sars12_control,SARS12,Differential alternative splicing,GET1
+sars_sars12_control,SARS12,Differential alternative splicing,TP53I13
+sars_sars12_control,SARS12,Differential alternative splicing,RABGAP1L
+sars_sars12_control,SARS12,Differential alternative splicing,LYN
+sars_sars12_control,SARS12,Differential alternative splicing,RNF13
+sars_sars12_control,SARS12,Differential alternative splicing,AZIN2
+sars_sars12_control,SARS12,Differential alternative splicing,ISY1
+sars_sars12_control,SARS12,Differential alternative splicing,ATG2A
+sars_sars12_control,SARS12,Differential alternative splicing,MAN2A2
+sars_sars12_control,SARS12,Differential alternative splicing,TMPRSS5
+sars_sars12_control,SARS12,Differential alternative splicing,TPP2
+sars_sars12_control,SARS12,Differential alternative splicing,HUS1
+sars_sars12_control,SARS12,Differential alternative splicing,C11orf54
+sars_sars12_control,SARS12,Differential alternative splicing,TSC1
+sars_sars12_control,SARS12,Differential alternative splicing,GUK1
+sars_sars12_control,SARS12,Differential alternative splicing,CMTR1
+sars_sars12_control,SARS12,Differential alternative splicing,STK19
+sars_sars12_control,SARS12,Differential alternative splicing,FIG4
+sars_sars12_control,SARS12,Differential alternative splicing,TRIM24
+sars_sars12_control,SARS12,Differential alternative splicing,NADSYN1
+sars_sars12_control,SARS12,Differential alternative splicing,MNX1
+sars_sars12_control,SARS12,Differential alternative splicing,C2CD5
+sars_sars12_control,SARS12,Differential alternative splicing,BHLHB9
+sars_sars12_control,SARS12,Differential alternative splicing,OGFOD2
+sars_sars12_control,SARS12,Differential alternative splicing,N4BP2L2
+sars_sars12_control,SARS12,Differential alternative splicing,DNA2
+sars_sars12_control,SARS12,Differential alternative splicing,NFATC4
+sars_sars12_control,SARS12,Differential alternative splicing,RNASEK

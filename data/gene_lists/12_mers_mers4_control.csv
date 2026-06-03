@@ -1,0 +1,2473 @@
+comparison_id,comparison_name,gene_set,gene_name
+mers_mers4_control,MERS4,Upregulated genes,HTR1D
+mers_mers4_control,MERS4,Downregulated genes,TMEM52
+mers_mers4_control,MERS4,Differential exon usage,ADGRF1
+mers_mers4_control,MERS4,Differential transcript expression,ATP13A3
+mers_mers4_control,MERS4,Differential intron excision,ABR
+mers_mers4_control,MERS4,Differential alternative splicing,IVNS1ABP
+mers_mers4_control,MERS4,Upregulated genes,RSRP1
+mers_mers4_control,MERS4,Downregulated genes,PLCH2
+mers_mers4_control,MERS4,Differential exon usage,SREK1
+mers_mers4_control,MERS4,Differential transcript expression,ABCF3
+mers_mers4_control,MERS4,Differential intron excision,HLA-A
+mers_mers4_control,MERS4,Differential alternative splicing,HNRNPH3
+mers_mers4_control,MERS4,Upregulated genes,SPOCD1
+mers_mers4_control,MERS4,Downregulated genes,TNFRSF14-AS1
+mers_mers4_control,MERS4,Differential exon usage,ANXA2
+mers_mers4_control,MERS4,Differential transcript expression,MORF4L1
+mers_mers4_control,MERS4,Differential intron excision,ABHD2
+mers_mers4_control,MERS4,Differential alternative splicing,CYP24A1
+mers_mers4_control,MERS4,Upregulated genes,AL357079.1
+mers_mers4_control,MERS4,Downregulated genes,MMEL1
+mers_mers4_control,MERS4,Differential exon usage,CD46
+mers_mers4_control,MERS4,Differential transcript expression,CEP290
+mers_mers4_control,MERS4,Differential intron excision,POLR2J2
+mers_mers4_control,MERS4,Differential alternative splicing,F3
+mers_mers4_control,MERS4,Upregulated genes,AL139220.2
+mers_mers4_control,MERS4,Downregulated genes,MEGF6
+mers_mers4_control,MERS4,Differential exon usage,DHX36
+mers_mers4_control,MERS4,Differential transcript expression,NPM1
+mers_mers4_control,MERS4,Differential intron excision,ZNF207
+mers_mers4_control,MERS4,Differential alternative splicing,CEP290
+mers_mers4_control,MERS4,Upregulated genes,ROR1-AS1
+mers_mers4_control,MERS4,Downregulated genes,FBXO44
+mers_mers4_control,MERS4,Differential exon usage,RASGRF2
+mers_mers4_control,MERS4,Differential transcript expression,WNK2
+mers_mers4_control,MERS4,Differential intron excision,CYP24A1
+mers_mers4_control,MERS4,Differential alternative splicing,XPO1
+mers_mers4_control,MERS4,Upregulated genes,DIRAS3
+mers_mers4_control,MERS4,Downregulated genes,TNFRSF1B
+mers_mers4_control,MERS4,Differential exon usage,TBC1D8B
+mers_mers4_control,MERS4,Differential transcript expression,MSH2
+mers_mers4_control,MERS4,Differential intron excision,CPNE1
+mers_mers4_control,MERS4,Differential alternative splicing,PRRC2C
+mers_mers4_control,MERS4,Upregulated genes,IFI44L
+mers_mers4_control,MERS4,Downregulated genes,ID3
+mers_mers4_control,MERS4,Differential exon usage,MAP4
+mers_mers4_control,MERS4,Differential transcript expression,MYADM
+mers_mers4_control,MERS4,Differential intron excision,IVNS1ABP
+mers_mers4_control,MERS4,Differential alternative splicing,ATP13A3
+mers_mers4_control,MERS4,Upregulated genes,IFI44
+mers_mers4_control,MERS4,Downregulated genes,TENT5B
+mers_mers4_control,MERS4,Differential exon usage,TOP2A
+mers_mers4_control,MERS4,Differential transcript expression,SLC29A2
+mers_mers4_control,MERS4,Differential intron excision,CEP170
+mers_mers4_control,MERS4,Differential alternative splicing,HNRNPA2B1
+mers_mers4_control,MERS4,Upregulated genes,GCLM
+mers_mers4_control,MERS4,Downregulated genes,ADGRB2
+mers_mers4_control,MERS4,Differential exon usage,DST
+mers_mers4_control,MERS4,Differential transcript expression,PRRC2B
+mers_mers4_control,MERS4,Differential intron excision,PRRC2C
+mers_mers4_control,MERS4,Differential alternative splicing,CNOT1
+mers_mers4_control,MERS4,Upregulated genes,SPRR3
+mers_mers4_control,MERS4,Downregulated genes,RIMS3
+mers_mers4_control,MERS4,Differential exon usage,CALU
+mers_mers4_control,MERS4,Differential transcript expression,ADGRG1
+mers_mers4_control,MERS4,Differential intron excision,TBC1D3
+mers_mers4_control,MERS4,Differential alternative splicing,SYNRG
+mers_mers4_control,MERS4,Upregulated genes,NCF2
+mers_mers4_control,MERS4,Downregulated genes,NFYC-AS1
+mers_mers4_control,MERS4,Differential exon usage,ENC1
+mers_mers4_control,MERS4,Differential transcript expression,TFG
+mers_mers4_control,MERS4,Differential intron excision,SLC25A36
+mers_mers4_control,MERS4,Differential alternative splicing,ITGB6
+mers_mers4_control,MERS4,Upregulated genes,PKP1
+mers_mers4_control,MERS4,Downregulated genes,CITED4
+mers_mers4_control,MERS4,Differential exon usage,CHORDC1
+mers_mers4_control,MERS4,Differential transcript expression,TNIP1
+mers_mers4_control,MERS4,Differential intron excision,GPBP1
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF207
+mers_mers4_control,MERS4,Upregulated genes,LRRN2
+mers_mers4_control,MERS4,Downregulated genes,RIMKLA
+mers_mers4_control,MERS4,Differential exon usage,EEF1D
+mers_mers4_control,MERS4,Differential transcript expression,RBM15
+mers_mers4_control,MERS4,Differential intron excision,SYNRG
+mers_mers4_control,MERS4,Differential alternative splicing,POLR1B
+mers_mers4_control,MERS4,Upregulated genes,AL359921.2
+mers_mers4_control,MERS4,Downregulated genes,TESK2
+mers_mers4_control,MERS4,Differential exon usage,ADAM9
+mers_mers4_control,MERS4,Differential transcript expression,ARHGEF28
+mers_mers4_control,MERS4,Differential intron excision,TBC1D3C
+mers_mers4_control,MERS4,Differential alternative splicing,SLC25A36
+mers_mers4_control,MERS4,Upregulated genes,KIF26B
+mers_mers4_control,MERS4,Downregulated genes,SPATA6
+mers_mers4_control,MERS4,Differential exon usage,NONO
+mers_mers4_control,MERS4,Differential transcript expression,CHD9
+mers_mers4_control,MERS4,Differential intron excision,SREK1
+mers_mers4_control,MERS4,Differential alternative splicing,MYSM1
+mers_mers4_control,MERS4,Upregulated genes,PGBD2
+mers_mers4_control,MERS4,Downregulated genes,AL445437.1
+mers_mers4_control,MERS4,Differential exon usage,UFD1
+mers_mers4_control,MERS4,Differential transcript expression,NF2
+mers_mers4_control,MERS4,Differential intron excision,ATP13A3
+mers_mers4_control,MERS4,Differential alternative splicing,TSNAXIP1
+mers_mers4_control,MERS4,Upregulated genes,CMPK2
+mers_mers4_control,MERS4,Downregulated genes,BTBD8
+mers_mers4_control,MERS4,Differential exon usage,XPO1
+mers_mers4_control,MERS4,Differential transcript expression,TPP1
+mers_mers4_control,MERS4,Differential intron excision,F3
+mers_mers4_control,MERS4,Differential alternative splicing,DNAI4
+mers_mers4_control,MERS4,Upregulated genes,RSAD2
+mers_mers4_control,MERS4,Downregulated genes,MINDY1
+mers_mers4_control,MERS4,Differential exon usage,MICALL2
+mers_mers4_control,MERS4,Differential transcript expression,PTK7
+mers_mers4_control,MERS4,Differential intron excision,UBE2I
+mers_mers4_control,MERS4,Differential alternative splicing,FAM66C
+mers_mers4_control,MERS4,Upregulated genes,TRIB2
+mers_mers4_control,MERS4,Downregulated genes,ATP8B2
+mers_mers4_control,MERS4,Differential exon usage,VIM
+mers_mers4_control,MERS4,Differential transcript expression,PLEKHB2
+mers_mers4_control,MERS4,Differential intron excision,CALU
+mers_mers4_control,MERS4,Differential alternative splicing,YEATS2
+mers_mers4_control,MERS4,Upregulated genes,WDCP
+mers_mers4_control,MERS4,Downregulated genes,EFNA3
+mers_mers4_control,MERS4,Differential exon usage,PFKP
+mers_mers4_control,MERS4,Differential transcript expression,FIP1L1
+mers_mers4_control,MERS4,Differential intron excision,TBC1D3L
+mers_mers4_control,MERS4,Differential alternative splicing,WDR17
+mers_mers4_control,MERS4,Upregulated genes,LBH
+mers_mers4_control,MERS4,Downregulated genes,MEF2D
+mers_mers4_control,MERS4,Differential exon usage,TBC1D9B
+mers_mers4_control,MERS4,Differential transcript expression,DTX4
+mers_mers4_control,MERS4,Differential intron excision,LUC7L3
+mers_mers4_control,MERS4,Differential alternative splicing,HACL1
+mers_mers4_control,MERS4,Upregulated genes,RASGRP3
+mers_mers4_control,MERS4,Downregulated genes,IGSF9
+mers_mers4_control,MERS4,Differential exon usage,SLC25A39
+mers_mers4_control,MERS4,Differential transcript expression,MKRN2
+mers_mers4_control,MERS4,Differential intron excision,LRRFIP1
+mers_mers4_control,MERS4,Differential alternative splicing,WARS1
+mers_mers4_control,MERS4,Upregulated genes,PAPOLG
+mers_mers4_control,MERS4,Downregulated genes,NOS1AP
+mers_mers4_control,MERS4,Differential exon usage,LSS
+mers_mers4_control,MERS4,Differential transcript expression,BSDC1
+mers_mers4_control,MERS4,Differential intron excision,TNPO1
+mers_mers4_control,MERS4,Differential alternative splicing,CNNM2
+mers_mers4_control,MERS4,Upregulated genes,ZNF2
+mers_mers4_control,MERS4,Downregulated genes,PBX1
+mers_mers4_control,MERS4,Differential exon usage,S100A6
+mers_mers4_control,MERS4,Differential transcript expression,TAGLN
+mers_mers4_control,MERS4,Differential intron excision,NBEAL2
+mers_mers4_control,MERS4,Differential alternative splicing,EFCAB6
+mers_mers4_control,MERS4,Upregulated genes,ZC3H8
+mers_mers4_control,MERS4,Downregulated genes,CD247
+mers_mers4_control,MERS4,Differential exon usage,RBM39
+mers_mers4_control,MERS4,Differential transcript expression,XPO1
+mers_mers4_control,MERS4,Differential intron excision,MAP4
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF112
+mers_mers4_control,MERS4,Upregulated genes,POLR1B
+mers_mers4_control,MERS4,Downregulated genes,Z99572.1
+mers_mers4_control,MERS4,Differential exon usage,ZNF207
+mers_mers4_control,MERS4,Differential transcript expression,ADAM9
+mers_mers4_control,MERS4,Differential intron excision,DYNC1H1
+mers_mers4_control,MERS4,Differential alternative splicing,ABI3BP
+mers_mers4_control,MERS4,Upregulated genes,SLC20A1
+mers_mers4_control,MERS4,Downregulated genes,AL356273.3
+mers_mers4_control,MERS4,Differential exon usage,KRT17
+mers_mers4_control,MERS4,Differential transcript expression,HSPA9
+mers_mers4_control,MERS4,Differential intron excision,NFE2L1
+mers_mers4_control,MERS4,Differential alternative splicing,CLASP1
+mers_mers4_control,MERS4,Upregulated genes,NT5DC4
+mers_mers4_control,MERS4,Downregulated genes,KIF21B
+mers_mers4_control,MERS4,Differential exon usage,ERBB2
+mers_mers4_control,MERS4,Differential transcript expression,DPAGT1
+mers_mers4_control,MERS4,Differential intron excision,LAMTOR3
+mers_mers4_control,MERS4,Differential alternative splicing,AC022400.5
+mers_mers4_control,MERS4,Upregulated genes,IL1RN
+mers_mers4_control,MERS4,Downregulated genes,ELF3
+mers_mers4_control,MERS4,Differential exon usage,SSBP1
+mers_mers4_control,MERS4,Differential transcript expression,TGFBI
+mers_mers4_control,MERS4,Differential intron excision,RBM41
+mers_mers4_control,MERS4,Differential alternative splicing,BACH2
+mers_mers4_control,MERS4,Upregulated genes,DDX11L2
+mers_mers4_control,MERS4,Downregulated genes,PPFIA4
+mers_mers4_control,MERS4,Differential exon usage,RNF215
+mers_mers4_control,MERS4,Differential transcript expression,MX1
+mers_mers4_control,MERS4,Differential intron excision,GALE
+mers_mers4_control,MERS4,Differential alternative splicing,GET1
+mers_mers4_control,MERS4,Upregulated genes,LYPD1
+mers_mers4_control,MERS4,Downregulated genes,CDK18
+mers_mers4_control,MERS4,Differential exon usage,RABGGTB
+mers_mers4_control,MERS4,Differential transcript expression,NEDD4L
+mers_mers4_control,MERS4,Differential intron excision,EIF4H
+mers_mers4_control,MERS4,Differential alternative splicing,PAQR6
+mers_mers4_control,MERS4,Upregulated genes,CXCR4
+mers_mers4_control,MERS4,Downregulated genes,SLC26A9
+mers_mers4_control,MERS4,Differential exon usage,CRYZ
+mers_mers4_control,MERS4,Differential transcript expression,GARS1
+mers_mers4_control,MERS4,Differential intron excision,SF3B1
+mers_mers4_control,MERS4,Differential alternative splicing,SETD5
+mers_mers4_control,MERS4,Upregulated genes,TNFAIP6
+mers_mers4_control,MERS4,Downregulated genes,SRGAP2
+mers_mers4_control,MERS4,Differential exon usage,POP5
+mers_mers4_control,MERS4,Differential transcript expression,CLK4
+mers_mers4_control,MERS4,Differential intron excision,GK5
+mers_mers4_control,MERS4,Differential alternative splicing,AC108749.1
+mers_mers4_control,MERS4,Upregulated genes,AC092153.1
+mers_mers4_control,MERS4,Downregulated genes,VASH2
+mers_mers4_control,MERS4,Differential exon usage,TBL1XR1
+mers_mers4_control,MERS4,Differential transcript expression,MYO18A
+mers_mers4_control,MERS4,Differential intron excision,WARS1
+mers_mers4_control,MERS4,Differential alternative splicing,FSD1L
+mers_mers4_control,MERS4,Upregulated genes,IFIH1
+mers_mers4_control,MERS4,Downregulated genes,C1orf115
+mers_mers4_control,MERS4,Differential exon usage,ANXA4
+mers_mers4_control,MERS4,Differential transcript expression,DIO3OS
+mers_mers4_control,MERS4,Differential intron excision,LINC01123
+mers_mers4_control,MERS4,Differential alternative splicing,AC012668.3
+mers_mers4_control,MERS4,Upregulated genes,DHRS9
+mers_mers4_control,MERS4,Downregulated genes,ITPKB
+mers_mers4_control,MERS4,Differential exon usage,PRSS22
+mers_mers4_control,MERS4,Differential transcript expression,CDK18
+mers_mers4_control,MERS4,Differential intron excision,BX571818.1
+mers_mers4_control,MERS4,Differential alternative splicing,RAP1B
+mers_mers4_control,MERS4,Upregulated genes,AC010680.3
+mers_mers4_control,MERS4,Downregulated genes,DISC1
+mers_mers4_control,MERS4,Differential exon usage,ALDH1A3
+mers_mers4_control,MERS4,Differential transcript expression,CLK1
+mers_mers4_control,MERS4,Differential intron excision,THRAP3
+mers_mers4_control,MERS4,Differential alternative splicing,GPBP1
+mers_mers4_control,MERS4,Upregulated genes,MARS2
+mers_mers4_control,MERS4,Downregulated genes,MAP10
+mers_mers4_control,MERS4,Differential exon usage,LUC7L2
+mers_mers4_control,MERS4,Differential transcript expression,IRF9
+mers_mers4_control,MERS4,Differential intron excision,WSB1
+mers_mers4_control,MERS4,Differential alternative splicing,UROS
+mers_mers4_control,MERS4,Upregulated genes,CLK1
+mers_mers4_control,MERS4,Downregulated genes,IRF2BP2
+mers_mers4_control,MERS4,Differential exon usage,TNFAIP8
+mers_mers4_control,MERS4,Differential transcript expression,ANXA2
+mers_mers4_control,MERS4,Differential intron excision,CLK1
+mers_mers4_control,MERS4,Differential alternative splicing,DTX2
+mers_mers4_control,MERS4,Upregulated genes,UCN2
+mers_mers4_control,MERS4,Downregulated genes,LINC01814
+mers_mers4_control,MERS4,Differential exon usage,RASA1
+mers_mers4_control,MERS4,Differential transcript expression,POP5
+mers_mers4_control,MERS4,Differential intron excision,ZNF384
+mers_mers4_control,MERS4,Differential alternative splicing,ENDOV
+mers_mers4_control,MERS4,Upregulated genes,COL7A1
+mers_mers4_control,MERS4,Downregulated genes,CYS1
+mers_mers4_control,MERS4,Differential exon usage,TCERG1
+mers_mers4_control,MERS4,Differential transcript expression,YPEL3
+mers_mers4_control,MERS4,Differential intron excision,BAG6
+mers_mers4_control,MERS4,Differential alternative splicing,AL591806.2
+mers_mers4_control,MERS4,Upregulated genes,KBTBD8
+mers_mers4_control,MERS4,Downregulated genes,GMCL1
+mers_mers4_control,MERS4,Differential exon usage,INO80E
+mers_mers4_control,MERS4,Differential transcript expression,GRB7
+mers_mers4_control,MERS4,Differential intron excision,CAST
+mers_mers4_control,MERS4,Differential alternative splicing,AC092807.3
+mers_mers4_control,MERS4,Upregulated genes,RPL38P4
+mers_mers4_control,MERS4,Downregulated genes,DNAH6
+mers_mers4_control,MERS4,Differential exon usage,HMGA2
+mers_mers4_control,MERS4,Differential transcript expression,ALDH3B1
+mers_mers4_control,MERS4,Differential intron excision,IBTK
+mers_mers4_control,MERS4,Differential alternative splicing,DST
+mers_mers4_control,MERS4,Upregulated genes,SLC35G2
+mers_mers4_control,MERS4,Downregulated genes,FAHD2CP
+mers_mers4_control,MERS4,Differential exon usage,CSRP1
+mers_mers4_control,MERS4,Differential transcript expression,NDRG1
+mers_mers4_control,MERS4,Differential intron excision,HDAC9
+mers_mers4_control,MERS4,Differential alternative splicing,SREK1
+mers_mers4_control,MERS4,Upregulated genes,NMRAL2P
+mers_mers4_control,MERS4,Downregulated genes,KIF5C
+mers_mers4_control,MERS4,Differential exon usage,ABHD2
+mers_mers4_control,MERS4,Differential transcript expression,SHC4
+mers_mers4_control,MERS4,Differential intron excision,BCLAF1
+mers_mers4_control,MERS4,Differential alternative splicing,PARP15
+mers_mers4_control,MERS4,Upregulated genes,ZBTB49
+mers_mers4_control,MERS4,Downregulated genes,AC009962.1
+mers_mers4_control,MERS4,Differential exon usage,PSME4
+mers_mers4_control,MERS4,Differential transcript expression,PITPNB
+mers_mers4_control,MERS4,Differential intron excision,PARP6
+mers_mers4_control,MERS4,Differential alternative splicing,N4BP2L2
+mers_mers4_control,MERS4,Upregulated genes,CXCL10
+mers_mers4_control,MERS4,Downregulated genes,NBEAL1
+mers_mers4_control,MERS4,Differential exon usage,CLIP1
+mers_mers4_control,MERS4,Differential transcript expression,MX2
+mers_mers4_control,MERS4,Differential intron excision,SDCCAG8
+mers_mers4_control,MERS4,Differential alternative splicing,TM2D1
+mers_mers4_control,MERS4,Upregulated genes,CXCL11
+mers_mers4_control,MERS4,Downregulated genes,SPEG
+mers_mers4_control,MERS4,Differential exon usage,CLINT1
+mers_mers4_control,MERS4,Differential transcript expression,DST
+mers_mers4_control,MERS4,Differential intron excision,HNRNPA1
+mers_mers4_control,MERS4,Differential alternative splicing,HERC2P9
+mers_mers4_control,MERS4,Upregulated genes,GPAT3
+mers_mers4_control,MERS4,Downregulated genes,COL4A3
+mers_mers4_control,MERS4,Differential exon usage,DCBLD2
+mers_mers4_control,MERS4,Differential transcript expression,VIM
+mers_mers4_control,MERS4,Differential intron excision,AP2B1
+mers_mers4_control,MERS4,Differential alternative splicing,INF2
+mers_mers4_control,MERS4,Upregulated genes,HERC6
+mers_mers4_control,MERS4,Downregulated genes,SLC16A14
+mers_mers4_control,MERS4,Differential exon usage,SELENOW
+mers_mers4_control,MERS4,Differential transcript expression,AGAP3
+mers_mers4_control,MERS4,Differential intron excision,DCDC2
+mers_mers4_control,MERS4,Differential alternative splicing,RPE
+mers_mers4_control,MERS4,Upregulated genes,HERC5
+mers_mers4_control,MERS4,Downregulated genes,C2orf72
+mers_mers4_control,MERS4,Differential exon usage,ARHGAP26
+mers_mers4_control,MERS4,Differential transcript expression,NONO
+mers_mers4_control,MERS4,Differential intron excision,FIP1L1
+mers_mers4_control,MERS4,Differential alternative splicing,GGACT
+mers_mers4_control,MERS4,Upregulated genes,SLC9B2
+mers_mers4_control,MERS4,Downregulated genes,NGEF
+mers_mers4_control,MERS4,Differential exon usage,SECISBP2
+mers_mers4_control,MERS4,Differential transcript expression,IFIT1
+mers_mers4_control,MERS4,Differential intron excision,ARID4B
+mers_mers4_control,MERS4,Differential alternative splicing,VWDE
+mers_mers4_control,MERS4,Upregulated genes,BBS12
+mers_mers4_control,MERS4,Downregulated genes,HDAC11
+mers_mers4_control,MERS4,Differential exon usage,TFG
+mers_mers4_control,MERS4,Differential transcript expression,CAPN5
+mers_mers4_control,MERS4,Differential intron excision,MFF
+mers_mers4_control,MERS4,Differential alternative splicing,CBARP
+mers_mers4_control,MERS4,Upregulated genes,FGF2
+mers_mers4_control,MERS4,Downregulated genes,SATB1
+mers_mers4_control,MERS4,Differential exon usage,ACP6
+mers_mers4_control,MERS4,Differential transcript expression,DNM1
+mers_mers4_control,MERS4,Differential intron excision,SLC9A7
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF789
+mers_mers4_control,MERS4,Upregulated genes,NOCT
+mers_mers4_control,MERS4,Downregulated genes,THRB
+mers_mers4_control,MERS4,Differential exon usage,MECOM
+mers_mers4_control,MERS4,Differential transcript expression,PBX1
+mers_mers4_control,MERS4,Differential intron excision,FAM13B
+mers_mers4_control,MERS4,Differential alternative splicing,EHHADH
+mers_mers4_control,MERS4,Upregulated genes,LRAT
+mers_mers4_control,MERS4,Downregulated genes,PLCD1
+mers_mers4_control,MERS4,Differential exon usage,SMC6
+mers_mers4_control,MERS4,Differential transcript expression,MVK
+mers_mers4_control,MERS4,Differential intron excision,LYRM1
+mers_mers4_control,MERS4,Differential alternative splicing,TTC6
+mers_mers4_control,MERS4,Upregulated genes,DDX60
+mers_mers4_control,MERS4,Downregulated genes,ZNF660
+mers_mers4_control,MERS4,Differential exon usage,RPL28
+mers_mers4_control,MERS4,Differential transcript expression,ZNF276
+mers_mers4_control,MERS4,Differential intron excision,MRPS33
+mers_mers4_control,MERS4,Differential alternative splicing,INTS4
+mers_mers4_control,MERS4,Upregulated genes,MAP1B
+mers_mers4_control,MERS4,Downregulated genes,ZNF501
+mers_mers4_control,MERS4,Differential exon usage,ATP13A3
+mers_mers4_control,MERS4,Differential transcript expression,PRSS22
+mers_mers4_control,MERS4,Differential intron excision,DNM1L
+mers_mers4_control,MERS4,Differential alternative splicing,LAMTOR3
+mers_mers4_control,MERS4,Upregulated genes,F2RL1
+mers_mers4_control,MERS4,Downregulated genes,KIF9-AS1
+mers_mers4_control,MERS4,Differential exon usage,INF2
+mers_mers4_control,MERS4,Differential transcript expression,COL7A1
+mers_mers4_control,MERS4,Differential intron excision,RBM25
+mers_mers4_control,MERS4,Differential alternative splicing,MYO15B
+mers_mers4_control,MERS4,Upregulated genes,RASGRF2-AS1
+mers_mers4_control,MERS4,Downregulated genes,GRAMD1C
+mers_mers4_control,MERS4,Differential exon usage,NAA10
+mers_mers4_control,MERS4,Differential transcript expression,RREB1
+mers_mers4_control,MERS4,Differential intron excision,CNOT1
+mers_mers4_control,MERS4,Differential alternative splicing,HINT1
+mers_mers4_control,MERS4,Upregulated genes,CSF2
+mers_mers4_control,MERS4,Downregulated genes,ABTB1
+mers_mers4_control,MERS4,Differential exon usage,CHM
+mers_mers4_control,MERS4,Differential transcript expression,PSMA4
+mers_mers4_control,MERS4,Differential intron excision,CANT1
+mers_mers4_control,MERS4,Differential alternative splicing,MIR924HG
+mers_mers4_control,MERS4,Upregulated genes,FBXL21P
+mers_mers4_control,MERS4,Downregulated genes,H1-10
+mers_mers4_control,MERS4,Differential exon usage,RNF103
+mers_mers4_control,MERS4,Differential transcript expression,CD46
+mers_mers4_control,MERS4,Differential intron excision,AC105052.1
+mers_mers4_control,MERS4,Differential alternative splicing,HLA-F-AS1
+mers_mers4_control,MERS4,Upregulated genes,SLC26A2
+mers_mers4_control,MERS4,Downregulated genes,RAB6B
+mers_mers4_control,MERS4,Differential exon usage,HDAC8
+mers_mers4_control,MERS4,Differential transcript expression,IFI44
+mers_mers4_control,MERS4,Differential intron excision,ETS2
+mers_mers4_control,MERS4,Differential alternative splicing,NBEAL2
+mers_mers4_control,MERS4,Upregulated genes,ADAM19
+mers_mers4_control,MERS4,Downregulated genes,MRAS
+mers_mers4_control,MERS4,Differential exon usage,RPS24
+mers_mers4_control,MERS4,Differential transcript expression,KPNB1
+mers_mers4_control,MERS4,Differential intron excision,NPIPB4
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF852
+mers_mers4_control,MERS4,Upregulated genes,CDHR2
+mers_mers4_control,MERS4,Downregulated genes,ESYT3
+mers_mers4_control,MERS4,Differential exon usage,TGFBI
+mers_mers4_control,MERS4,Differential transcript expression,OBSL1
+mers_mers4_control,MERS4,Differential intron excision,PDXDC2P-NPIPB14P
+mers_mers4_control,MERS4,Differential alternative splicing,FKBP8
+mers_mers4_control,MERS4,Upregulated genes,PRR7-AS1
+mers_mers4_control,MERS4,Downregulated genes,TM4SF1-AS1
+mers_mers4_control,MERS4,Differential exon usage,RREB1
+mers_mers4_control,MERS4,Differential transcript expression,PLEKHH3
+mers_mers4_control,MERS4,Differential intron excision,GMCL1
+mers_mers4_control,MERS4,Differential alternative splicing,ILF3
+mers_mers4_control,MERS4,Upregulated genes,CLK4
+mers_mers4_control,MERS4,Downregulated genes,AC108751.4
+mers_mers4_control,MERS4,Differential exon usage,ZMYM2
+mers_mers4_control,MERS4,Differential transcript expression,NOMO3
+mers_mers4_control,MERS4,Differential intron excision,HIPK3
+mers_mers4_control,MERS4,Differential alternative splicing,SLC37A4
+mers_mers4_control,MERS4,Upregulated genes,RNF182
+mers_mers4_control,MERS4,Downregulated genes,PLCH1
+mers_mers4_control,MERS4,Differential exon usage,BCAP31
+mers_mers4_control,MERS4,Differential transcript expression,GSE1
+mers_mers4_control,MERS4,Differential intron excision,SUPT6H
+mers_mers4_control,MERS4,Differential alternative splicing,RBM41
+mers_mers4_control,MERS4,Upregulated genes,Z97832.2
+mers_mers4_control,MERS4,Downregulated genes,TNFSF10
+mers_mers4_control,MERS4,Differential exon usage,MICAL3
+mers_mers4_control,MERS4,Differential transcript expression,EIF4G2
+mers_mers4_control,MERS4,Differential intron excision,OARD1
+mers_mers4_control,MERS4,Differential alternative splicing,UBXN8
+mers_mers4_control,MERS4,Upregulated genes,CDKN1A
+mers_mers4_control,MERS4,Downregulated genes,ST6GAL1
+mers_mers4_control,MERS4,Differential exon usage,SPTAN1
+mers_mers4_control,MERS4,Differential transcript expression,SSBP1
+mers_mers4_control,MERS4,Differential intron excision,NET1
+mers_mers4_control,MERS4,Differential alternative splicing,TXNRD1
+mers_mers4_control,MERS4,Upregulated genes,TMEM217
+mers_mers4_control,MERS4,Downregulated genes,LINC00887
+mers_mers4_control,MERS4,Differential exon usage,NABP1
+mers_mers4_control,MERS4,Differential transcript expression,RFNG
+mers_mers4_control,MERS4,Differential intron excision,TRAK1
+mers_mers4_control,MERS4,Differential alternative splicing,MAN2C1
+mers_mers4_control,MERS4,Upregulated genes,ADGRF4
+mers_mers4_control,MERS4,Downregulated genes,PIGZ
+mers_mers4_control,MERS4,Differential exon usage,AHCY
+mers_mers4_control,MERS4,Differential transcript expression,CHORDC1
+mers_mers4_control,MERS4,Differential intron excision,SRSF6
+mers_mers4_control,MERS4,Differential alternative splicing,AC105052.3
+mers_mers4_control,MERS4,Upregulated genes,LAMA2
+mers_mers4_control,MERS4,Downregulated genes,AC025539.1
+mers_mers4_control,MERS4,Differential exon usage,PRPF40A
+mers_mers4_control,MERS4,Differential transcript expression,XBP1
+mers_mers4_control,MERS4,Differential alternative splicing,FAAP20
+mers_mers4_control,MERS4,Upregulated genes,GPNMB
+mers_mers4_control,MERS4,Downregulated genes,TLR1
+mers_mers4_control,MERS4,Differential exon usage,SMARCC2
+mers_mers4_control,MERS4,Differential transcript expression,ACTG1
+mers_mers4_control,MERS4,Differential alternative splicing,TARBP1
+mers_mers4_control,MERS4,Upregulated genes,AC005400.1
+mers_mers4_control,MERS4,Downregulated genes,CCSER1
+mers_mers4_control,MERS4,Differential exon usage,PALMD
+mers_mers4_control,MERS4,Differential transcript expression,ALKBH8
+mers_mers4_control,MERS4,Differential alternative splicing,COL12A1
+mers_mers4_control,MERS4,Upregulated genes,GRB10
+mers_mers4_control,MERS4,Downregulated genes,FAT4
+mers_mers4_control,MERS4,Differential exon usage,VPS26B
+mers_mers4_control,MERS4,Differential transcript expression,SATB1
+mers_mers4_control,MERS4,Differential alternative splicing,GNL2
+mers_mers4_control,MERS4,Upregulated genes,LANCL2
+mers_mers4_control,MERS4,Downregulated genes,NR3C2
+mers_mers4_control,MERS4,Differential exon usage,TP53
+mers_mers4_control,MERS4,Differential transcript expression,BCAP31
+mers_mers4_control,MERS4,Differential alternative splicing,GRB2
+mers_mers4_control,MERS4,Upregulated genes,SERPINE1
+mers_mers4_control,MERS4,Downregulated genes,IRF2-DT
+mers_mers4_control,MERS4,Differential exon usage,ATRX
+mers_mers4_control,MERS4,Differential transcript expression,DHRS3
+mers_mers4_control,MERS4,Differential alternative splicing,GLUL
+mers_mers4_control,MERS4,Upregulated genes,DNAJB9
+mers_mers4_control,MERS4,Downregulated genes,AC025171.4
+mers_mers4_control,MERS4,Differential exon usage,TONSL
+mers_mers4_control,MERS4,Differential transcript expression,CRYZ
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF706
+mers_mers4_control,MERS4,Upregulated genes,CALD1
+mers_mers4_control,MERS4,Downregulated genes,ANKRD31
+mers_mers4_control,MERS4,Differential exon usage,VGLL4
+mers_mers4_control,MERS4,Differential transcript expression,OASL
+mers_mers4_control,MERS4,Differential alternative splicing,TRA2B
+mers_mers4_control,MERS4,Upregulated genes,ZNF786
+mers_mers4_control,MERS4,Downregulated genes,IQGAP2
+mers_mers4_control,MERS4,Differential exon usage,ORC2
+mers_mers4_control,MERS4,Differential transcript expression,CCNL1
+mers_mers4_control,MERS4,Differential alternative splicing,NFATC2IP
+mers_mers4_control,MERS4,Upregulated genes,ZNF767P
+mers_mers4_control,MERS4,Downregulated genes,NREP
+mers_mers4_control,MERS4,Differential exon usage,SPINDOC
+mers_mers4_control,MERS4,Differential transcript expression,CYP24A1
+mers_mers4_control,MERS4,Differential alternative splicing,ARID4B
+mers_mers4_control,MERS4,Upregulated genes,AC107959.1
+mers_mers4_control,MERS4,Downregulated genes,EPB41L4A
+mers_mers4_control,MERS4,Differential exon usage,ZUP1
+mers_mers4_control,MERS4,Differential transcript expression,POLR1B
+mers_mers4_control,MERS4,Differential alternative splicing,GSN
+mers_mers4_control,MERS4,Upregulated genes,GNRH1
+mers_mers4_control,MERS4,Downregulated genes,EGR1
+mers_mers4_control,MERS4,Differential exon usage,SLC25A3
+mers_mers4_control,MERS4,Differential transcript expression,TRIM27
+mers_mers4_control,MERS4,Differential alternative splicing,TBC1D15
+mers_mers4_control,MERS4,Upregulated genes,AF279873.2
+mers_mers4_control,MERS4,Downregulated genes,AC005753.3
+mers_mers4_control,MERS4,Differential exon usage,NT5DC2
+mers_mers4_control,MERS4,Differential transcript expression,PDCD4
+mers_mers4_control,MERS4,Differential alternative splicing,BAG6
+mers_mers4_control,MERS4,Upregulated genes,EYA1
+mers_mers4_control,MERS4,Downregulated genes,FAM153A
+mers_mers4_control,MERS4,Differential exon usage,SRSF5
+mers_mers4_control,MERS4,Differential transcript expression,ADGRF1
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF875
+mers_mers4_control,MERS4,Upregulated genes,GEM
+mers_mers4_control,MERS4,Downregulated genes,BTN3A1
+mers_mers4_control,MERS4,Differential exon usage,TPM2
+mers_mers4_control,MERS4,Differential transcript expression,MOCS2
+mers_mers4_control,MERS4,Differential alternative splicing,AC093512.2
+mers_mers4_control,MERS4,Upregulated genes,HAS2
+mers_mers4_control,MERS4,Downregulated genes,ZNF204P
+mers_mers4_control,MERS4,Differential exon usage,ILF3
+mers_mers4_control,MERS4,Differential transcript expression,HSPE1
+mers_mers4_control,MERS4,Differential alternative splicing,KNOP1
+mers_mers4_control,MERS4,Upregulated genes,KHDRBS3
+mers_mers4_control,MERS4,Downregulated genes,GABBR1
+mers_mers4_control,MERS4,Differential exon usage,BCS1L
+mers_mers4_control,MERS4,Differential transcript expression,PREB
+mers_mers4_control,MERS4,Differential alternative splicing,ADD3
+mers_mers4_control,MERS4,Upregulated genes,ERICD
+mers_mers4_control,MERS4,Downregulated genes,RNF39
+mers_mers4_control,MERS4,Differential exon usage,PTBP2
+mers_mers4_control,MERS4,Differential transcript expression,ALDH1A3
+mers_mers4_control,MERS4,Differential alternative splicing,LCLAT1
+mers_mers4_control,MERS4,Upregulated genes,DDX58
+mers_mers4_control,MERS4,Downregulated genes,MUCL3
+mers_mers4_control,MERS4,Differential exon usage,GNAS
+mers_mers4_control,MERS4,Differential transcript expression,KHDRBS3
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF30
+mers_mers4_control,MERS4,Upregulated genes,TNC
+mers_mers4_control,MERS4,Downregulated genes,PIM1
+mers_mers4_control,MERS4,Differential exon usage,ARHGEF28
+mers_mers4_control,MERS4,Differential transcript expression,UFD1
+mers_mers4_control,MERS4,Differential alternative splicing,CFTR
+mers_mers4_control,MERS4,Upregulated genes,TLR4
+mers_mers4_control,MERS4,Downregulated genes,TRERF1
+mers_mers4_control,MERS4,Differential exon usage,MIR4435-2HG
+mers_mers4_control,MERS4,Differential transcript expression,KRT17
+mers_mers4_control,MERS4,Differential alternative splicing,CCDC157
+mers_mers4_control,MERS4,Upregulated genes,ZBTB34
+mers_mers4_control,MERS4,Downregulated genes,SLC25A27
+mers_mers4_control,MERS4,Differential exon usage,ZMYND8
+mers_mers4_control,MERS4,Differential transcript expression,NAA10
+mers_mers4_control,MERS4,Differential alternative splicing,ATXN2
+mers_mers4_control,MERS4,Upregulated genes,FAM102A
+mers_mers4_control,MERS4,Downregulated genes,PAQR8
+mers_mers4_control,MERS4,Differential exon usage,WDR73
+mers_mers4_control,MERS4,Differential transcript expression,CALD1
+mers_mers4_control,MERS4,Differential alternative splicing,UBE2D2
+mers_mers4_control,MERS4,Upregulated genes,ITIH2
+mers_mers4_control,MERS4,Downregulated genes,AL359715.1
+mers_mers4_control,MERS4,Differential exon usage,ANKRD11
+mers_mers4_control,MERS4,Differential transcript expression,SSR4
+mers_mers4_control,MERS4,Differential alternative splicing,AC007566.1
+mers_mers4_control,MERS4,Upregulated genes,JCAD
+mers_mers4_control,MERS4,Downregulated genes,HS3ST5
+mers_mers4_control,MERS4,Differential exon usage,MVK
+mers_mers4_control,MERS4,Differential transcript expression,RALY-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,GUSBP2
+mers_mers4_control,MERS4,Upregulated genes,FZD8
+mers_mers4_control,MERS4,Downregulated genes,AC073957.3
+mers_mers4_control,MERS4,Differential exon usage,KAT5
+mers_mers4_control,MERS4,Differential transcript expression,LAMA3
+mers_mers4_control,MERS4,Differential alternative splicing,GNE
+mers_mers4_control,MERS4,Upregulated genes,AL117339.4
+mers_mers4_control,MERS4,Downregulated genes,ELFN1-AS1
+mers_mers4_control,MERS4,Differential exon usage,SDF4
+mers_mers4_control,MERS4,Differential transcript expression,S100A13
+mers_mers4_control,MERS4,Differential alternative splicing,RAPGEF2
+mers_mers4_control,MERS4,Upregulated genes,RTKN2
+mers_mers4_control,MERS4,Downregulated genes,GRID2IP
+mers_mers4_control,MERS4,Differential exon usage,PPP1R16A
+mers_mers4_control,MERS4,Differential transcript expression,MCL1
+mers_mers4_control,MERS4,Differential alternative splicing,TLE3
+mers_mers4_control,MERS4,Upregulated genes,ZNF365
+mers_mers4_control,MERS4,Downregulated genes,SOSTDC1
+mers_mers4_control,MERS4,Differential exon usage,MIA2
+mers_mers4_control,MERS4,Differential transcript expression,BTBD8
+mers_mers4_control,MERS4,Differential alternative splicing,DISP1
+mers_mers4_control,MERS4,Upregulated genes,CHST3
+mers_mers4_control,MERS4,Downregulated genes,DNAH11
+mers_mers4_control,MERS4,Differential exon usage,DCAF1
+mers_mers4_control,MERS4,Differential transcript expression,LANCL2
+mers_mers4_control,MERS4,Differential alternative splicing,VSIG10
+mers_mers4_control,MERS4,Upregulated genes,AL731563.3
+mers_mers4_control,MERS4,Downregulated genes,HOXA3
+mers_mers4_control,MERS4,Differential exon usage,SZT2
+mers_mers4_control,MERS4,Differential transcript expression,CD55
+mers_mers4_control,MERS4,Differential alternative splicing,COA1
+mers_mers4_control,MERS4,Upregulated genes,IFIT2
+mers_mers4_control,MERS4,Downregulated genes,LINC00957
+mers_mers4_control,MERS4,Differential exon usage,ZNF263
+mers_mers4_control,MERS4,Differential transcript expression,RNF34
+mers_mers4_control,MERS4,Differential alternative splicing,GALE
+mers_mers4_control,MERS4,Upregulated genes,IFIT3
+mers_mers4_control,MERS4,Downregulated genes,MLXIPL
+mers_mers4_control,MERS4,Differential exon usage,AGAP3
+mers_mers4_control,MERS4,Differential transcript expression,IFIT2
+mers_mers4_control,MERS4,Differential alternative splicing,KCP
+mers_mers4_control,MERS4,Upregulated genes,IFIT1
+mers_mers4_control,MERS4,Downregulated genes,VPS37D
+mers_mers4_control,MERS4,Differential exon usage,DHRS3
+mers_mers4_control,MERS4,Differential transcript expression,IFI44L
+mers_mers4_control,MERS4,Differential alternative splicing,FOXK2
+mers_mers4_control,MERS4,Upregulated genes,IFITM10
+mers_mers4_control,MERS4,Downregulated genes,HIP1
+mers_mers4_control,MERS4,Differential exon usage,BICC1
+mers_mers4_control,MERS4,Differential transcript expression,HSPH1
+mers_mers4_control,MERS4,Differential alternative splicing,AC004130.2
+mers_mers4_control,MERS4,Upregulated genes,RRP8
+mers_mers4_control,MERS4,Downregulated genes,CFAP69
+mers_mers4_control,MERS4,Differential exon usage,CCDC14
+mers_mers4_control,MERS4,Differential transcript expression,SPOCD1
+mers_mers4_control,MERS4,Differential alternative splicing,ATRX
+mers_mers4_control,MERS4,Upregulated genes,GLYATL2
+mers_mers4_control,MERS4,Downregulated genes,PCOLCE
+mers_mers4_control,MERS4,Differential exon usage,SF3B1
+mers_mers4_control,MERS4,Differential transcript expression,GNL2
+mers_mers4_control,MERS4,Differential alternative splicing,TNRC6A
+mers_mers4_control,MERS4,Upregulated genes,CSKMT
+mers_mers4_control,MERS4,Downregulated genes,EPHB4
+mers_mers4_control,MERS4,Differential exon usage,C4BPB
+mers_mers4_control,MERS4,Differential transcript expression,RASA1
+mers_mers4_control,MERS4,Differential alternative splicing,CPEB2
+mers_mers4_control,MERS4,Upregulated genes,AP002364.1
+mers_mers4_control,MERS4,Downregulated genes,FOXP2
+mers_mers4_control,MERS4,Differential exon usage,PLEC
+mers_mers4_control,MERS4,Differential transcript expression,PPIA
+mers_mers4_control,MERS4,Differential alternative splicing,MOGAT1
+mers_mers4_control,MERS4,Upregulated genes,MMP1
+mers_mers4_control,MERS4,Downregulated genes,FEZF1-AS1
+mers_mers4_control,MERS4,Differential exon usage,FAM221A
+mers_mers4_control,MERS4,Differential transcript expression,SH3BP1
+mers_mers4_control,MERS4,Differential alternative splicing,UBE2J2
+mers_mers4_control,MERS4,Upregulated genes,MSANTD4
+mers_mers4_control,MERS4,Downregulated genes,KLRG2
+mers_mers4_control,MERS4,Differential exon usage,EXOSC3
+mers_mers4_control,MERS4,Differential transcript expression,CLINT1
+mers_mers4_control,MERS4,Differential alternative splicing,TNRC18
+mers_mers4_control,MERS4,Upregulated genes,ALKBH8
+mers_mers4_control,MERS4,Downregulated genes,TMEM139
+mers_mers4_control,MERS4,Differential exon usage,MYC
+mers_mers4_control,MERS4,Differential transcript expression,NDP
+mers_mers4_control,MERS4,Differential alternative splicing,GK5
+mers_mers4_control,MERS4,Upregulated genes,TAGLN
+mers_mers4_control,MERS4,Downregulated genes,CLCN1
+mers_mers4_control,MERS4,Differential exon usage,TRAPPC12
+mers_mers4_control,MERS4,Differential alternative splicing,MIR9-1HG
+mers_mers4_control,MERS4,Upregulated genes,ADAMTS15
+mers_mers4_control,MERS4,Downregulated genes,FAM131B
+mers_mers4_control,MERS4,Differential exon usage,RSRC2
+mers_mers4_control,MERS4,Differential alternative splicing,STX16
+mers_mers4_control,MERS4,Upregulated genes,LINC02551
+mers_mers4_control,MERS4,Downregulated genes,TCAF2
+mers_mers4_control,MERS4,Differential exon usage,COA1
+mers_mers4_control,MERS4,Differential alternative splicing,MEF2D
+mers_mers4_control,MERS4,Upregulated genes,VAMP1
+mers_mers4_control,MERS4,Downregulated genes,SDAD1P1
+mers_mers4_control,MERS4,Differential exon usage,KTN1
+mers_mers4_control,MERS4,Differential alternative splicing,ARHGAP5
+mers_mers4_control,MERS4,Upregulated genes,PTHLH
+mers_mers4_control,MERS4,Downregulated genes,PNMA2
+mers_mers4_control,MERS4,Differential exon usage,SSR4
+mers_mers4_control,MERS4,Differential alternative splicing,FASTK
+mers_mers4_control,MERS4,Upregulated genes,CSRNP2
+mers_mers4_control,MERS4,Downregulated genes,DPYSL2
+mers_mers4_control,MERS4,Differential exon usage,SKIV2L
+mers_mers4_control,MERS4,Differential alternative splicing,CCNJL
+mers_mers4_control,MERS4,Upregulated genes,AC090673.1
+mers_mers4_control,MERS4,Downregulated genes,DUSP4
+mers_mers4_control,MERS4,Differential exon usage,PLOD3
+mers_mers4_control,MERS4,Differential alternative splicing,OARD1
+mers_mers4_control,MERS4,Upregulated genes,HCFC2
+mers_mers4_control,MERS4,Downregulated genes,MIR548D1
+mers_mers4_control,MERS4,Differential exon usage,F12
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF384
+mers_mers4_control,MERS4,Upregulated genes,NUAK1
+mers_mers4_control,MERS4,Downregulated genes,MTSS1
+mers_mers4_control,MERS4,Differential exon usage,HSPH1
+mers_mers4_control,MERS4,Differential alternative splicing,ARV1
+mers_mers4_control,MERS4,Upregulated genes,OAS2
+mers_mers4_control,MERS4,Downregulated genes,AC139019.1
+mers_mers4_control,MERS4,Differential exon usage,P4HB
+mers_mers4_control,MERS4,Differential alternative splicing,ASPSCR1
+mers_mers4_control,MERS4,Upregulated genes,SPRING1
+mers_mers4_control,MERS4,Downregulated genes,NDRG1
+mers_mers4_control,MERS4,Differential exon usage,APEH
+mers_mers4_control,MERS4,Differential alternative splicing,PDXDC2P-NPIPB14P
+mers_mers4_control,MERS4,Upregulated genes,OASL
+mers_mers4_control,MERS4,Downregulated genes,PTP4A3
+mers_mers4_control,MERS4,Differential exon usage,ADGRA3
+mers_mers4_control,MERS4,Differential alternative splicing,ADCK5
+mers_mers4_control,MERS4,Upregulated genes,RNF34
+mers_mers4_control,MERS4,Downregulated genes,TSNARE1
+mers_mers4_control,MERS4,Differential exon usage,LAMB1
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF337-AS1
+mers_mers4_control,MERS4,Upregulated genes,GALNT9
+mers_mers4_control,MERS4,Downregulated genes,RHPN1
+mers_mers4_control,MERS4,Differential exon usage,CCNL1
+mers_mers4_control,MERS4,Differential alternative splicing,ACTR1A
+mers_mers4_control,MERS4,Upregulated genes,MEDAG
+mers_mers4_control,MERS4,Downregulated genes,AL353746.1
+mers_mers4_control,MERS4,Differential exon usage,ZNF131
+mers_mers4_control,MERS4,Differential alternative splicing,ACLY
+mers_mers4_control,MERS4,Upregulated genes,KL
+mers_mers4_control,MERS4,Downregulated genes,TMEM8B
+mers_mers4_control,MERS4,Differential exon usage,ALDH3B1
+mers_mers4_control,MERS4,Differential alternative splicing,DPY19L2P2
+mers_mers4_control,MERS4,Upregulated genes,PCDH9
+mers_mers4_control,MERS4,Downregulated genes,APBA1
+mers_mers4_control,MERS4,Differential exon usage,XPO6
+mers_mers4_control,MERS4,Differential alternative splicing,FAM118A
+mers_mers4_control,MERS4,Upregulated genes,IRF9
+mers_mers4_control,MERS4,Downregulated genes,KLF9
+mers_mers4_control,MERS4,Differential exon usage,ANKRD13D
+mers_mers4_control,MERS4,Differential alternative splicing,TMEM51
+mers_mers4_control,MERS4,Upregulated genes,FRMD6
+mers_mers4_control,MERS4,Downregulated genes,FGD3
+mers_mers4_control,MERS4,Differential exon usage,TSEN54
+mers_mers4_control,MERS4,Differential alternative splicing,CCM2
+mers_mers4_control,MERS4,Upregulated genes,RTL1
+mers_mers4_control,MERS4,Downregulated genes,PTCH1
+mers_mers4_control,MERS4,Differential exon usage,SMTN
+mers_mers4_control,MERS4,Differential alternative splicing,CLK1
+mers_mers4_control,MERS4,Upregulated genes,DIO3OS
+mers_mers4_control,MERS4,Downregulated genes,CORO2A
+mers_mers4_control,MERS4,Differential exon usage,CPNE1
+mers_mers4_control,MERS4,Differential alternative splicing,CASC15
+mers_mers4_control,MERS4,Upregulated genes,DIO3
+mers_mers4_control,MERS4,Downregulated genes,C9orf152
+mers_mers4_control,MERS4,Differential exon usage,SETD5
+mers_mers4_control,MERS4,Differential alternative splicing,ZZZ3
+mers_mers4_control,MERS4,Upregulated genes,THBS1
+mers_mers4_control,MERS4,Downregulated genes,RNF183
+mers_mers4_control,MERS4,Differential exon usage,HPS3
+mers_mers4_control,MERS4,Differential alternative splicing,MTX2
+mers_mers4_control,MERS4,Upregulated genes,FRMD5
+mers_mers4_control,MERS4,Downregulated genes,WDR31
+mers_mers4_control,MERS4,Differential exon usage,PLSCR1
+mers_mers4_control,MERS4,Differential alternative splicing,EXD2
+mers_mers4_control,MERS4,Upregulated genes,SHC4
+mers_mers4_control,MERS4,Downregulated genes,KIF12
+mers_mers4_control,MERS4,Differential exon usage,PRKX
+mers_mers4_control,MERS4,Differential alternative splicing,LMBR1L
+mers_mers4_control,MERS4,Upregulated genes,CYP1A1
+mers_mers4_control,MERS4,Downregulated genes,COL27A1
+mers_mers4_control,MERS4,Differential exon usage,RABAC1
+mers_mers4_control,MERS4,Differential alternative splicing,MBP
+mers_mers4_control,MERS4,Upregulated genes,ABHD2
+mers_mers4_control,MERS4,Downregulated genes,TRAF1
+mers_mers4_control,MERS4,Differential exon usage,STK24
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF121
+mers_mers4_control,MERS4,Upregulated genes,PRSS22
+mers_mers4_control,MERS4,Downregulated genes,DENND1A
+mers_mers4_control,MERS4,Differential exon usage,P2RX4
+mers_mers4_control,MERS4,Differential alternative splicing,FBXL12
+mers_mers4_control,MERS4,Upregulated genes,AC006111.2
+mers_mers4_control,MERS4,Downregulated genes,NOTCH1
+mers_mers4_control,MERS4,Differential exon usage,TBRG4
+mers_mers4_control,MERS4,Differential alternative splicing,MRPL55
+mers_mers4_control,MERS4,Upregulated genes,AC012676.1
+mers_mers4_control,MERS4,Downregulated genes,AJM1
+mers_mers4_control,MERS4,Differential exon usage,ZFYVE21
+mers_mers4_control,MERS4,Differential alternative splicing,BRD8
+mers_mers4_control,MERS4,Upregulated genes,AC022167.2
+mers_mers4_control,MERS4,Downregulated genes,LCN12
+mers_mers4_control,MERS4,Differential exon usage,NUBP2
+mers_mers4_control,MERS4,Differential alternative splicing,EXOG
+mers_mers4_control,MERS4,Upregulated genes,CNEP1R1
+mers_mers4_control,MERS4,Downregulated genes,RNF208
+mers_mers4_control,MERS4,Differential exon usage,KPNB1
+mers_mers4_control,MERS4,Differential alternative splicing,CAMSAP3
+mers_mers4_control,MERS4,Upregulated genes,PDP2
+mers_mers4_control,MERS4,Downregulated genes,LRRC37A6P
+mers_mers4_control,MERS4,Differential exon usage,MVD
+mers_mers4_control,MERS4,Differential alternative splicing,TNFRSF25
+mers_mers4_control,MERS4,Upregulated genes,HAS3
+mers_mers4_control,MERS4,Downregulated genes,GLUD1P2
+mers_mers4_control,MERS4,Differential exon usage,CYTOR
+mers_mers4_control,MERS4,Differential alternative splicing,FAM81A
+mers_mers4_control,MERS4,Upregulated genes,OSGIN1
+mers_mers4_control,MERS4,Downregulated genes,ARID5B
+mers_mers4_control,MERS4,Differential exon usage,LRRFIP2
+mers_mers4_control,MERS4,Differential alternative splicing,MARK2
+mers_mers4_control,MERS4,Upregulated genes,FOXC2
+mers_mers4_control,MERS4,Downregulated genes,SLC16A12
+mers_mers4_control,MERS4,Differential exon usage,SLC20A1
+mers_mers4_control,MERS4,Differential alternative splicing,RABEP2
+mers_mers4_control,MERS4,Upregulated genes,XAF1
+mers_mers4_control,MERS4,Downregulated genes,ELOVL3
+mers_mers4_control,MERS4,Differential exon usage,CTSD
+mers_mers4_control,MERS4,Differential alternative splicing,ATF2
+mers_mers4_control,MERS4,Upregulated genes,ADORA2B
+mers_mers4_control,MERS4,Downregulated genes,PDCD4
+mers_mers4_control,MERS4,Differential exon usage,FBXL6
+mers_mers4_control,MERS4,Differential alternative splicing,INSIG2
+mers_mers4_control,MERS4,Upregulated genes,KRT17P1
+mers_mers4_control,MERS4,Downregulated genes,ADAM8
+mers_mers4_control,MERS4,Differential exon usage,COQ8B
+mers_mers4_control,MERS4,Differential alternative splicing,KIF24
+mers_mers4_control,MERS4,Upregulated genes,KRT17P2
+mers_mers4_control,MERS4,Downregulated genes,LMNTD2-AS1
+mers_mers4_control,MERS4,Differential exon usage,LTBR
+mers_mers4_control,MERS4,Differential alternative splicing,PLAC8
+mers_mers4_control,MERS4,Upregulated genes,LINC02693
+mers_mers4_control,MERS4,Downregulated genes,MIR210HG
+mers_mers4_control,MERS4,Differential exon usage,SPIRE2
+mers_mers4_control,MERS4,Differential alternative splicing,RPP30
+mers_mers4_control,MERS4,Upregulated genes,KRT17
+mers_mers4_control,MERS4,Downregulated genes,SOX6
+mers_mers4_control,MERS4,Differential exon usage,THRAP3
+mers_mers4_control,MERS4,Differential alternative splicing,ABHD2
+mers_mers4_control,MERS4,Upregulated genes,B4GALNT2
+mers_mers4_control,MERS4,Downregulated genes,PHF21A
+mers_mers4_control,MERS4,Differential exon usage,CLK1
+mers_mers4_control,MERS4,Differential alternative splicing,FBL
+mers_mers4_control,MERS4,Upregulated genes,PPM1D
+mers_mers4_control,MERS4,Downregulated genes,SLC43A1
+mers_mers4_control,MERS4,Differential exon usage,HMG20A
+mers_mers4_control,MERS4,Differential alternative splicing,CEP57L1
+mers_mers4_control,MERS4,Upregulated genes,DSG3
+mers_mers4_control,MERS4,Downregulated genes,SIPA1
+mers_mers4_control,MERS4,Differential exon usage,CLDN7
+mers_mers4_control,MERS4,Differential alternative splicing,LINC01138
+mers_mers4_control,MERS4,Upregulated genes,LIPG
+mers_mers4_control,MERS4,Downregulated genes,CCDC85B
+mers_mers4_control,MERS4,Differential exon usage,LUC7L3
+mers_mers4_control,MERS4,Differential alternative splicing,BRCA2
+mers_mers4_control,MERS4,Upregulated genes,SERPINB8
+mers_mers4_control,MERS4,Downregulated genes,FGF19
+mers_mers4_control,MERS4,Differential exon usage,SPG7
+mers_mers4_control,MERS4,Differential alternative splicing,ZC3H18
+mers_mers4_control,MERS4,Upregulated genes,AC005306.1
+mers_mers4_control,MERS4,Downregulated genes,ARRB1
+mers_mers4_control,MERS4,Differential exon usage,ANKRD28
+mers_mers4_control,MERS4,Differential alternative splicing,FAM222B
+mers_mers4_control,MERS4,Upregulated genes,ANGPTL4
+mers_mers4_control,MERS4,Downregulated genes,CAPN5
+mers_mers4_control,MERS4,Differential exon usage,PRPSAP1
+mers_mers4_control,MERS4,Differential alternative splicing,ASCC1
+mers_mers4_control,MERS4,Upregulated genes,AC010422.8
+mers_mers4_control,MERS4,Downregulated genes,AP003120.1
+mers_mers4_control,MERS4,Differential exon usage,PIAS1
+mers_mers4_control,MERS4,Differential alternative splicing,TANC1
+mers_mers4_control,MERS4,Upregulated genes,ZNF420
+mers_mers4_control,MERS4,Downregulated genes,COLCA2
+mers_mers4_control,MERS4,Differential exon usage,DPAGT1
+mers_mers4_control,MERS4,Differential alternative splicing,LINC02882
+mers_mers4_control,MERS4,Upregulated genes,ZNF230
+mers_mers4_control,MERS4,Downregulated genes,DIXDC1
+mers_mers4_control,MERS4,Differential exon usage,ALG13
+mers_mers4_control,MERS4,Differential alternative splicing,ATP2A1
+mers_mers4_control,MERS4,Upregulated genes,CGB8
+mers_mers4_control,MERS4,Downregulated genes,AP002800.1
+mers_mers4_control,MERS4,Differential exon usage,SNAP47
+mers_mers4_control,MERS4,Differential alternative splicing,ETS2
+mers_mers4_control,MERS4,Upregulated genes,AC008687.2
+mers_mers4_control,MERS4,Downregulated genes,AKAP3
+mers_mers4_control,MERS4,Differential exon usage,PSMA4
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF546
+mers_mers4_control,MERS4,Upregulated genes,AC008687.3
+mers_mers4_control,MERS4,Downregulated genes,ENO2
+mers_mers4_control,MERS4,Differential exon usage,MIB2
+mers_mers4_control,MERS4,Differential alternative splicing,PDXDC1
+mers_mers4_control,MERS4,Upregulated genes,IL11
+mers_mers4_control,MERS4,Downregulated genes,GPRC5D-AS1
+mers_mers4_control,MERS4,Differential exon usage,COLGALT1
+mers_mers4_control,MERS4,Differential alternative splicing,ZBTB8OS
+mers_mers4_control,MERS4,Upregulated genes,FLRT3
+mers_mers4_control,MERS4,Downregulated genes,BHLHE41
+mers_mers4_control,MERS4,Differential exon usage,MYO10
+mers_mers4_control,MERS4,Differential alternative splicing,EEF1D
+mers_mers4_control,MERS4,Upregulated genes,ZSWIM3
+mers_mers4_control,MERS4,Downregulated genes,CACNB3
+mers_mers4_control,MERS4,Differential exon usage,UNC45A
+mers_mers4_control,MERS4,Differential alternative splicing,RHOT1
+mers_mers4_control,MERS4,Upregulated genes,AP000695.3
+mers_mers4_control,MERS4,Downregulated genes,ERBB3
+mers_mers4_control,MERS4,Differential exon usage,FBXO38
+mers_mers4_control,MERS4,Differential alternative splicing,CERKL
+mers_mers4_control,MERS4,Upregulated genes,MX2
+mers_mers4_control,MERS4,Downregulated genes,AC024941.2
+mers_mers4_control,MERS4,Differential exon usage,SNHG5
+mers_mers4_control,MERS4,Differential alternative splicing,NSUN7
+mers_mers4_control,MERS4,Upregulated genes,MX1
+mers_mers4_control,MERS4,Downregulated genes,HCAR1
+mers_mers4_control,MERS4,Differential exon usage,SLC12A9
+mers_mers4_control,MERS4,Differential alternative splicing,SUN1
+mers_mers4_control,MERS4,Upregulated genes,AC007663.4
+mers_mers4_control,MERS4,Downregulated genes,LINC00939
+mers_mers4_control,MERS4,Differential exon usage,PNKP
+mers_mers4_control,MERS4,Differential alternative splicing,ANKRD10
+mers_mers4_control,MERS4,Upregulated genes,AC002059.1
+mers_mers4_control,MERS4,Downregulated genes,FRY
+mers_mers4_control,MERS4,Differential exon usage,CFAP298
+mers_mers4_control,MERS4,Differential alternative splicing,GTDC1
+mers_mers4_control,MERS4,Upregulated genes,FAM227A
+mers_mers4_control,MERS4,Downregulated genes,NBEA
+mers_mers4_control,MERS4,Differential exon usage,UNC50
+mers_mers4_control,MERS4,Differential alternative splicing,DNHD1
+mers_mers4_control,MERS4,Upregulated genes,TNFRSF13C
+mers_mers4_control,MERS4,Downregulated genes,MCF2L
+mers_mers4_control,MERS4,Differential exon usage,FASTK
+mers_mers4_control,MERS4,Differential alternative splicing,C1orf116
+mers_mers4_control,MERS4,Upregulated genes,NDP
+mers_mers4_control,MERS4,Downregulated genes,SALL2
+mers_mers4_control,MERS4,Differential exon usage,S100A13
+mers_mers4_control,MERS4,Differential alternative splicing,SNX25
+mers_mers4_control,MERS4,Upregulated genes,PGAM1P7
+mers_mers4_control,MERS4,Downregulated genes,ZFHX2
+mers_mers4_control,MERS4,Differential exon usage,LINC01184
+mers_mers4_control,MERS4,Differential alternative splicing,GLT8D1
+mers_mers4_control,MERS4,Upregulated genes,RAB9B
+mers_mers4_control,MERS4,Downregulated genes,NFATC4
+mers_mers4_control,MERS4,Differential exon usage,BCLAF1
+mers_mers4_control,MERS4,Differential alternative splicing,RBBP7
+mers_mers4_control,MERS4,Downregulated genes,SLC25A21-AS1
+mers_mers4_control,MERS4,Differential exon usage,LRAT
+mers_mers4_control,MERS4,Differential alternative splicing,RNF181
+mers_mers4_control,MERS4,Downregulated genes,FOS
+mers_mers4_control,MERS4,Differential exon usage,AZIN1
+mers_mers4_control,MERS4,Differential alternative splicing,ITPRID2
+mers_mers4_control,MERS4,Downregulated genes,FOXN3
+mers_mers4_control,MERS4,Differential exon usage,KIAA0586
+mers_mers4_control,MERS4,Differential alternative splicing,MACC1
+mers_mers4_control,MERS4,Downregulated genes,C14orf132
+mers_mers4_control,MERS4,Differential exon usage,ORC6
+mers_mers4_control,MERS4,Differential alternative splicing,SLC35F5
+mers_mers4_control,MERS4,Downregulated genes,DEGS2
+mers_mers4_control,MERS4,Differential exon usage,SHC1
+mers_mers4_control,MERS4,Differential alternative splicing,PIP5K1A
+mers_mers4_control,MERS4,Downregulated genes,TNFAIP2
+mers_mers4_control,MERS4,Differential exon usage,ACD
+mers_mers4_control,MERS4,Differential alternative splicing,CDK10
+mers_mers4_control,MERS4,Downregulated genes,JAG2
+mers_mers4_control,MERS4,Differential exon usage,NUP50
+mers_mers4_control,MERS4,Differential alternative splicing,LIN54
+mers_mers4_control,MERS4,Downregulated genes,WDR72
+mers_mers4_control,MERS4,Differential exon usage,VEPH1
+mers_mers4_control,MERS4,Differential alternative splicing,NUP58
+mers_mers4_control,MERS4,Downregulated genes,CGNL1
+mers_mers4_control,MERS4,Differential exon usage,STAT2
+mers_mers4_control,MERS4,Differential alternative splicing,GRB10
+mers_mers4_control,MERS4,Downregulated genes,SCAPER
+mers_mers4_control,MERS4,Differential exon usage,EHF
+mers_mers4_control,MERS4,Differential alternative splicing,AGAP4
+mers_mers4_control,MERS4,Downregulated genes,MESP1
+mers_mers4_control,MERS4,Differential exon usage,SCP2
+mers_mers4_control,MERS4,Differential alternative splicing,LIMCH1
+mers_mers4_control,MERS4,Downregulated genes,AC015712.1
+mers_mers4_control,MERS4,Differential exon usage,UROS
+mers_mers4_control,MERS4,Differential alternative splicing,CFAP44
+mers_mers4_control,MERS4,Downregulated genes,FBXL16
+mers_mers4_control,MERS4,Differential exon usage,WSB1
+mers_mers4_control,MERS4,Differential alternative splicing,USP37
+mers_mers4_control,MERS4,Downregulated genes,HAGHL
+mers_mers4_control,MERS4,Differential exon usage,CCT3
+mers_mers4_control,MERS4,Differential alternative splicing,AHSA2P
+mers_mers4_control,MERS4,Downregulated genes,SYNGR3
+mers_mers4_control,MERS4,Differential exon usage,GUK1
+mers_mers4_control,MERS4,Differential alternative splicing,TRMT11
+mers_mers4_control,MERS4,Downregulated genes,RAB26
+mers_mers4_control,MERS4,Differential exon usage,TAPBP
+mers_mers4_control,MERS4,Differential alternative splicing,PUF60
+mers_mers4_control,MERS4,Downregulated genes,CASKIN1
+mers_mers4_control,MERS4,Differential exon usage,CLASP1
+mers_mers4_control,MERS4,Differential alternative splicing,RAP2C-AS1
+mers_mers4_control,MERS4,Downregulated genes,ADCY9
+mers_mers4_control,MERS4,Differential exon usage,ZFP36L1
+mers_mers4_control,MERS4,Differential alternative splicing,C12orf4
+mers_mers4_control,MERS4,Downregulated genes,GLIS2
+mers_mers4_control,MERS4,Differential exon usage,ZNF276
+mers_mers4_control,MERS4,Differential alternative splicing,MACROH2A1
+mers_mers4_control,MERS4,Downregulated genes,SYT17
+mers_mers4_control,MERS4,Differential exon usage,MAP3K7
+mers_mers4_control,MERS4,Differential alternative splicing,TBC1D5
+mers_mers4_control,MERS4,Downregulated genes,LINC02175
+mers_mers4_control,MERS4,Differential exon usage,TRIM33
+mers_mers4_control,MERS4,Differential alternative splicing,SPRED2
+mers_mers4_control,MERS4,Downregulated genes,DOC2A
+mers_mers4_control,MERS4,Differential exon usage,OPHN1
+mers_mers4_control,MERS4,Differential alternative splicing,EME2
+mers_mers4_control,MERS4,Downregulated genes,AC093512.2
+mers_mers4_control,MERS4,Differential exon usage,GULP1
+mers_mers4_control,MERS4,Differential alternative splicing,CPNE1
+mers_mers4_control,MERS4,Downregulated genes,YPEL3
+mers_mers4_control,MERS4,Differential exon usage,USP24
+mers_mers4_control,MERS4,Differential alternative splicing,MST1R
+mers_mers4_control,MERS4,Downregulated genes,NOD2
+mers_mers4_control,MERS4,Differential exon usage,POLE
+mers_mers4_control,MERS4,Differential alternative splicing,BDH1
+mers_mers4_control,MERS4,Downregulated genes,AC007906.2
+mers_mers4_control,MERS4,Differential exon usage,MLLT10
+mers_mers4_control,MERS4,Differential alternative splicing,OCIAD2
+mers_mers4_control,MERS4,Downregulated genes,KCTD19
+mers_mers4_control,MERS4,Differential exon usage,CORO1B
+mers_mers4_control,MERS4,Differential alternative splicing,GRIP1
+mers_mers4_control,MERS4,Downregulated genes,LRRC36
+mers_mers4_control,MERS4,Differential exon usage,TPM3
+mers_mers4_control,MERS4,Differential alternative splicing,PPM1M
+mers_mers4_control,MERS4,Downregulated genes,TMPOP2
+mers_mers4_control,MERS4,Differential exon usage,PHF12
+mers_mers4_control,MERS4,Differential alternative splicing,HSPD1
+mers_mers4_control,MERS4,Downregulated genes,GSE1
+mers_mers4_control,MERS4,Differential exon usage,CSDE1
+mers_mers4_control,MERS4,Differential alternative splicing,AKAP8L
+mers_mers4_control,MERS4,Downregulated genes,NATD1
+mers_mers4_control,MERS4,Differential exon usage,NSFL1C
+mers_mers4_control,MERS4,Differential alternative splicing,MAP4K3-DT
+mers_mers4_control,MERS4,Downregulated genes,KSR1
+mers_mers4_control,MERS4,Differential exon usage,HERC4
+mers_mers4_control,MERS4,Differential alternative splicing,TXNDC16
+mers_mers4_control,MERS4,Downregulated genes,PROCA1
+mers_mers4_control,MERS4,Differential exon usage,MACC1
+mers_mers4_control,MERS4,Differential alternative splicing,ASCC3
+mers_mers4_control,MERS4,Downregulated genes,MYO18A
+mers_mers4_control,MERS4,Differential exon usage,CENPO
+mers_mers4_control,MERS4,Differential alternative splicing,MINDY1
+mers_mers4_control,MERS4,Downregulated genes,TIAF1
+mers_mers4_control,MERS4,Differential exon usage,DDR1
+mers_mers4_control,MERS4,Differential alternative splicing,CNTRL
+mers_mers4_control,MERS4,Downregulated genes,AC015849.5
+mers_mers4_control,MERS4,Differential exon usage,ZNF532
+mers_mers4_control,MERS4,Differential alternative splicing,CDS1
+mers_mers4_control,MERS4,Downregulated genes,LRRC37A9P
+mers_mers4_control,MERS4,Differential exon usage,FANCL
+mers_mers4_control,MERS4,Differential alternative splicing,RIF1
+mers_mers4_control,MERS4,Downregulated genes,TBC1D3B
+mers_mers4_control,MERS4,Differential exon usage,FAM50A
+mers_mers4_control,MERS4,Differential alternative splicing,TCTN1
+mers_mers4_control,MERS4,Downregulated genes,SRCIN1
+mers_mers4_control,MERS4,Differential exon usage,CRNDE
+mers_mers4_control,MERS4,Differential alternative splicing,XRRA1
+mers_mers4_control,MERS4,Downregulated genes,EPOP
+mers_mers4_control,MERS4,Differential exon usage,PHLDA1
+mers_mers4_control,MERS4,Differential alternative splicing,RCE1
+mers_mers4_control,MERS4,Downregulated genes,LINC00672
+mers_mers4_control,MERS4,Differential exon usage,YWHAZ
+mers_mers4_control,MERS4,Differential alternative splicing,DPY19L3
+mers_mers4_control,MERS4,Downregulated genes,AC005288.1
+mers_mers4_control,MERS4,Differential exon usage,CYBC1
+mers_mers4_control,MERS4,Differential alternative splicing,INO80E
+mers_mers4_control,MERS4,Downregulated genes,PPP1R1B
+mers_mers4_control,MERS4,Differential exon usage,CLDN4
+mers_mers4_control,MERS4,Differential alternative splicing,SEC13
+mers_mers4_control,MERS4,Downregulated genes,GRB7
+mers_mers4_control,MERS4,Differential exon usage,FAM135A
+mers_mers4_control,MERS4,Differential alternative splicing,CD44
+mers_mers4_control,MERS4,Downregulated genes,THRA
+mers_mers4_control,MERS4,Differential exon usage,ZNF200
+mers_mers4_control,MERS4,Differential alternative splicing,MTMR9
+mers_mers4_control,MERS4,Downregulated genes,RARA-AS1
+mers_mers4_control,MERS4,Differential exon usage,ATF5
+mers_mers4_control,MERS4,Differential alternative splicing,HMGA2
+mers_mers4_control,MERS4,Downregulated genes,AC073508.3
+mers_mers4_control,MERS4,Differential exon usage,NAE1
+mers_mers4_control,MERS4,Differential alternative splicing,MYLK-AS1
+mers_mers4_control,MERS4,Downregulated genes,C17orf113
+mers_mers4_control,MERS4,Differential exon usage,ENOSF1
+mers_mers4_control,MERS4,Differential alternative splicing,CARD8
+mers_mers4_control,MERS4,Downregulated genes,CNTNAP1
+mers_mers4_control,MERS4,Differential exon usage,DHX15
+mers_mers4_control,MERS4,Differential alternative splicing,ABCG5
+mers_mers4_control,MERS4,Downregulated genes,MPP2
+mers_mers4_control,MERS4,Differential exon usage,STARD3
+mers_mers4_control,MERS4,Differential alternative splicing,AC105285.1
+mers_mers4_control,MERS4,Downregulated genes,FAM171A2
+mers_mers4_control,MERS4,Differential exon usage,ELF4
+mers_mers4_control,MERS4,Differential alternative splicing,EXO5
+mers_mers4_control,MERS4,Downregulated genes,FZD2
+mers_mers4_control,MERS4,Differential exon usage,FGD6
+mers_mers4_control,MERS4,Differential alternative splicing,FAM13B
+mers_mers4_control,MERS4,Downregulated genes,MAPT
+mers_mers4_control,MERS4,Differential exon usage,SPEN
+mers_mers4_control,MERS4,Differential alternative splicing,DNAH1
+mers_mers4_control,MERS4,Downregulated genes,EFCAB13
+mers_mers4_control,MERS4,Differential exon usage,MED24
+mers_mers4_control,MERS4,Differential alternative splicing,CRIP2
+mers_mers4_control,MERS4,Downregulated genes,TMEM92
+mers_mers4_control,MERS4,Differential exon usage,CLCN7
+mers_mers4_control,MERS4,Differential alternative splicing,MIR4435-2HG
+mers_mers4_control,MERS4,Downregulated genes,HLF
+mers_mers4_control,MERS4,Differential exon usage,FHOD1
+mers_mers4_control,MERS4,Differential alternative splicing,TOPORS
+mers_mers4_control,MERS4,Downregulated genes,GPRC5C
+mers_mers4_control,MERS4,Differential exon usage,GARS1
+mers_mers4_control,MERS4,Differential alternative splicing,UBR3
+mers_mers4_control,MERS4,Downregulated genes,AC005837.1
+mers_mers4_control,MERS4,Differential exon usage,TAGLN
+mers_mers4_control,MERS4,Differential alternative splicing,KCNK1
+mers_mers4_control,MERS4,Downregulated genes,BAIAP2-DT
+mers_mers4_control,MERS4,Differential exon usage,DDX5
+mers_mers4_control,MERS4,Differential alternative splicing,NAV1
+mers_mers4_control,MERS4,Downregulated genes,SLC16A3
+mers_mers4_control,MERS4,Differential exon usage,SIPA1L1
+mers_mers4_control,MERS4,Differential alternative splicing,LRRC37A2
+mers_mers4_control,MERS4,Downregulated genes,AC132872.4
+mers_mers4_control,MERS4,Differential exon usage,MOGAT1
+mers_mers4_control,MERS4,Differential alternative splicing,CHD9
+mers_mers4_control,MERS4,Downregulated genes,ZSCAN30
+mers_mers4_control,MERS4,Differential exon usage,CSNK2A1
+mers_mers4_control,MERS4,Differential alternative splicing,TPRA1
+mers_mers4_control,MERS4,Downregulated genes,CTIF
+mers_mers4_control,MERS4,Differential exon usage,CST3
+mers_mers4_control,MERS4,Differential alternative splicing,PABPC1L
+mers_mers4_control,MERS4,Downregulated genes,LINC02565
+mers_mers4_control,MERS4,Differential exon usage,SGTA
+mers_mers4_control,MERS4,Differential alternative splicing,MFSD13A
+mers_mers4_control,MERS4,Downregulated genes,TSHZ1
+mers_mers4_control,MERS4,Differential exon usage,NRG1
+mers_mers4_control,MERS4,Differential alternative splicing,DPH7
+mers_mers4_control,MERS4,Downregulated genes,NFATC1
+mers_mers4_control,MERS4,Differential exon usage,RNASEH2B
+mers_mers4_control,MERS4,Differential alternative splicing,LARP1B
+mers_mers4_control,MERS4,Downregulated genes,ARHGAP45
+mers_mers4_control,MERS4,Differential exon usage,ZNF746
+mers_mers4_control,MERS4,Differential alternative splicing,LEMD1
+mers_mers4_control,MERS4,Downregulated genes,ADAMTSL5
+mers_mers4_control,MERS4,Differential exon usage,ZBTB11
+mers_mers4_control,MERS4,Differential alternative splicing,TRIM41
+mers_mers4_control,MERS4,Downregulated genes,ATP8B3
+mers_mers4_control,MERS4,Differential exon usage,PTCD3
+mers_mers4_control,MERS4,Differential alternative splicing,KIFC3
+mers_mers4_control,MERS4,Downregulated genes,TLE6
+mers_mers4_control,MERS4,Differential exon usage,SEPTIN2
+mers_mers4_control,MERS4,Differential alternative splicing,CACNA1D
+mers_mers4_control,MERS4,Downregulated genes,TNFAIP8L1
+mers_mers4_control,MERS4,Differential exon usage,MTAP
+mers_mers4_control,MERS4,Differential alternative splicing,SAMD9L
+mers_mers4_control,MERS4,Downregulated genes,PTPRS
+mers_mers4_control,MERS4,Differential exon usage,FKBP4
+mers_mers4_control,MERS4,Differential alternative splicing,SPIN1
+mers_mers4_control,MERS4,Downregulated genes,PDE4A
+mers_mers4_control,MERS4,Differential exon usage,MXD3
+mers_mers4_control,MERS4,Differential alternative splicing,NAT1
+mers_mers4_control,MERS4,Downregulated genes,KANK2
+mers_mers4_control,MERS4,Differential exon usage,SLC26A6
+mers_mers4_control,MERS4,Differential alternative splicing,EXOC3
+mers_mers4_control,MERS4,Downregulated genes,RAB3D
+mers_mers4_control,MERS4,Differential exon usage,PLEKHA7
+mers_mers4_control,MERS4,Differential alternative splicing,ABCB6
+mers_mers4_control,MERS4,Downregulated genes,CYP4F12
+mers_mers4_control,MERS4,Differential exon usage,MTARC1
+mers_mers4_control,MERS4,Differential alternative splicing,NBN
+mers_mers4_control,MERS4,Downregulated genes,ABHD8
+mers_mers4_control,MERS4,Differential exon usage,DDX39A
+mers_mers4_control,MERS4,Differential alternative splicing,LYRM1
+mers_mers4_control,MERS4,Downregulated genes,ANO8
+mers_mers4_control,MERS4,Differential exon usage,NEDD4L
+mers_mers4_control,MERS4,Differential alternative splicing,GLS
+mers_mers4_control,MERS4,Downregulated genes,FCHO1
+mers_mers4_control,MERS4,Differential exon usage,SPAG1
+mers_mers4_control,MERS4,Differential alternative splicing,WDFY3
+mers_mers4_control,MERS4,Downregulated genes,IQCN
+mers_mers4_control,MERS4,Differential exon usage,ATR
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF133
+mers_mers4_control,MERS4,Downregulated genes,ARHGAP33
+mers_mers4_control,MERS4,Differential exon usage,SRGAP1
+mers_mers4_control,MERS4,Differential alternative splicing,ITGA7
+mers_mers4_control,MERS4,Downregulated genes,PRX
+mers_mers4_control,MERS4,Differential exon usage,CASC3
+mers_mers4_control,MERS4,Differential alternative splicing,DUSP12
+mers_mers4_control,MERS4,Downregulated genes,SPTBN4
+mers_mers4_control,MERS4,Differential exon usage,CEACAM1
+mers_mers4_control,MERS4,Differential alternative splicing,DPP8
+mers_mers4_control,MERS4,Downregulated genes,LTBP4
+mers_mers4_control,MERS4,Differential exon usage,GAK
+mers_mers4_control,MERS4,Differential alternative splicing,PCMTD2
+mers_mers4_control,MERS4,Downregulated genes,LIPE
+mers_mers4_control,MERS4,Differential exon usage,RPUSD3
+mers_mers4_control,MERS4,Differential alternative splicing,CHD8
+mers_mers4_control,MERS4,Downregulated genes,ZNF404
+mers_mers4_control,MERS4,Differential exon usage,ANAPC5
+mers_mers4_control,MERS4,Differential alternative splicing,LARP4
+mers_mers4_control,MERS4,Downregulated genes,BBC3
+mers_mers4_control,MERS4,Differential exon usage,MYRF
+mers_mers4_control,MERS4,Differential alternative splicing,BICDL1
+mers_mers4_control,MERS4,Downregulated genes,CCDC114
+mers_mers4_control,MERS4,Differential exon usage,SCFD1
+mers_mers4_control,MERS4,Differential alternative splicing,LINC00174
+mers_mers4_control,MERS4,Downregulated genes,LMTK3
+mers_mers4_control,MERS4,Differential exon usage,NTPCR
+mers_mers4_control,MERS4,Differential alternative splicing,MEGF6
+mers_mers4_control,MERS4,Downregulated genes,FAM83E
+mers_mers4_control,MERS4,Differential exon usage,PABPC1
+mers_mers4_control,MERS4,Differential alternative splicing,CCDC24
+mers_mers4_control,MERS4,Downregulated genes,DBP
+mers_mers4_control,MERS4,Differential exon usage,ABCD4
+mers_mers4_control,MERS4,Differential alternative splicing,CAMTA2
+mers_mers4_control,MERS4,Downregulated genes,FUT2
+mers_mers4_control,MERS4,Differential exon usage,MBTD1
+mers_mers4_control,MERS4,Differential alternative splicing,B3GALNT1
+mers_mers4_control,MERS4,Downregulated genes,PPFIA3
+mers_mers4_control,MERS4,Differential exon usage,OSGEP
+mers_mers4_control,MERS4,Differential alternative splicing,TCP11L2
+mers_mers4_control,MERS4,Downregulated genes,TEAD2
+mers_mers4_control,MERS4,Differential exon usage,BAZ2A
+mers_mers4_control,MERS4,Differential alternative splicing,VAPA
+mers_mers4_control,MERS4,Downregulated genes,ZNF320
+mers_mers4_control,MERS4,Differential exon usage,ACLY
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF433
+mers_mers4_control,MERS4,Downregulated genes,ZNF702P
+mers_mers4_control,MERS4,Differential exon usage,PHACTR3
+mers_mers4_control,MERS4,Differential alternative splicing,ACAP2
+mers_mers4_control,MERS4,Downregulated genes,CDC42EP5
+mers_mers4_control,MERS4,Differential exon usage,AIFM1
+mers_mers4_control,MERS4,Differential alternative splicing,SP2
+mers_mers4_control,MERS4,Downregulated genes,ZNF304
+mers_mers4_control,MERS4,Differential exon usage,STEAP1
+mers_mers4_control,MERS4,Differential alternative splicing,NR2F1-AS1
+mers_mers4_control,MERS4,Downregulated genes,NRSN2-AS1
+mers_mers4_control,MERS4,Differential exon usage,PRKCI
+mers_mers4_control,MERS4,Differential alternative splicing,SCML1
+mers_mers4_control,MERS4,Downregulated genes,SOX12
+mers_mers4_control,MERS4,Differential exon usage,RUVBL1
+mers_mers4_control,MERS4,Differential alternative splicing,WNK1
+mers_mers4_control,MERS4,Downregulated genes,PLCB4
+mers_mers4_control,MERS4,Differential exon usage,LMO4
+mers_mers4_control,MERS4,Differential alternative splicing,IQSEC1
+mers_mers4_control,MERS4,Downregulated genes,SPTLC3
+mers_mers4_control,MERS4,Differential exon usage,POLG
+mers_mers4_control,MERS4,Differential alternative splicing,DCP2
+mers_mers4_control,MERS4,Downregulated genes,ID1
+mers_mers4_control,MERS4,Differential exon usage,RASA2
+mers_mers4_control,MERS4,Differential alternative splicing,PTPN12
+mers_mers4_control,MERS4,Downregulated genes,NOL4L
+mers_mers4_control,MERS4,Differential exon usage,KCNN4
+mers_mers4_control,MERS4,Differential alternative splicing,TRAPPC2L
+mers_mers4_control,MERS4,Downregulated genes,RALY-AS1
+mers_mers4_control,MERS4,Differential exon usage,CACUL1
+mers_mers4_control,MERS4,Differential alternative splicing,ANKRD49
+mers_mers4_control,MERS4,Downregulated genes,TFAP2C
+mers_mers4_control,MERS4,Differential exon usage,COL27A1
+mers_mers4_control,MERS4,Differential alternative splicing,TMEM150A
+mers_mers4_control,MERS4,Downregulated genes,SYCP2
+mers_mers4_control,MERS4,Differential exon usage,GDI1
+mers_mers4_control,MERS4,Differential alternative splicing,PVT1
+mers_mers4_control,MERS4,Downregulated genes,LAMA5
+mers_mers4_control,MERS4,Differential exon usage,CHST9
+mers_mers4_control,MERS4,Differential alternative splicing,RNF111
+mers_mers4_control,MERS4,Downregulated genes,RBBP8NL
+mers_mers4_control,MERS4,Differential exon usage,MOSPD2
+mers_mers4_control,MERS4,Differential alternative splicing,MIR646HG
+mers_mers4_control,MERS4,Downregulated genes,PTK6
+mers_mers4_control,MERS4,Differential exon usage,GNL2
+mers_mers4_control,MERS4,Differential alternative splicing,NARS2
+mers_mers4_control,MERS4,Downregulated genes,ZBTB46
+mers_mers4_control,MERS4,Differential exon usage,TFPI
+mers_mers4_control,MERS4,Differential alternative splicing,LINC01515
+mers_mers4_control,MERS4,Downregulated genes,EVA1C
+mers_mers4_control,MERS4,Differential exon usage,SEM1
+mers_mers4_control,MERS4,Differential alternative splicing,LINC01572
+mers_mers4_control,MERS4,Downregulated genes,LRRC3
+mers_mers4_control,MERS4,Differential exon usage,RIPK1
+mers_mers4_control,MERS4,Differential alternative splicing,GPATCH2L
+mers_mers4_control,MERS4,Downregulated genes,RTN4R
+mers_mers4_control,MERS4,Differential exon usage,PSMG4
+mers_mers4_control,MERS4,Differential alternative splicing,PTPN4
+mers_mers4_control,MERS4,Downregulated genes,YPEL1
+mers_mers4_control,MERS4,Differential exon usage,BLOC1S6
+mers_mers4_control,MERS4,Differential alternative splicing,NFE2L1
+mers_mers4_control,MERS4,Downregulated genes,PRAME
+mers_mers4_control,MERS4,Differential exon usage,ISG20
+mers_mers4_control,MERS4,Differential alternative splicing,EMC1
+mers_mers4_control,MERS4,Downregulated genes,TTC28
+mers_mers4_control,MERS4,Differential exon usage,SERPINE2
+mers_mers4_control,MERS4,Differential alternative splicing,CCDC18-AS1
+mers_mers4_control,MERS4,Downregulated genes,GAL3ST1
+mers_mers4_control,MERS4,Differential exon usage,STARD3NL
+mers_mers4_control,MERS4,Differential alternative splicing,PGAP2
+mers_mers4_control,MERS4,Downregulated genes,PIK3IP1
+mers_mers4_control,MERS4,Differential exon usage,ARHGEF1
+mers_mers4_control,MERS4,Differential alternative splicing,CS
+mers_mers4_control,MERS4,Downregulated genes,C1QTNF6
+mers_mers4_control,MERS4,Differential exon usage,RECQL5
+mers_mers4_control,MERS4,Differential alternative splicing,CCT6P1
+mers_mers4_control,MERS4,Downregulated genes,ELFN2
+mers_mers4_control,MERS4,Differential exon usage,ZNF785
+mers_mers4_control,MERS4,Differential alternative splicing,CANT1
+mers_mers4_control,MERS4,Downregulated genes,SH3BP1
+mers_mers4_control,MERS4,Differential exon usage,PHYKPL
+mers_mers4_control,MERS4,Differential alternative splicing,SDCCAG8
+mers_mers4_control,MERS4,Downregulated genes,H1-0
+mers_mers4_control,MERS4,Differential exon usage,TACC2
+mers_mers4_control,MERS4,Differential alternative splicing,CIB2
+mers_mers4_control,MERS4,Downregulated genes,CBX7
+mers_mers4_control,MERS4,Differential exon usage,CSKMT
+mers_mers4_control,MERS4,Differential alternative splicing,BCL2L13
+mers_mers4_control,MERS4,Downregulated genes,MGAT3
+mers_mers4_control,MERS4,Differential exon usage,LAMA3
+mers_mers4_control,MERS4,Differential alternative splicing,FBXO38
+mers_mers4_control,MERS4,Downregulated genes,PMM1
+mers_mers4_control,MERS4,Differential exon usage,ENY2
+mers_mers4_control,MERS4,Differential alternative splicing,USP13
+mers_mers4_control,MERS4,Downregulated genes,ARHGAP8
+mers_mers4_control,MERS4,Differential exon usage,AHSA2P
+mers_mers4_control,MERS4,Differential alternative splicing,GNPDA2
+mers_mers4_control,MERS4,Downregulated genes,BX537318.1
+mers_mers4_control,MERS4,Differential exon usage,BCL2L15
+mers_mers4_control,MERS4,Differential alternative splicing,FAM221A
+mers_mers4_control,MERS4,Downregulated genes,MAPK12
+mers_mers4_control,MERS4,Differential exon usage,USP10
+mers_mers4_control,MERS4,Differential alternative splicing,ANXA2
+mers_mers4_control,MERS4,Downregulated genes,GYG2
+mers_mers4_control,MERS4,Differential exon usage,SLC35F5
+mers_mers4_control,MERS4,Differential alternative splicing,ATG4B
+mers_mers4_control,MERS4,Downregulated genes,EDA
+mers_mers4_control,MERS4,Differential exon usage,IMPA1
+mers_mers4_control,MERS4,Differential alternative splicing,PARP6
+mers_mers4_control,MERS4,Downregulated genes,ZMAT1
+mers_mers4_control,MERS4,Differential exon usage,KDM6A
+mers_mers4_control,MERS4,Differential alternative splicing,SS18
+mers_mers4_control,MERS4,Downregulated genes,PDZD4
+mers_mers4_control,MERS4,Differential exon usage,TTC37
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF627
+mers_mers4_control,MERS4,Differential exon usage,IREB2
+mers_mers4_control,MERS4,Differential alternative splicing,BCS1L
+mers_mers4_control,MERS4,Differential exon usage,FXR1
+mers_mers4_control,MERS4,Differential alternative splicing,NAV2
+mers_mers4_control,MERS4,Differential exon usage,CHKA
+mers_mers4_control,MERS4,Differential alternative splicing,SEC22A
+mers_mers4_control,MERS4,Differential exon usage,WARS1
+mers_mers4_control,MERS4,Differential alternative splicing,TRMT2B
+mers_mers4_control,MERS4,Differential exon usage,HSF1
+mers_mers4_control,MERS4,Differential alternative splicing,AC092153.1
+mers_mers4_control,MERS4,Differential exon usage,PAICS
+mers_mers4_control,MERS4,Differential alternative splicing,RERGL
+mers_mers4_control,MERS4,Differential exon usage,PPP1R10
+mers_mers4_control,MERS4,Differential alternative splicing,DNM1L
+mers_mers4_control,MERS4,Differential exon usage,VPS45
+mers_mers4_control,MERS4,Differential alternative splicing,NMNAT3
+mers_mers4_control,MERS4,Differential exon usage,TNFSF10
+mers_mers4_control,MERS4,Differential alternative splicing,MCM9
+mers_mers4_control,MERS4,Differential exon usage,NDRG4
+mers_mers4_control,MERS4,Differential alternative splicing,TTN-AS1
+mers_mers4_control,MERS4,Differential exon usage,ARAP1
+mers_mers4_control,MERS4,Differential alternative splicing,TTC22
+mers_mers4_control,MERS4,Differential exon usage,NADSYN1
+mers_mers4_control,MERS4,Differential alternative splicing,PGAP3
+mers_mers4_control,MERS4,Differential exon usage,CYB561A3
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF185
+mers_mers4_control,MERS4,Differential exon usage,ITGB8
+mers_mers4_control,MERS4,Differential alternative splicing,OGFOD2
+mers_mers4_control,MERS4,Differential exon usage,UACA
+mers_mers4_control,MERS4,Differential alternative splicing,AC017083.3
+mers_mers4_control,MERS4,Differential exon usage,CNOT2
+mers_mers4_control,MERS4,Differential alternative splicing,TFPT
+mers_mers4_control,MERS4,Differential exon usage,PIP5K1A
+mers_mers4_control,MERS4,Differential alternative splicing,COL22A1
+mers_mers4_control,MERS4,Differential exon usage,ZNF33A
+mers_mers4_control,MERS4,Differential alternative splicing,TRIM15
+mers_mers4_control,MERS4,Differential exon usage,TMEM106C
+mers_mers4_control,MERS4,Differential alternative splicing,ATP7A
+mers_mers4_control,MERS4,Differential exon usage,AP2A1
+mers_mers4_control,MERS4,Differential alternative splicing,ASXL1
+mers_mers4_control,MERS4,Differential exon usage,NEMF
+mers_mers4_control,MERS4,Differential alternative splicing,PTCH1
+mers_mers4_control,MERS4,Differential exon usage,SEPTIN7P2
+mers_mers4_control,MERS4,Differential alternative splicing,BECN1
+mers_mers4_control,MERS4,Differential exon usage,FAM13A
+mers_mers4_control,MERS4,Differential alternative splicing,PQBP1
+mers_mers4_control,MERS4,Differential exon usage,GTF3C1
+mers_mers4_control,MERS4,Differential alternative splicing,EPN3
+mers_mers4_control,MERS4,Differential exon usage,DENND3
+mers_mers4_control,MERS4,Differential alternative splicing,MADD
+mers_mers4_control,MERS4,Differential exon usage,AP3S2
+mers_mers4_control,MERS4,Differential alternative splicing,MTMR11
+mers_mers4_control,MERS4,Differential exon usage,LRRFIP1
+mers_mers4_control,MERS4,Differential alternative splicing,PSMB7
+mers_mers4_control,MERS4,Differential exon usage,MAN2C1
+mers_mers4_control,MERS4,Differential alternative splicing,ARVCF
+mers_mers4_control,MERS4,Differential exon usage,PLEKHA5
+mers_mers4_control,MERS4,Differential alternative splicing,ECSIT
+mers_mers4_control,MERS4,Differential exon usage,OARD1
+mers_mers4_control,MERS4,Differential alternative splicing,SF1
+mers_mers4_control,MERS4,Differential exon usage,PHF20L1
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF800
+mers_mers4_control,MERS4,Differential exon usage,FAM3A
+mers_mers4_control,MERS4,Differential alternative splicing,SPEN
+mers_mers4_control,MERS4,Differential exon usage,ZGLP1
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF143
+mers_mers4_control,MERS4,Differential exon usage,PKD1P3
+mers_mers4_control,MERS4,Differential alternative splicing,PAQR3
+mers_mers4_control,MERS4,Differential exon usage,MED23
+mers_mers4_control,MERS4,Differential alternative splicing,GDA
+mers_mers4_control,MERS4,Differential exon usage,MXI1
+mers_mers4_control,MERS4,Differential alternative splicing,SECISBP2
+mers_mers4_control,MERS4,Differential exon usage,EIF3E
+mers_mers4_control,MERS4,Differential alternative splicing,NR1H3
+mers_mers4_control,MERS4,Differential exon usage,CDC42
+mers_mers4_control,MERS4,Differential alternative splicing,ADAT1
+mers_mers4_control,MERS4,Differential exon usage,UQCRC2
+mers_mers4_control,MERS4,Differential alternative splicing,LTN1
+mers_mers4_control,MERS4,Differential exon usage,CAPN1
+mers_mers4_control,MERS4,Differential alternative splicing,AC244197.3
+mers_mers4_control,MERS4,Differential exon usage,MALAT1
+mers_mers4_control,MERS4,Differential alternative splicing,ATP6V0E2
+mers_mers4_control,MERS4,Differential exon usage,FAM13A-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,FGFR2
+mers_mers4_control,MERS4,Differential exon usage,CCDC88C
+mers_mers4_control,MERS4,Differential alternative splicing,IMMP1L
+mers_mers4_control,MERS4,Differential exon usage,SDCCAG8
+mers_mers4_control,MERS4,Differential alternative splicing,C21orf58
+mers_mers4_control,MERS4,Differential exon usage,NPEPPS
+mers_mers4_control,MERS4,Differential alternative splicing,PRR14L
+mers_mers4_control,MERS4,Differential exon usage,TBC1D2B
+mers_mers4_control,MERS4,Differential alternative splicing,AL441992.2
+mers_mers4_control,MERS4,Differential exon usage,ATXN2
+mers_mers4_control,MERS4,Differential alternative splicing,PISD
+mers_mers4_control,MERS4,Differential exon usage,C19orf25
+mers_mers4_control,MERS4,Differential alternative splicing,PALLD
+mers_mers4_control,MERS4,Differential exon usage,ADAM28
+mers_mers4_control,MERS4,Differential alternative splicing,RNF125
+mers_mers4_control,MERS4,Differential exon usage,UTP6
+mers_mers4_control,MERS4,Differential alternative splicing,GSDMB
+mers_mers4_control,MERS4,Differential exon usage,TSC22D2
+mers_mers4_control,MERS4,Differential alternative splicing,RPS6KA3
+mers_mers4_control,MERS4,Differential exon usage,METTL5
+mers_mers4_control,MERS4,Differential alternative splicing,FOXRED1
+mers_mers4_control,MERS4,Differential exon usage,PHF6
+mers_mers4_control,MERS4,Differential alternative splicing,ODF3B
+mers_mers4_control,MERS4,Differential exon usage,SERF2
+mers_mers4_control,MERS4,Differential alternative splicing,LRRC23
+mers_mers4_control,MERS4,Differential exon usage,WNK1
+mers_mers4_control,MERS4,Differential alternative splicing,RAD51D
+mers_mers4_control,MERS4,Differential exon usage,LPCAT4
+mers_mers4_control,MERS4,Differential alternative splicing,CAMTA1
+mers_mers4_control,MERS4,Differential exon usage,CEP170
+mers_mers4_control,MERS4,Differential alternative splicing,SIL1
+mers_mers4_control,MERS4,Differential exon usage,PRMT7
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF23
+mers_mers4_control,MERS4,Differential exon usage,PLXNA3
+mers_mers4_control,MERS4,Differential alternative splicing,MBNL1
+mers_mers4_control,MERS4,Differential exon usage,UCHL5
+mers_mers4_control,MERS4,Differential alternative splicing,AC087632.2
+mers_mers4_control,MERS4,Differential exon usage,ADGRG1
+mers_mers4_control,MERS4,Differential alternative splicing,SLC26A6
+mers_mers4_control,MERS4,Differential exon usage,RPS13
+mers_mers4_control,MERS4,Differential alternative splicing,ENC1
+mers_mers4_control,MERS4,Differential exon usage,MTUS1
+mers_mers4_control,MERS4,Differential alternative splicing,RSRC2
+mers_mers4_control,MERS4,Differential exon usage,EIF4G2
+mers_mers4_control,MERS4,Differential alternative splicing,GOLGA2P5
+mers_mers4_control,MERS4,Differential exon usage,HNRNPUL2
+mers_mers4_control,MERS4,Differential alternative splicing,CLTCL1
+mers_mers4_control,MERS4,Differential exon usage,PLEKHA1
+mers_mers4_control,MERS4,Differential alternative splicing,SRSF6
+mers_mers4_control,MERS4,Differential exon usage,CCDC115
+mers_mers4_control,MERS4,Differential alternative splicing,AP3M2
+mers_mers4_control,MERS4,Differential exon usage,HLA-B
+mers_mers4_control,MERS4,Differential alternative splicing,PPIA
+mers_mers4_control,MERS4,Differential exon usage,GSTK1
+mers_mers4_control,MERS4,Differential alternative splicing,FANCC
+mers_mers4_control,MERS4,Differential exon usage,HECTD1
+mers_mers4_control,MERS4,Differential alternative splicing,CIITA
+mers_mers4_control,MERS4,Differential exon usage,MRPS5
+mers_mers4_control,MERS4,Differential alternative splicing,SLC35B3
+mers_mers4_control,MERS4,Differential exon usage,THBS3
+mers_mers4_control,MERS4,Differential alternative splicing,SSBP3
+mers_mers4_control,MERS4,Differential exon usage,MAPKAPK5-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,GOLGA3
+mers_mers4_control,MERS4,Differential exon usage,ARFRP1
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF107
+mers_mers4_control,MERS4,Differential exon usage,PSME2
+mers_mers4_control,MERS4,Differential alternative splicing,NGLY1
+mers_mers4_control,MERS4,Differential exon usage,FAM53C
+mers_mers4_control,MERS4,Differential alternative splicing,CEP43
+mers_mers4_control,MERS4,Differential exon usage,UBQLN4
+mers_mers4_control,MERS4,Differential alternative splicing,SFT2D1
+mers_mers4_control,MERS4,Differential exon usage,EXT2
+mers_mers4_control,MERS4,Differential alternative splicing,STAT6
+mers_mers4_control,MERS4,Differential exon usage,TIMM17A
+mers_mers4_control,MERS4,Differential alternative splicing,C6orf163
+mers_mers4_control,MERS4,Differential exon usage,AGK
+mers_mers4_control,MERS4,Differential alternative splicing,SNX10
+mers_mers4_control,MERS4,Differential exon usage,CTTN
+mers_mers4_control,MERS4,Differential alternative splicing,ATG16L1
+mers_mers4_control,MERS4,Differential exon usage,UBA1
+mers_mers4_control,MERS4,Differential alternative splicing,ZEB1
+mers_mers4_control,MERS4,Differential exon usage,RNF6
+mers_mers4_control,MERS4,Differential alternative splicing,CCNB1IP1
+mers_mers4_control,MERS4,Differential exon usage,TNPO1
+mers_mers4_control,MERS4,Differential alternative splicing,TBC1D2B
+mers_mers4_control,MERS4,Differential exon usage,TPRN
+mers_mers4_control,MERS4,Differential alternative splicing,TAPBP
+mers_mers4_control,MERS4,Differential exon usage,GLS
+mers_mers4_control,MERS4,Differential alternative splicing,LINC00630
+mers_mers4_control,MERS4,Differential exon usage,VPS35
+mers_mers4_control,MERS4,Differential alternative splicing,RANBP3
+mers_mers4_control,MERS4,Differential exon usage,TRPT1
+mers_mers4_control,MERS4,Differential alternative splicing,ANXA4
+mers_mers4_control,MERS4,Differential exon usage,TPM4
+mers_mers4_control,MERS4,Differential alternative splicing,SAMD10
+mers_mers4_control,MERS4,Differential exon usage,PLEKHH3
+mers_mers4_control,MERS4,Differential alternative splicing,CU634019.1
+mers_mers4_control,MERS4,Differential exon usage,NRDC
+mers_mers4_control,MERS4,Differential alternative splicing,CEMIP
+mers_mers4_control,MERS4,Differential exon usage,RAD23B
+mers_mers4_control,MERS4,Differential alternative splicing,LINC-PINT
+mers_mers4_control,MERS4,Differential exon usage,BCKDK
+mers_mers4_control,MERS4,Differential alternative splicing,PPARG
+mers_mers4_control,MERS4,Differential exon usage,SETD6
+mers_mers4_control,MERS4,Differential alternative splicing,AC068946.1
+mers_mers4_control,MERS4,Differential exon usage,HLA-C
+mers_mers4_control,MERS4,Differential alternative splicing,HHLA2
+mers_mers4_control,MERS4,Differential exon usage,WAC
+mers_mers4_control,MERS4,Differential alternative splicing,TMEM129
+mers_mers4_control,MERS4,Differential exon usage,CYRIB
+mers_mers4_control,MERS4,Differential alternative splicing,ARHGEF9
+mers_mers4_control,MERS4,Differential exon usage,SMARCD2
+mers_mers4_control,MERS4,Differential alternative splicing,RRN3P3
+mers_mers4_control,MERS4,Differential exon usage,LARS1
+mers_mers4_control,MERS4,Differential alternative splicing,C12orf76
+mers_mers4_control,MERS4,Differential exon usage,HTRA2
+mers_mers4_control,MERS4,Differential alternative splicing,KDM8
+mers_mers4_control,MERS4,Differential exon usage,PNPO
+mers_mers4_control,MERS4,Differential alternative splicing,CLK4
+mers_mers4_control,MERS4,Differential exon usage,ITGA7
+mers_mers4_control,MERS4,Differential alternative splicing,DNAH14
+mers_mers4_control,MERS4,Differential exon usage,TSEN15
+mers_mers4_control,MERS4,Differential alternative splicing,CEP170
+mers_mers4_control,MERS4,Differential exon usage,CCM2
+mers_mers4_control,MERS4,Differential alternative splicing,AKAP9
+mers_mers4_control,MERS4,Differential exon usage,TRIP12
+mers_mers4_control,MERS4,Differential alternative splicing,ATP1A1-AS1
+mers_mers4_control,MERS4,Differential exon usage,MCM3AP-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF827
+mers_mers4_control,MERS4,Differential exon usage,ACO2
+mers_mers4_control,MERS4,Differential alternative splicing,MYNN
+mers_mers4_control,MERS4,Differential exon usage,NUDT22
+mers_mers4_control,MERS4,Differential alternative splicing,LINC01389
+mers_mers4_control,MERS4,Differential exon usage,NIT1
+mers_mers4_control,MERS4,Differential alternative splicing,WDR62
+mers_mers4_control,MERS4,Differential exon usage,PDIA4
+mers_mers4_control,MERS4,Differential alternative splicing,FRS2
+mers_mers4_control,MERS4,Differential exon usage,VCL
+mers_mers4_control,MERS4,Differential alternative splicing,NADSYN1
+mers_mers4_control,MERS4,Differential exon usage,RAB7A
+mers_mers4_control,MERS4,Differential alternative splicing,C3orf33
+mers_mers4_control,MERS4,Differential exon usage,MACIR
+mers_mers4_control,MERS4,Differential alternative splicing,KRT13
+mers_mers4_control,MERS4,Differential exon usage,ATP6AP1
+mers_mers4_control,MERS4,Differential alternative splicing,EFNA3
+mers_mers4_control,MERS4,Differential exon usage,SPAG9
+mers_mers4_control,MERS4,Differential alternative splicing,AHR
+mers_mers4_control,MERS4,Differential exon usage,AL354953.1
+mers_mers4_control,MERS4,Differential alternative splicing,ANO4
+mers_mers4_control,MERS4,Differential exon usage,CFTR
+mers_mers4_control,MERS4,Differential alternative splicing,SENP1
+mers_mers4_control,MERS4,Differential exon usage,OS9
+mers_mers4_control,MERS4,Differential alternative splicing,TNK2
+mers_mers4_control,MERS4,Differential exon usage,CRY1
+mers_mers4_control,MERS4,Differential alternative splicing,MRPS28
+mers_mers4_control,MERS4,Differential exon usage,DNMT1
+mers_mers4_control,MERS4,Differential alternative splicing,SP140L
+mers_mers4_control,MERS4,Differential exon usage,TFPI2
+mers_mers4_control,MERS4,Differential alternative splicing,USP33
+mers_mers4_control,MERS4,Differential exon usage,NUDCD3
+mers_mers4_control,MERS4,Differential alternative splicing,LINC01569
+mers_mers4_control,MERS4,Differential exon usage,MACF1
+mers_mers4_control,MERS4,Differential alternative splicing,EPB41L1
+mers_mers4_control,MERS4,Differential exon usage,TBC1D15
+mers_mers4_control,MERS4,Differential alternative splicing,AURKA
+mers_mers4_control,MERS4,Differential exon usage,SUPT5H
+mers_mers4_control,MERS4,Differential alternative splicing,SBF2-AS1
+mers_mers4_control,MERS4,Differential exon usage,ANKRD54
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF253
+mers_mers4_control,MERS4,Differential exon usage,APBB3
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF550
+mers_mers4_control,MERS4,Differential exon usage,TRIM24
+mers_mers4_control,MERS4,Differential alternative splicing,CFAP20DC
+mers_mers4_control,MERS4,Differential exon usage,LAD1
+mers_mers4_control,MERS4,Differential alternative splicing,ANO6
+mers_mers4_control,MERS4,Differential exon usage,ZNF12
+mers_mers4_control,MERS4,Differential alternative splicing,ZHX3
+mers_mers4_control,MERS4,Differential exon usage,SUPT20H
+mers_mers4_control,MERS4,Differential alternative splicing,KATNIP
+mers_mers4_control,MERS4,Differential exon usage,CD55
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF148
+mers_mers4_control,MERS4,Differential exon usage,TXNRD1
+mers_mers4_control,MERS4,Differential alternative splicing,IFI44
+mers_mers4_control,MERS4,Differential exon usage,VPS9D1-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,YWHAZ
+mers_mers4_control,MERS4,Differential exon usage,MOK
+mers_mers4_control,MERS4,Differential alternative splicing,TMEM116
+mers_mers4_control,MERS4,Differential exon usage,TMPO
+mers_mers4_control,MERS4,Differential alternative splicing,ESYT1
+mers_mers4_control,MERS4,Differential exon usage,TMEM161B-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,CASTOR3
+mers_mers4_control,MERS4,Differential exon usage,NUP160
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF532
+mers_mers4_control,MERS4,Differential exon usage,NDUFB2
+mers_mers4_control,MERS4,Differential alternative splicing,C1orf43
+mers_mers4_control,MERS4,Differential exon usage,FAM3C
+mers_mers4_control,MERS4,Differential alternative splicing,AGAP3
+mers_mers4_control,MERS4,Differential exon usage,GFM1
+mers_mers4_control,MERS4,Differential alternative splicing,FAM227A
+mers_mers4_control,MERS4,Differential exon usage,CLK4
+mers_mers4_control,MERS4,Differential alternative splicing,GGA3
+mers_mers4_control,MERS4,Differential exon usage,NDUFA9
+mers_mers4_control,MERS4,Differential alternative splicing,AP000787.1
+mers_mers4_control,MERS4,Differential exon usage,STRADA
+mers_mers4_control,MERS4,Differential alternative splicing,LINC02732
+mers_mers4_control,MERS4,Differential exon usage,ZNF555
+mers_mers4_control,MERS4,Differential alternative splicing,SCAP
+mers_mers4_control,MERS4,Differential exon usage,SAP30BP
+mers_mers4_control,MERS4,Differential alternative splicing,CNTNAP3
+mers_mers4_control,MERS4,Differential exon usage,SCRIB
+mers_mers4_control,MERS4,Differential alternative splicing,CASP8
+mers_mers4_control,MERS4,Differential exon usage,SLC15A4
+mers_mers4_control,MERS4,Differential alternative splicing,NTAQ1
+mers_mers4_control,MERS4,Differential exon usage,PSMD14
+mers_mers4_control,MERS4,Differential alternative splicing,SLC15A3
+mers_mers4_control,MERS4,Differential exon usage,AKAP9
+mers_mers4_control,MERS4,Differential alternative splicing,HMGB1
+mers_mers4_control,MERS4,Differential exon usage,SSR2
+mers_mers4_control,MERS4,Differential alternative splicing,FIP1L1
+mers_mers4_control,MERS4,Differential exon usage,ZNF451
+mers_mers4_control,MERS4,Differential alternative splicing,TMEM241
+mers_mers4_control,MERS4,Differential exon usage,SPOP
+mers_mers4_control,MERS4,Differential alternative splicing,CCDC58
+mers_mers4_control,MERS4,Differential exon usage,UTP15
+mers_mers4_control,MERS4,Differential alternative splicing,GOPC
+mers_mers4_control,MERS4,Differential exon usage,NDUFA3
+mers_mers4_control,MERS4,Differential alternative splicing,BABAM2
+mers_mers4_control,MERS4,Differential exon usage,ATP5F1D
+mers_mers4_control,MERS4,Differential alternative splicing,AKR1A1
+mers_mers4_control,MERS4,Differential exon usage,TMX1
+mers_mers4_control,MERS4,Differential alternative splicing,DECR1
+mers_mers4_control,MERS4,Differential exon usage,RAD17
+mers_mers4_control,MERS4,Differential alternative splicing,ANKS3
+mers_mers4_control,MERS4,Differential exon usage,COL7A1
+mers_mers4_control,MERS4,Differential alternative splicing,C1GALT1
+mers_mers4_control,MERS4,Differential exon usage,ECHDC2
+mers_mers4_control,MERS4,Differential alternative splicing,RNH1
+mers_mers4_control,MERS4,Differential exon usage,TMEM97
+mers_mers4_control,MERS4,Differential alternative splicing,RTCA
+mers_mers4_control,MERS4,Differential exon usage,NSD1
+mers_mers4_control,MERS4,Differential alternative splicing,SLFN11
+mers_mers4_control,MERS4,Differential exon usage,ASCC1
+mers_mers4_control,MERS4,Differential alternative splicing,JPX
+mers_mers4_control,MERS4,Differential exon usage,DDX3X
+mers_mers4_control,MERS4,Differential alternative splicing,CYP4F26P
+mers_mers4_control,MERS4,Differential exon usage,EPS8L3
+mers_mers4_control,MERS4,Differential alternative splicing,ATG9A
+mers_mers4_control,MERS4,Differential exon usage,HDLBP
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF772
+mers_mers4_control,MERS4,Differential exon usage,SP140
+mers_mers4_control,MERS4,Differential alternative splicing,NBEAP2
+mers_mers4_control,MERS4,Differential exon usage,TRAP1
+mers_mers4_control,MERS4,Differential alternative splicing,TUBD1
+mers_mers4_control,MERS4,Differential exon usage,TGOLN2
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF140
+mers_mers4_control,MERS4,Differential exon usage,UBE2I
+mers_mers4_control,MERS4,Differential alternative splicing,CARF
+mers_mers4_control,MERS4,Differential exon usage,GNG5
+mers_mers4_control,MERS4,Differential alternative splicing,HAL
+mers_mers4_control,MERS4,Differential exon usage,ZCCHC17
+mers_mers4_control,MERS4,Differential alternative splicing,PNPLA2
+mers_mers4_control,MERS4,Differential exon usage,UBAC1
+mers_mers4_control,MERS4,Differential alternative splicing,SPNS2
+mers_mers4_control,MERS4,Differential exon usage,GPD1L
+mers_mers4_control,MERS4,Differential alternative splicing,NEDD4L
+mers_mers4_control,MERS4,Differential exon usage,DIMT1
+mers_mers4_control,MERS4,Differential alternative splicing,FANCL
+mers_mers4_control,MERS4,Differential exon usage,TP53I13
+mers_mers4_control,MERS4,Differential alternative splicing,PACC1
+mers_mers4_control,MERS4,Differential exon usage,MYL6
+mers_mers4_control,MERS4,Differential alternative splicing,SDR39U1
+mers_mers4_control,MERS4,Differential exon usage,CUL2
+mers_mers4_control,MERS4,Differential alternative splicing,U2AF1L4
+mers_mers4_control,MERS4,Differential exon usage,GLT8D1
+mers_mers4_control,MERS4,Differential alternative splicing,CD22
+mers_mers4_control,MERS4,Differential exon usage,MAT2B
+mers_mers4_control,MERS4,Differential alternative splicing,MAN2A2
+mers_mers4_control,MERS4,Differential exon usage,ARHGAP44
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF18
+mers_mers4_control,MERS4,Differential exon usage,RNF146
+mers_mers4_control,MERS4,Differential alternative splicing,POLG2
+mers_mers4_control,MERS4,Differential exon usage,MADD
+mers_mers4_control,MERS4,Differential alternative splicing,BMPR1B
+mers_mers4_control,MERS4,Differential exon usage,SYCP2
+mers_mers4_control,MERS4,Differential alternative splicing,AC093157.1
+mers_mers4_control,MERS4,Differential exon usage,ARHGAP32
+mers_mers4_control,MERS4,Differential alternative splicing,MAMDC4
+mers_mers4_control,MERS4,Differential exon usage,AP2M1
+mers_mers4_control,MERS4,Differential alternative splicing,CCDC66
+mers_mers4_control,MERS4,Differential exon usage,RAD52
+mers_mers4_control,MERS4,Differential alternative splicing,SRGAP2
+mers_mers4_control,MERS4,Differential exon usage,CCS
+mers_mers4_control,MERS4,Differential alternative splicing,HPS5
+mers_mers4_control,MERS4,Differential exon usage,STK36
+mers_mers4_control,MERS4,Differential alternative splicing,CAPRIN2
+mers_mers4_control,MERS4,Differential exon usage,USP53
+mers_mers4_control,MERS4,Differential alternative splicing,PPM1A
+mers_mers4_control,MERS4,Differential exon usage,CTSA
+mers_mers4_control,MERS4,Differential alternative splicing,TRAPPC9
+mers_mers4_control,MERS4,Differential exon usage,TOM1
+mers_mers4_control,MERS4,Differential alternative splicing,TARS2
+mers_mers4_control,MERS4,Differential exon usage,BBS2
+mers_mers4_control,MERS4,Differential alternative splicing,MRPL45P2
+mers_mers4_control,MERS4,Differential exon usage,DNAJC19
+mers_mers4_control,MERS4,Differential alternative splicing,TMPRSS3
+mers_mers4_control,MERS4,Differential exon usage,SIN3B
+mers_mers4_control,MERS4,Differential alternative splicing,CAPN12
+mers_mers4_control,MERS4,Differential exon usage,IQCG
+mers_mers4_control,MERS4,Differential alternative splicing,FAM153A
+mers_mers4_control,MERS4,Differential exon usage,SPC24
+mers_mers4_control,MERS4,Differential alternative splicing,ZSCAN25
+mers_mers4_control,MERS4,Differential exon usage,CRACR2B
+mers_mers4_control,MERS4,Differential alternative splicing,KIF23
+mers_mers4_control,MERS4,Differential exon usage,VILL
+mers_mers4_control,MERS4,Differential alternative splicing,EBLN3P
+mers_mers4_control,MERS4,Differential exon usage,ZC3H14
+mers_mers4_control,MERS4,Differential alternative splicing,CCDC163
+mers_mers4_control,MERS4,Differential exon usage,MSH6
+mers_mers4_control,MERS4,Differential alternative splicing,NOS1AP
+mers_mers4_control,MERS4,Differential exon usage,EBLN3P
+mers_mers4_control,MERS4,Differential alternative splicing,PITHD1
+mers_mers4_control,MERS4,Differential exon usage,ANKRD36C
+mers_mers4_control,MERS4,Differential alternative splicing,PEX6
+mers_mers4_control,MERS4,Differential exon usage,LARS2
+mers_mers4_control,MERS4,Differential alternative splicing,BCL9L
+mers_mers4_control,MERS4,Differential exon usage,USP11
+mers_mers4_control,MERS4,Differential alternative splicing,PSPH
+mers_mers4_control,MERS4,Differential exon usage,TNIK
+mers_mers4_control,MERS4,Differential alternative splicing,NDRG2
+mers_mers4_control,MERS4,Differential exon usage,HDHD5
+mers_mers4_control,MERS4,Differential alternative splicing,BICD1
+mers_mers4_control,MERS4,Differential exon usage,LYAR
+mers_mers4_control,MERS4,Differential alternative splicing,CNOT3
+mers_mers4_control,MERS4,Differential exon usage,MAD2L1BP
+mers_mers4_control,MERS4,Differential alternative splicing,PTPRS
+mers_mers4_control,MERS4,Differential exon usage,PIEZO1
+mers_mers4_control,MERS4,Differential alternative splicing,FAM227B
+mers_mers4_control,MERS4,Differential exon usage,BIN1
+mers_mers4_control,MERS4,Differential alternative splicing,PDS5A
+mers_mers4_control,MERS4,Differential exon usage,PPP2R2A
+mers_mers4_control,MERS4,Differential alternative splicing,AC060780.1
+mers_mers4_control,MERS4,Differential exon usage,SQLE
+mers_mers4_control,MERS4,Differential alternative splicing,MYEOV
+mers_mers4_control,MERS4,Differential exon usage,APAF1
+mers_mers4_control,MERS4,Differential alternative splicing,LINC00707
+mers_mers4_control,MERS4,Differential exon usage,SEMA3C
+mers_mers4_control,MERS4,Differential alternative splicing,ITSN1
+mers_mers4_control,MERS4,Differential exon usage,DNM1
+mers_mers4_control,MERS4,Differential alternative splicing,PTPN13
+mers_mers4_control,MERS4,Differential exon usage,MEGF6
+mers_mers4_control,MERS4,Differential alternative splicing,TUBGCP4
+mers_mers4_control,MERS4,Differential exon usage,GLA
+mers_mers4_control,MERS4,Differential alternative splicing,USP10
+mers_mers4_control,MERS4,Differential exon usage,PPID
+mers_mers4_control,MERS4,Differential alternative splicing,ANKRD36
+mers_mers4_control,MERS4,Differential exon usage,ACAD10
+mers_mers4_control,MERS4,Differential alternative splicing,ALDH1L1
+mers_mers4_control,MERS4,Differential exon usage,CHTF18
+mers_mers4_control,MERS4,Differential alternative splicing,TRIM65
+mers_mers4_control,MERS4,Differential exon usage,KPNA1
+mers_mers4_control,MERS4,Differential alternative splicing,FER1L4
+mers_mers4_control,MERS4,Differential exon usage,ARRDC1
+mers_mers4_control,MERS4,Differential alternative splicing,AD000671.2
+mers_mers4_control,MERS4,Differential exon usage,ZMYM4
+mers_mers4_control,MERS4,Differential alternative splicing,TUBGCP5
+mers_mers4_control,MERS4,Differential exon usage,TMEM150A
+mers_mers4_control,MERS4,Differential alternative splicing,ASB3
+mers_mers4_control,MERS4,Differential exon usage,TPRA1
+mers_mers4_control,MERS4,Differential alternative splicing,PYM1
+mers_mers4_control,MERS4,Differential exon usage,CZIB
+mers_mers4_control,MERS4,Differential alternative splicing,PICK1
+mers_mers4_control,MERS4,Differential exon usage,GCLM
+mers_mers4_control,MERS4,Differential alternative splicing,DMXL1
+mers_mers4_control,MERS4,Differential exon usage,CAPS2
+mers_mers4_control,MERS4,Differential alternative splicing,IFT81
+mers_mers4_control,MERS4,Differential exon usage,SLC39A13
+mers_mers4_control,MERS4,Differential alternative splicing,DENND6B
+mers_mers4_control,MERS4,Differential exon usage,PAFAH1B1
+mers_mers4_control,MERS4,Differential alternative splicing,GPSM2
+mers_mers4_control,MERS4,Differential exon usage,TMBIM1
+mers_mers4_control,MERS4,Differential alternative splicing,RABGGTB
+mers_mers4_control,MERS4,Differential exon usage,MED25
+mers_mers4_control,MERS4,Differential alternative splicing,LINC00939
+mers_mers4_control,MERS4,Differential exon usage,STX1A
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF451
+mers_mers4_control,MERS4,Differential exon usage,STK25
+mers_mers4_control,MERS4,Differential alternative splicing,PRKAR1A
+mers_mers4_control,MERS4,Differential exon usage,ABCC10
+mers_mers4_control,MERS4,Differential alternative splicing,DYM
+mers_mers4_control,MERS4,Differential exon usage,PDLIM5
+mers_mers4_control,MERS4,Differential alternative splicing,GDAP2
+mers_mers4_control,MERS4,Differential exon usage,RAD51AP1
+mers_mers4_control,MERS4,Differential alternative splicing,TCOF1
+mers_mers4_control,MERS4,Differential exon usage,LIMA1
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF221
+mers_mers4_control,MERS4,Differential exon usage,PLEKHB2
+mers_mers4_control,MERS4,Differential alternative splicing,NUDCD3
+mers_mers4_control,MERS4,Differential exon usage,SLC35G2
+mers_mers4_control,MERS4,Differential alternative splicing,ATP11A
+mers_mers4_control,MERS4,Differential exon usage,ZNF76
+mers_mers4_control,MERS4,Differential alternative splicing,ZBTB7A
+mers_mers4_control,MERS4,Differential exon usage,SESTD1
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF417
+mers_mers4_control,MERS4,Differential alternative splicing,MRPS25
+mers_mers4_control,MERS4,Differential alternative splicing,AC135050.2
+mers_mers4_control,MERS4,Differential alternative splicing,TFDP2
+mers_mers4_control,MERS4,Differential alternative splicing,ATP13A4
+mers_mers4_control,MERS4,Differential alternative splicing,GLI4
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF195
+mers_mers4_control,MERS4,Differential alternative splicing,CEP170B
+mers_mers4_control,MERS4,Differential alternative splicing,BBS2
+mers_mers4_control,MERS4,Differential alternative splicing,CCDC189
+mers_mers4_control,MERS4,Differential alternative splicing,PHGDH
+mers_mers4_control,MERS4,Differential alternative splicing,UPP1
+mers_mers4_control,MERS4,Differential alternative splicing,CARS2
+mers_mers4_control,MERS4,Differential alternative splicing,CCDC125
+mers_mers4_control,MERS4,Differential alternative splicing,RAB40B
+mers_mers4_control,MERS4,Differential alternative splicing,POFUT2
+mers_mers4_control,MERS4,Differential alternative splicing,GMDS-DT
+mers_mers4_control,MERS4,Differential alternative splicing,XPA
+mers_mers4_control,MERS4,Differential alternative splicing,MAP3K3
+mers_mers4_control,MERS4,Differential alternative splicing,REX1BD
+mers_mers4_control,MERS4,Differential alternative splicing,PSORS1C1
+mers_mers4_control,MERS4,Differential alternative splicing,BTD
+mers_mers4_control,MERS4,Differential alternative splicing,PEX26
+mers_mers4_control,MERS4,Differential alternative splicing,ARIH1
+mers_mers4_control,MERS4,Differential alternative splicing,BBS5
+mers_mers4_control,MERS4,Differential alternative splicing,SLC23A3
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF638
+mers_mers4_control,MERS4,Differential alternative splicing,NISCH
+mers_mers4_control,MERS4,Differential alternative splicing,GEN1
+mers_mers4_control,MERS4,Differential alternative splicing,TRMT1
+mers_mers4_control,MERS4,Differential alternative splicing,PI4KAP2
+mers_mers4_control,MERS4,Differential alternative splicing,GLYR1
+mers_mers4_control,MERS4,Differential alternative splicing,RIMKLB
+mers_mers4_control,MERS4,Differential alternative splicing,HIPK3
+mers_mers4_control,MERS4,Differential alternative splicing,DUS3L
+mers_mers4_control,MERS4,Differential alternative splicing,LTB4R2
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF749
+mers_mers4_control,MERS4,Differential alternative splicing,SCAPER
+mers_mers4_control,MERS4,Differential alternative splicing,MEF2A
+mers_mers4_control,MERS4,Differential alternative splicing,ALS2CL
+mers_mers4_control,MERS4,Differential alternative splicing,RBM23
+mers_mers4_control,MERS4,Differential alternative splicing,KLK8
+mers_mers4_control,MERS4,Differential alternative splicing,YTHDC2
+mers_mers4_control,MERS4,Differential alternative splicing,DNAH7
+mers_mers4_control,MERS4,Differential alternative splicing,COPG1
+mers_mers4_control,MERS4,Differential alternative splicing,LUC7L3
+mers_mers4_control,MERS4,Differential alternative splicing,DNAAF4
+mers_mers4_control,MERS4,Differential alternative splicing,AP000769.1
+mers_mers4_control,MERS4,Differential alternative splicing,RANBP17
+mers_mers4_control,MERS4,Differential alternative splicing,RABGAP1L
+mers_mers4_control,MERS4,Differential alternative splicing,MELTF-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,IQCH
+mers_mers4_control,MERS4,Differential alternative splicing,RELL2
+mers_mers4_control,MERS4,Differential alternative splicing,GPX8
+mers_mers4_control,MERS4,Differential alternative splicing,AC093827.5
+mers_mers4_control,MERS4,Differential alternative splicing,CNOT4
+mers_mers4_control,MERS4,Differential alternative splicing,PREB
+mers_mers4_control,MERS4,Differential alternative splicing,SYDE1
+mers_mers4_control,MERS4,Differential alternative splicing,METTL27
+mers_mers4_control,MERS4,Differential alternative splicing,RPS9
+mers_mers4_control,MERS4,Differential alternative splicing,RCCD1
+mers_mers4_control,MERS4,Differential alternative splicing,ACTR3B
+mers_mers4_control,MERS4,Differential alternative splicing,STX3
+mers_mers4_control,MERS4,Differential alternative splicing,EPM2A
+mers_mers4_control,MERS4,Differential alternative splicing,ZMYM4
+mers_mers4_control,MERS4,Differential alternative splicing,CAPNS1
+mers_mers4_control,MERS4,Differential alternative splicing,MARK3
+mers_mers4_control,MERS4,Differential alternative splicing,TASP1
+mers_mers4_control,MERS4,Differential alternative splicing,MROH6
+mers_mers4_control,MERS4,Differential alternative splicing,RNF138
+mers_mers4_control,MERS4,Differential alternative splicing,ANKAR
+mers_mers4_control,MERS4,Differential alternative splicing,AOPEP
+mers_mers4_control,MERS4,Differential alternative splicing,NIPA2
+mers_mers4_control,MERS4,Differential alternative splicing,TBRG1
+mers_mers4_control,MERS4,Differential alternative splicing,GARS1-DT
+mers_mers4_control,MERS4,Differential alternative splicing,LINC02532
+mers_mers4_control,MERS4,Differential alternative splicing,SLC29A1
+mers_mers4_control,MERS4,Differential alternative splicing,MICAL3
+mers_mers4_control,MERS4,Differential alternative splicing,TSEN15
+mers_mers4_control,MERS4,Differential alternative splicing,PDE1C
+mers_mers4_control,MERS4,Differential alternative splicing,APPL1
+mers_mers4_control,MERS4,Differential alternative splicing,OSER1-DT
+mers_mers4_control,MERS4,Differential alternative splicing,DAGLA
+mers_mers4_control,MERS4,Differential alternative splicing,TRIM5
+mers_mers4_control,MERS4,Differential alternative splicing,MYLK
+mers_mers4_control,MERS4,Differential alternative splicing,MIR762HG
+mers_mers4_control,MERS4,Differential alternative splicing,IQCE
+mers_mers4_control,MERS4,Differential alternative splicing,YAF2
+mers_mers4_control,MERS4,Differential alternative splicing,DDHD1
+mers_mers4_control,MERS4,Differential alternative splicing,ETV7
+mers_mers4_control,MERS4,Differential alternative splicing,CNOT2
+mers_mers4_control,MERS4,Differential alternative splicing,EML2
+mers_mers4_control,MERS4,Differential alternative splicing,MTHFD2L
+mers_mers4_control,MERS4,Differential alternative splicing,DLST
+mers_mers4_control,MERS4,Differential alternative splicing,SIN3B
+mers_mers4_control,MERS4,Differential alternative splicing,BCLAF1
+mers_mers4_control,MERS4,Differential alternative splicing,NIN
+mers_mers4_control,MERS4,Differential alternative splicing,ENOSF1
+mers_mers4_control,MERS4,Differential alternative splicing,TRAPPC3
+mers_mers4_control,MERS4,Differential alternative splicing,RELA-DT
+mers_mers4_control,MERS4,Differential alternative splicing,IRF1
+mers_mers4_control,MERS4,Differential alternative splicing,TSC1
+mers_mers4_control,MERS4,Differential alternative splicing,ASAH2B
+mers_mers4_control,MERS4,Differential alternative splicing,SYP
+mers_mers4_control,MERS4,Differential alternative splicing,PCK2
+mers_mers4_control,MERS4,Differential alternative splicing,MPHOSPH6
+mers_mers4_control,MERS4,Differential alternative splicing,PKP4
+mers_mers4_control,MERS4,Differential alternative splicing,MFF
+mers_mers4_control,MERS4,Differential alternative splicing,MYEF2
+mers_mers4_control,MERS4,Differential alternative splicing,FILIP1L
+mers_mers4_control,MERS4,Differential alternative splicing,CCNT2
+mers_mers4_control,MERS4,Differential alternative splicing,NONO
+mers_mers4_control,MERS4,Differential alternative splicing,LINC00342
+mers_mers4_control,MERS4,Differential alternative splicing,CC2D2A
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF821
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF618
+mers_mers4_control,MERS4,Differential alternative splicing,TTC28-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF232
+mers_mers4_control,MERS4,Differential alternative splicing,MAVS
+mers_mers4_control,MERS4,Differential alternative splicing,PRSS36
+mers_mers4_control,MERS4,Differential alternative splicing,PHF19
+mers_mers4_control,MERS4,Differential alternative splicing,TBC1D4
+mers_mers4_control,MERS4,Differential alternative splicing,CTBP2
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF573
+mers_mers4_control,MERS4,Differential alternative splicing,GTF3C5
+mers_mers4_control,MERS4,Differential alternative splicing,OCIAD1
+mers_mers4_control,MERS4,Differential alternative splicing,RAD51AP1
+mers_mers4_control,MERS4,Differential alternative splicing,RP9P
+mers_mers4_control,MERS4,Differential alternative splicing,ARAP3
+mers_mers4_control,MERS4,Differential alternative splicing,HMGA1P4
+mers_mers4_control,MERS4,Differential alternative splicing,CAB39L
+mers_mers4_control,MERS4,Differential alternative splicing,FAM149A
+mers_mers4_control,MERS4,Differential alternative splicing,ATP6V0A4
+mers_mers4_control,MERS4,Differential alternative splicing,NAP1L4
+mers_mers4_control,MERS4,Differential alternative splicing,PIP4K2C
+mers_mers4_control,MERS4,Differential alternative splicing,TET2
+mers_mers4_control,MERS4,Differential alternative splicing,WASHC2A
+mers_mers4_control,MERS4,Differential alternative splicing,SWT1
+mers_mers4_control,MERS4,Differential alternative splicing,WDR27
+mers_mers4_control,MERS4,Differential alternative splicing,SETD4
+mers_mers4_control,MERS4,Differential alternative splicing,UBIAD1
+mers_mers4_control,MERS4,Differential alternative splicing,TELO2
+mers_mers4_control,MERS4,Differential alternative splicing,TMLHE
+mers_mers4_control,MERS4,Differential alternative splicing,AARSD1
+mers_mers4_control,MERS4,Differential alternative splicing,YKT6
+mers_mers4_control,MERS4,Differential alternative splicing,IGHMBP2
+mers_mers4_control,MERS4,Differential alternative splicing,RAB11FIP4
+mers_mers4_control,MERS4,Differential alternative splicing,TERF1
+mers_mers4_control,MERS4,Differential alternative splicing,KIF21A
+mers_mers4_control,MERS4,Differential alternative splicing,PIK3C2B
+mers_mers4_control,MERS4,Differential alternative splicing,SETD2
+mers_mers4_control,MERS4,Differential alternative splicing,KYAT1
+mers_mers4_control,MERS4,Differential alternative splicing,AVL9
+mers_mers4_control,MERS4,Differential alternative splicing,CTNND1
+mers_mers4_control,MERS4,Differential alternative splicing,TASOR2
+mers_mers4_control,MERS4,Differential alternative splicing,GALT
+mers_mers4_control,MERS4,Differential alternative splicing,FAM193B
+mers_mers4_control,MERS4,Differential alternative splicing,ADAM9
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF33A
+mers_mers4_control,MERS4,Differential alternative splicing,DDIAS
+mers_mers4_control,MERS4,Differential alternative splicing,SNX13
+mers_mers4_control,MERS4,Differential alternative splicing,PI4KAP1
+mers_mers4_control,MERS4,Differential alternative splicing,TRADD
+mers_mers4_control,MERS4,Differential alternative splicing,HARS1
+mers_mers4_control,MERS4,Differential alternative splicing,SPOP
+mers_mers4_control,MERS4,Differential alternative splicing,VEGFA
+mers_mers4_control,MERS4,Differential alternative splicing,KLK11
+mers_mers4_control,MERS4,Differential alternative splicing,PXN
+mers_mers4_control,MERS4,Differential alternative splicing,IP6K2
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF485
+mers_mers4_control,MERS4,Differential alternative splicing,CFAP410
+mers_mers4_control,MERS4,Differential alternative splicing,FAM133B
+mers_mers4_control,MERS4,Differential alternative splicing,TNFRSF11A
+mers_mers4_control,MERS4,Differential alternative splicing,LINC02582
+mers_mers4_control,MERS4,Differential alternative splicing,MCTP1
+mers_mers4_control,MERS4,Differential alternative splicing,KIF3A
+mers_mers4_control,MERS4,Differential alternative splicing,FAM86B2
+mers_mers4_control,MERS4,Differential alternative splicing,GSS
+mers_mers4_control,MERS4,Differential alternative splicing,NPNT
+mers_mers4_control,MERS4,Differential alternative splicing,TAF5
+mers_mers4_control,MERS4,Differential alternative splicing,PPRC1
+mers_mers4_control,MERS4,Differential alternative splicing,TPM1
+mers_mers4_control,MERS4,Differential alternative splicing,SLC39A11
+mers_mers4_control,MERS4,Differential alternative splicing,SYNE1
+mers_mers4_control,MERS4,Differential alternative splicing,EVI5
+mers_mers4_control,MERS4,Differential alternative splicing,TTC13
+mers_mers4_control,MERS4,Differential alternative splicing,ERVMER34-1
+mers_mers4_control,MERS4,Differential alternative splicing,PNPLA8
+mers_mers4_control,MERS4,Differential alternative splicing,CRLS1
+mers_mers4_control,MERS4,Differential alternative splicing,TMEM44-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,IKBKB
+mers_mers4_control,MERS4,Differential alternative splicing,PIGT
+mers_mers4_control,MERS4,Differential alternative splicing,NACA
+mers_mers4_control,MERS4,Differential alternative splicing,MBD5
+mers_mers4_control,MERS4,Differential alternative splicing,SLC25A40
+mers_mers4_control,MERS4,Differential alternative splicing,KIAA1841
+mers_mers4_control,MERS4,Differential alternative splicing,FAXC
+mers_mers4_control,MERS4,Differential alternative splicing,FDFT1
+mers_mers4_control,MERS4,Differential alternative splicing,LIPE
+mers_mers4_control,MERS4,Differential alternative splicing,KDM4C
+mers_mers4_control,MERS4,Differential alternative splicing,ATRIP
+mers_mers4_control,MERS4,Differential alternative splicing,POLM
+mers_mers4_control,MERS4,Differential alternative splicing,ST6GAL1
+mers_mers4_control,MERS4,Differential alternative splicing,TOM1L2
+mers_mers4_control,MERS4,Differential alternative splicing,SNHG29
+mers_mers4_control,MERS4,Differential alternative splicing,AKR1C7P
+mers_mers4_control,MERS4,Differential alternative splicing,BPHL
+mers_mers4_control,MERS4,Differential alternative splicing,POM121
+mers_mers4_control,MERS4,Differential alternative splicing,LINC00511
+mers_mers4_control,MERS4,Differential alternative splicing,C6orf52
+mers_mers4_control,MERS4,Differential alternative splicing,HSD11B1L
+mers_mers4_control,MERS4,Differential alternative splicing,CAT
+mers_mers4_control,MERS4,Differential alternative splicing,ZBTB38
+mers_mers4_control,MERS4,Differential alternative splicing,EIF4E
+mers_mers4_control,MERS4,Differential alternative splicing,EMC3-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,KRIT1
+mers_mers4_control,MERS4,Differential alternative splicing,FBXW11
+mers_mers4_control,MERS4,Differential alternative splicing,IL18
+mers_mers4_control,MERS4,Differential alternative splicing,NPIPA9
+mers_mers4_control,MERS4,Differential alternative splicing,PPP3CB
+mers_mers4_control,MERS4,Differential alternative splicing,STAU2
+mers_mers4_control,MERS4,Differential alternative splicing,RANGRF
+mers_mers4_control,MERS4,Differential alternative splicing,SMG1P7
+mers_mers4_control,MERS4,Differential alternative splicing,RASAL2
+mers_mers4_control,MERS4,Differential alternative splicing,HDAC10
+mers_mers4_control,MERS4,Differential alternative splicing,ZWILCH
+mers_mers4_control,MERS4,Differential alternative splicing,PROM1
+mers_mers4_control,MERS4,Differential alternative splicing,FANCA
+mers_mers4_control,MERS4,Differential alternative splicing,STK11IP
+mers_mers4_control,MERS4,Differential alternative splicing,CEP63
+mers_mers4_control,MERS4,Differential alternative splicing,EHMT1
+mers_mers4_control,MERS4,Differential alternative splicing,MGRN1
+mers_mers4_control,MERS4,Differential alternative splicing,MAST2
+mers_mers4_control,MERS4,Differential alternative splicing,LRBA
+mers_mers4_control,MERS4,Differential alternative splicing,APLF
+mers_mers4_control,MERS4,Differential alternative splicing,NSUN2
+mers_mers4_control,MERS4,Differential alternative splicing,MFN2
+mers_mers4_control,MERS4,Differential alternative splicing,NFYC
+mers_mers4_control,MERS4,Differential alternative splicing,SPTBN2
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF266
+mers_mers4_control,MERS4,Differential alternative splicing,C2CD5
+mers_mers4_control,MERS4,Differential alternative splicing,RALGPS1
+mers_mers4_control,MERS4,Differential alternative splicing,ARNTL
+mers_mers4_control,MERS4,Differential alternative splicing,KIAA1191
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF652
+mers_mers4_control,MERS4,Differential alternative splicing,CDKN2B-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,SLTM
+mers_mers4_control,MERS4,Differential alternative splicing,NUDT7
+mers_mers4_control,MERS4,Differential alternative splicing,FAM198B-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,FKTN
+mers_mers4_control,MERS4,Differential alternative splicing,RAP1GAP
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF512
+mers_mers4_control,MERS4,Differential alternative splicing,AGTPBP1
+mers_mers4_control,MERS4,Differential alternative splicing,RWDD3
+mers_mers4_control,MERS4,Differential alternative splicing,RFC5
+mers_mers4_control,MERS4,Differential alternative splicing,OR10H1
+mers_mers4_control,MERS4,Differential alternative splicing,MPHOSPH9
+mers_mers4_control,MERS4,Differential alternative splicing,NPHP3
+mers_mers4_control,MERS4,Differential alternative splicing,LLGL2
+mers_mers4_control,MERS4,Differential alternative splicing,POC1A
+mers_mers4_control,MERS4,Differential alternative splicing,SUZ12P1
+mers_mers4_control,MERS4,Differential alternative splicing,VAV3
+mers_mers4_control,MERS4,Differential alternative splicing,CAAP1
+mers_mers4_control,MERS4,Differential alternative splicing,POLR3B
+mers_mers4_control,MERS4,Differential alternative splicing,DHODH
+mers_mers4_control,MERS4,Differential alternative splicing,RNF38
+mers_mers4_control,MERS4,Differential alternative splicing,ARHGEF11
+mers_mers4_control,MERS4,Differential alternative splicing,DTNBP1
+mers_mers4_control,MERS4,Differential alternative splicing,DDB2
+mers_mers4_control,MERS4,Differential alternative splicing,FANCD2
+mers_mers4_control,MERS4,Differential alternative splicing,PINX1
+mers_mers4_control,MERS4,Differential alternative splicing,RIC1
+mers_mers4_control,MERS4,Differential alternative splicing,ZBED8
+mers_mers4_control,MERS4,Differential alternative splicing,BCOR
+mers_mers4_control,MERS4,Differential alternative splicing,RGS5
+mers_mers4_control,MERS4,Differential alternative splicing,LINC01504
+mers_mers4_control,MERS4,Differential alternative splicing,SEMA6C
+mers_mers4_control,MERS4,Differential alternative splicing,DHRS12
+mers_mers4_control,MERS4,Differential alternative splicing,MIS12
+mers_mers4_control,MERS4,Differential alternative splicing,CNTLN
+mers_mers4_control,MERS4,Differential alternative splicing,NBEAL1
+mers_mers4_control,MERS4,Differential alternative splicing,XBP1
+mers_mers4_control,MERS4,Differential alternative splicing,SLC25A39
+mers_mers4_control,MERS4,Differential alternative splicing,SRSF5
+mers_mers4_control,MERS4,Differential alternative splicing,S100A13
+mers_mers4_control,MERS4,Differential alternative splicing,RREB1
+mers_mers4_control,MERS4,Differential alternative splicing,ORC2
+mers_mers4_control,MERS4,Differential alternative splicing,RAB24
+mers_mers4_control,MERS4,Differential alternative splicing,RBM25
+mers_mers4_control,MERS4,Differential alternative splicing,STAT2
+mers_mers4_control,MERS4,Differential alternative splicing,SMARCC2
+mers_mers4_control,MERS4,Differential alternative splicing,C3orf35
+mers_mers4_control,MERS4,Differential alternative splicing,HPS4
+mers_mers4_control,MERS4,Differential alternative splicing,CLCN7
+mers_mers4_control,MERS4,Differential alternative splicing,GPT
+mers_mers4_control,MERS4,Differential alternative splicing,CCER2
+mers_mers4_control,MERS4,Differential alternative splicing,MICALL2
+mers_mers4_control,MERS4,Differential alternative splicing,DPP7
+mers_mers4_control,MERS4,Differential alternative splicing,RBM3
+mers_mers4_control,MERS4,Differential alternative splicing,ZCCHC18
+mers_mers4_control,MERS4,Differential alternative splicing,FANK1
+mers_mers4_control,MERS4,Differential alternative splicing,SCEL
+mers_mers4_control,MERS4,Differential alternative splicing,SPEF2
+mers_mers4_control,MERS4,Differential alternative splicing,ABCD4
+mers_mers4_control,MERS4,Differential alternative splicing,IMPDH2
+mers_mers4_control,MERS4,Differential alternative splicing,ANKRD13D
+mers_mers4_control,MERS4,Differential alternative splicing,GPS2
+mers_mers4_control,MERS4,Differential alternative splicing,PRR19
+mers_mers4_control,MERS4,Differential alternative splicing,WHRN
+mers_mers4_control,MERS4,Differential alternative splicing,LUCAT1
+mers_mers4_control,MERS4,Differential alternative splicing,RPL10A
+mers_mers4_control,MERS4,Differential alternative splicing,FBXL6
+mers_mers4_control,MERS4,Differential alternative splicing,NEIL1
+mers_mers4_control,MERS4,Differential alternative splicing,DYNC1LI1
+mers_mers4_control,MERS4,Differential alternative splicing,ATPAF2
+mers_mers4_control,MERS4,Differential alternative splicing,LINC00618
+mers_mers4_control,MERS4,Differential alternative splicing,EWSR1
+mers_mers4_control,MERS4,Differential alternative splicing,CMYA5
+mers_mers4_control,MERS4,Differential alternative splicing,FAM200B
+mers_mers4_control,MERS4,Differential alternative splicing,MAP3K14-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,HAGHL
+mers_mers4_control,MERS4,Differential alternative splicing,ARMC10
+mers_mers4_control,MERS4,Differential alternative splicing,ARAP1
+mers_mers4_control,MERS4,Differential alternative splicing,RABGGTA
+mers_mers4_control,MERS4,Differential alternative splicing,FAM122C
+mers_mers4_control,MERS4,Differential alternative splicing,GABARAPL1
+mers_mers4_control,MERS4,Differential alternative splicing,POP5
+mers_mers4_control,MERS4,Differential alternative splicing,SNHG5
+mers_mers4_control,MERS4,Differential alternative splicing,NDUFA6-DT
+mers_mers4_control,MERS4,Differential alternative splicing,RPL23
+mers_mers4_control,MERS4,Differential alternative splicing,MED13L
+mers_mers4_control,MERS4,Differential alternative splicing,RPL13A
+mers_mers4_control,MERS4,Differential alternative splicing,TLE2
+mers_mers4_control,MERS4,Differential alternative splicing,INTS6L
+mers_mers4_control,MERS4,Differential alternative splicing,TMEM161B-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,SETMAR
+mers_mers4_control,MERS4,Differential alternative splicing,AL162258.1
+mers_mers4_control,MERS4,Differential alternative splicing,PRKAG2
+mers_mers4_control,MERS4,Differential alternative splicing,THAP7
+mers_mers4_control,MERS4,Differential alternative splicing,DGKZ
+mers_mers4_control,MERS4,Differential alternative splicing,GCDH
+mers_mers4_control,MERS4,Differential alternative splicing,WDR11
+mers_mers4_control,MERS4,Differential alternative splicing,RAB15
+mers_mers4_control,MERS4,Differential alternative splicing,RPS7
+mers_mers4_control,MERS4,Differential alternative splicing,CEP192
+mers_mers4_control,MERS4,Differential alternative splicing,TUBGCP6
+mers_mers4_control,MERS4,Differential alternative splicing,TEPSIN
+mers_mers4_control,MERS4,Differential alternative splicing,NPEPPS
+mers_mers4_control,MERS4,Differential alternative splicing,WDR13
+mers_mers4_control,MERS4,Differential alternative splicing,DALRD3
+mers_mers4_control,MERS4,Differential alternative splicing,ZFPL1
+mers_mers4_control,MERS4,Differential alternative splicing,SH3TC1
+mers_mers4_control,MERS4,Differential alternative splicing,ENO2
+mers_mers4_control,MERS4,Differential alternative splicing,BICD2
+mers_mers4_control,MERS4,Differential alternative splicing,MUC20-OT1
+mers_mers4_control,MERS4,Differential alternative splicing,INTS3
+mers_mers4_control,MERS4,Differential alternative splicing,ATG16L2
+mers_mers4_control,MERS4,Differential alternative splicing,WASH2P
+mers_mers4_control,MERS4,Differential alternative splicing,CALM3
+mers_mers4_control,MERS4,Differential alternative splicing,ZSWIM7
+mers_mers4_control,MERS4,Differential alternative splicing,TMEM218
+mers_mers4_control,MERS4,Differential alternative splicing,BTBD3
+mers_mers4_control,MERS4,Differential alternative splicing,NPHP1
+mers_mers4_control,MERS4,Differential alternative splicing,TRIM27
+mers_mers4_control,MERS4,Differential alternative splicing,ATP13A2
+mers_mers4_control,MERS4,Differential alternative splicing,NUDT17
+mers_mers4_control,MERS4,Differential alternative splicing,SSH3
+mers_mers4_control,MERS4,Differential alternative splicing,ST3GAL1
+mers_mers4_control,MERS4,Differential alternative splicing,MRNIP
+mers_mers4_control,MERS4,Differential alternative splicing,FAM135A
+mers_mers4_control,MERS4,Differential alternative splicing,FRMD5
+mers_mers4_control,MERS4,Differential alternative splicing,IFT140
+mers_mers4_control,MERS4,Differential alternative splicing,LRAT
+mers_mers4_control,MERS4,Differential alternative splicing,DUT
+mers_mers4_control,MERS4,Differential alternative splicing,FAM9B
+mers_mers4_control,MERS4,Differential alternative splicing,DHRS1
+mers_mers4_control,MERS4,Differential alternative splicing,TRA2A
+mers_mers4_control,MERS4,Differential alternative splicing,HMBS
+mers_mers4_control,MERS4,Differential alternative splicing,FNDC4
+mers_mers4_control,MERS4,Differential alternative splicing,MKRN2
+mers_mers4_control,MERS4,Differential alternative splicing,FUS
+mers_mers4_control,MERS4,Differential alternative splicing,KCNH8
+mers_mers4_control,MERS4,Differential alternative splicing,ARHGAP27
+mers_mers4_control,MERS4,Differential alternative splicing,RAB26
+mers_mers4_control,MERS4,Differential alternative splicing,SYNE4
+mers_mers4_control,MERS4,Differential alternative splicing,PITPNM1
+mers_mers4_control,MERS4,Differential alternative splicing,B4GALNT4
+mers_mers4_control,MERS4,Differential alternative splicing,LIMD2
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF714
+mers_mers4_control,MERS4,Differential alternative splicing,AP3B2
+mers_mers4_control,MERS4,Differential alternative splicing,PLXNB1
+mers_mers4_control,MERS4,Differential alternative splicing,SNX27
+mers_mers4_control,MERS4,Differential alternative splicing,UBXN4
+mers_mers4_control,MERS4,Differential alternative splicing,AL365205.1
+mers_mers4_control,MERS4,Differential alternative splicing,CARS1
+mers_mers4_control,MERS4,Differential alternative splicing,ANKRD13B
+mers_mers4_control,MERS4,Differential alternative splicing,CAMKV
+mers_mers4_control,MERS4,Differential alternative splicing,UCKL1
+mers_mers4_control,MERS4,Differential alternative splicing,FAM66D
+mers_mers4_control,MERS4,Differential alternative splicing,C1orf35
+mers_mers4_control,MERS4,Differential alternative splicing,ACAD10
+mers_mers4_control,MERS4,Differential alternative splicing,NRP2
+mers_mers4_control,MERS4,Differential alternative splicing,COL7A1
+mers_mers4_control,MERS4,Differential alternative splicing,AKIP1
+mers_mers4_control,MERS4,Differential alternative splicing,EDC4
+mers_mers4_control,MERS4,Differential alternative splicing,LINC01270
+mers_mers4_control,MERS4,Differential alternative splicing,CPSF7
+mers_mers4_control,MERS4,Differential alternative splicing,RGL2
+mers_mers4_control,MERS4,Differential alternative splicing,ATP6AP2
+mers_mers4_control,MERS4,Differential alternative splicing,ATR
+mers_mers4_control,MERS4,Differential alternative splicing,AP1G2
+mers_mers4_control,MERS4,Differential alternative splicing,RFNG
+mers_mers4_control,MERS4,Differential alternative splicing,IRF3
+mers_mers4_control,MERS4,Differential alternative splicing,THOC1
+mers_mers4_control,MERS4,Differential alternative splicing,CNBP
+mers_mers4_control,MERS4,Differential alternative splicing,SF3B1
+mers_mers4_control,MERS4,Differential alternative splicing,ARSJ
+mers_mers4_control,MERS4,Differential alternative splicing,MTA1
+mers_mers4_control,MERS4,Differential alternative splicing,POU5F1
+mers_mers4_control,MERS4,Differential alternative splicing,DDX3X
+mers_mers4_control,MERS4,Differential alternative splicing,HNF1A
+mers_mers4_control,MERS4,Differential alternative splicing,OXSM
+mers_mers4_control,MERS4,Differential alternative splicing,MICAL1
+mers_mers4_control,MERS4,Differential alternative splicing,NKTR
+mers_mers4_control,MERS4,Differential alternative splicing,MED25
+mers_mers4_control,MERS4,Differential alternative splicing,LARS1
+mers_mers4_control,MERS4,Differential alternative splicing,SMC4
+mers_mers4_control,MERS4,Differential alternative splicing,JAG1
+mers_mers4_control,MERS4,Differential alternative splicing,KCNAB2
+mers_mers4_control,MERS4,Differential alternative splicing,ELAC2
+mers_mers4_control,MERS4,Differential alternative splicing,SPG7
+mers_mers4_control,MERS4,Differential alternative splicing,LIN37
+mers_mers4_control,MERS4,Differential alternative splicing,IFT27
+mers_mers4_control,MERS4,Differential alternative splicing,NEK9
+mers_mers4_control,MERS4,Differential alternative splicing,ABL2
+mers_mers4_control,MERS4,Differential alternative splicing,L3MBTL1
+mers_mers4_control,MERS4,Differential alternative splicing,KCNN4
+mers_mers4_control,MERS4,Differential alternative splicing,PLCB2
+mers_mers4_control,MERS4,Differential alternative splicing,SSR2
+mers_mers4_control,MERS4,Differential alternative splicing,DDX11
+mers_mers4_control,MERS4,Differential alternative splicing,TMEM161A
+mers_mers4_control,MERS4,Differential alternative splicing,HAT1
+mers_mers4_control,MERS4,Differential alternative splicing,DNAJB12
+mers_mers4_control,MERS4,Differential alternative splicing,MIB2
+mers_mers4_control,MERS4,Differential alternative splicing,SCYL1
+mers_mers4_control,MERS4,Differential alternative splicing,LRCH4
+mers_mers4_control,MERS4,Differential alternative splicing,AAAS
+mers_mers4_control,MERS4,Differential alternative splicing,JMJD7-PLA2G4B
+mers_mers4_control,MERS4,Differential alternative splicing,ANO9
+mers_mers4_control,MERS4,Differential alternative splicing,IRF7
+mers_mers4_control,MERS4,Differential alternative splicing,AP002990.1
+mers_mers4_control,MERS4,Differential alternative splicing,BCO2
+mers_mers4_control,MERS4,Differential alternative splicing,LINC02029
+mers_mers4_control,MERS4,Differential alternative splicing,TXNRD2
+mers_mers4_control,MERS4,Differential alternative splicing,SGTA
+mers_mers4_control,MERS4,Differential alternative splicing,SNHG12
+mers_mers4_control,MERS4,Differential alternative splicing,MINK1
+mers_mers4_control,MERS4,Differential alternative splicing,RNF123
+mers_mers4_control,MERS4,Differential alternative splicing,NOL3
+mers_mers4_control,MERS4,Differential alternative splicing,SYT8
+mers_mers4_control,MERS4,Differential alternative splicing,MAPKBP1
+mers_mers4_control,MERS4,Differential alternative splicing,WDR97
+mers_mers4_control,MERS4,Differential alternative splicing,ITIH4
+mers_mers4_control,MERS4,Differential alternative splicing,PTBP2
+mers_mers4_control,MERS4,Differential alternative splicing,MDGA1
+mers_mers4_control,MERS4,Differential alternative splicing,RPL3
+mers_mers4_control,MERS4,Differential alternative splicing,DGAT1
+mers_mers4_control,MERS4,Differential alternative splicing,KLHL35
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF598
+mers_mers4_control,MERS4,Differential alternative splicing,CAMK1
+mers_mers4_control,MERS4,Differential alternative splicing,PDZD7
+mers_mers4_control,MERS4,Differential alternative splicing,IFT80
+mers_mers4_control,MERS4,Differential alternative splicing,SNHG15
+mers_mers4_control,MERS4,Differential alternative splicing,UBL5
+mers_mers4_control,MERS4,Differential alternative splicing,PRAME
+mers_mers4_control,MERS4,Differential alternative splicing,TM7SF2
+mers_mers4_control,MERS4,Differential alternative splicing,TMEM198B
+mers_mers4_control,MERS4,Differential alternative splicing,EML3
+mers_mers4_control,MERS4,Differential alternative splicing,ALDH16A1
+mers_mers4_control,MERS4,Differential alternative splicing,PPOX
+mers_mers4_control,MERS4,Differential alternative splicing,MYO9B
+mers_mers4_control,MERS4,Differential alternative splicing,TMEM98
+mers_mers4_control,MERS4,Differential alternative splicing,SLCO4A1-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,ZBED3-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,NEB
+mers_mers4_control,MERS4,Differential alternative splicing,TTC8
+mers_mers4_control,MERS4,Differential alternative splicing,MECOM
+mers_mers4_control,MERS4,Differential alternative splicing,CATSPERB
+mers_mers4_control,MERS4,Differential alternative splicing,ATP6V0D1
+mers_mers4_control,MERS4,Differential alternative splicing,SH3BP5L
+mers_mers4_control,MERS4,Differential alternative splicing,PAX8
+mers_mers4_control,MERS4,Differential alternative splicing,ACO2
+mers_mers4_control,MERS4,Differential alternative splicing,CROCCP3
+mers_mers4_control,MERS4,Differential alternative splicing,NIPA1
+mers_mers4_control,MERS4,Differential alternative splicing,ARMCX5-GPRASP2
+mers_mers4_control,MERS4,Differential alternative splicing,ADCK1
+mers_mers4_control,MERS4,Differential alternative splicing,PTPN20
+mers_mers4_control,MERS4,Differential alternative splicing,TSNARE1
+mers_mers4_control,MERS4,Differential alternative splicing,DENND1A
+mers_mers4_control,MERS4,Differential alternative splicing,INPP4B
+mers_mers4_control,MERS4,Differential alternative splicing,CCDC148
+mers_mers4_control,MERS4,Differential alternative splicing,VPS8
+mers_mers4_control,MERS4,Differential alternative splicing,LIN7B
+mers_mers4_control,MERS4,Differential alternative splicing,PIF1
+mers_mers4_control,MERS4,Differential alternative splicing,TMEM131L
+mers_mers4_control,MERS4,Differential alternative splicing,SP140
+mers_mers4_control,MERS4,Differential alternative splicing,XAF1
+mers_mers4_control,MERS4,Differential alternative splicing,CMTM1
+mers_mers4_control,MERS4,Differential alternative splicing,MTSS1
+mers_mers4_control,MERS4,Differential alternative splicing,DCAF4
+mers_mers4_control,MERS4,Differential alternative splicing,PPIL6
+mers_mers4_control,MERS4,Differential alternative splicing,SNAP25
+mers_mers4_control,MERS4,Differential alternative splicing,FBXL13
+mers_mers4_control,MERS4,Differential alternative splicing,TTC25
+mers_mers4_control,MERS4,Differential alternative splicing,SGCE
+mers_mers4_control,MERS4,Differential alternative splicing,TGFB1I1
+mers_mers4_control,MERS4,Differential alternative splicing,WSB1
+mers_mers4_control,MERS4,Differential alternative splicing,FUT3
+mers_mers4_control,MERS4,Differential alternative splicing,KSR1
+mers_mers4_control,MERS4,Differential alternative splicing,CKMT1B
+mers_mers4_control,MERS4,Differential alternative splicing,TMBIM1
+mers_mers4_control,MERS4,Differential alternative splicing,LDHD
+mers_mers4_control,MERS4,Differential alternative splicing,DCLRE1C
+mers_mers4_control,MERS4,Differential alternative splicing,ERBB2
+mers_mers4_control,MERS4,Differential alternative splicing,ADAMTSL5
+mers_mers4_control,MERS4,Differential alternative splicing,NCL
+mers_mers4_control,MERS4,Differential alternative splicing,FAM219A
+mers_mers4_control,MERS4,Differential alternative splicing,PNKP
+mers_mers4_control,MERS4,Differential alternative splicing,GLI2
+mers_mers4_control,MERS4,Differential alternative splicing,SCAND2P
+mers_mers4_control,MERS4,Differential alternative splicing,KCTD19
+mers_mers4_control,MERS4,Differential alternative splicing,SLC25A43
+mers_mers4_control,MERS4,Differential alternative splicing,TSACC
+mers_mers4_control,MERS4,Differential alternative splicing,SNHG32
+mers_mers4_control,MERS4,Differential alternative splicing,SYTL2
+mers_mers4_control,MERS4,Differential alternative splicing,HM13
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF658
+mers_mers4_control,MERS4,Differential alternative splicing,RPUSD1
+mers_mers4_control,MERS4,Differential alternative splicing,PTPRG-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF839
+mers_mers4_control,MERS4,Differential alternative splicing,NUDT4
+mers_mers4_control,MERS4,Differential alternative splicing,MPV17
+mers_mers4_control,MERS4,Differential alternative splicing,PPP1R12B
+mers_mers4_control,MERS4,Differential alternative splicing,NRF1
+mers_mers4_control,MERS4,Differential alternative splicing,INPP5E
+mers_mers4_control,MERS4,Differential alternative splicing,AC105942.1
+mers_mers4_control,MERS4,Differential alternative splicing,CLINT1
+mers_mers4_control,MERS4,Differential alternative splicing,MTO1
+mers_mers4_control,MERS4,Differential alternative splicing,EMSY
+mers_mers4_control,MERS4,Differential alternative splicing,SLC52A3
+mers_mers4_control,MERS4,Differential alternative splicing,DNAJC25
+mers_mers4_control,MERS4,Differential alternative splicing,PPP3CB-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,DGKH
+mers_mers4_control,MERS4,Differential alternative splicing,SERPINA1
+mers_mers4_control,MERS4,Differential alternative splicing,USP28
+mers_mers4_control,MERS4,Differential alternative splicing,PPARGC1A
+mers_mers4_control,MERS4,Differential alternative splicing,NFKBID
+mers_mers4_control,MERS4,Differential alternative splicing,MOV10
+mers_mers4_control,MERS4,Differential alternative splicing,COCH
+mers_mers4_control,MERS4,Differential alternative splicing,CAST
+mers_mers4_control,MERS4,Differential alternative splicing,CDK13
+mers_mers4_control,MERS4,Differential alternative splicing,AC073611.1
+mers_mers4_control,MERS4,Differential alternative splicing,CROCCP2
+mers_mers4_control,MERS4,Differential alternative splicing,DMXL2
+mers_mers4_control,MERS4,Differential alternative splicing,LARGE2
+mers_mers4_control,MERS4,Differential alternative splicing,STAG3L4
+mers_mers4_control,MERS4,Differential alternative splicing,ACSL4
+mers_mers4_control,MERS4,Differential alternative splicing,CRNDE
+mers_mers4_control,MERS4,Differential alternative splicing,AC093627.5
+mers_mers4_control,MERS4,Differential alternative splicing,PCM1
+mers_mers4_control,MERS4,Differential alternative splicing,SORBS3
+mers_mers4_control,MERS4,Differential alternative splicing,FAM219B
+mers_mers4_control,MERS4,Differential alternative splicing,LRWD1
+mers_mers4_control,MERS4,Differential alternative splicing,ZFP30
+mers_mers4_control,MERS4,Differential alternative splicing,MIF4GD
+mers_mers4_control,MERS4,Differential alternative splicing,POU2F2
+mers_mers4_control,MERS4,Differential alternative splicing,POGLUT1
+mers_mers4_control,MERS4,Differential alternative splicing,SH3PXD2B
+mers_mers4_control,MERS4,Differential alternative splicing,ZSCAN32
+mers_mers4_control,MERS4,Differential alternative splicing,UCA1
+mers_mers4_control,MERS4,Differential alternative splicing,ALKBH4
+mers_mers4_control,MERS4,Differential alternative splicing,NRGN
+mers_mers4_control,MERS4,Differential alternative splicing,MKS1
+mers_mers4_control,MERS4,Differential alternative splicing,ACTR2
+mers_mers4_control,MERS4,Differential alternative splicing,AP1M2
+mers_mers4_control,MERS4,Differential alternative splicing,CLCC1
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF419
+mers_mers4_control,MERS4,Differential alternative splicing,SNHG17
+mers_mers4_control,MERS4,Differential alternative splicing,ADAM15
+mers_mers4_control,MERS4,Differential alternative splicing,PLAGL1
+mers_mers4_control,MERS4,Differential alternative splicing,ABCC5
+mers_mers4_control,MERS4,Differential alternative splicing,AC073529.1
+mers_mers4_control,MERS4,Differential alternative splicing,PILRB
+mers_mers4_control,MERS4,Differential alternative splicing,NICN1
+mers_mers4_control,MERS4,Differential alternative splicing,HK1
+mers_mers4_control,MERS4,Differential alternative splicing,MUTYH
+mers_mers4_control,MERS4,Differential alternative splicing,TSTD2
+mers_mers4_control,MERS4,Differential alternative splicing,HNRNPA3
+mers_mers4_control,MERS4,Differential alternative splicing,LINC01322
+mers_mers4_control,MERS4,Differential alternative splicing,CAPN1
+mers_mers4_control,MERS4,Differential alternative splicing,NSD3
+mers_mers4_control,MERS4,Differential alternative splicing,EDA
+mers_mers4_control,MERS4,Differential alternative splicing,FNTA
+mers_mers4_control,MERS4,Differential alternative splicing,RADX
+mers_mers4_control,MERS4,Differential alternative splicing,CCDC57
+mers_mers4_control,MERS4,Differential alternative splicing,SGMS2
+mers_mers4_control,MERS4,Differential alternative splicing,PAXBP1
+mers_mers4_control,MERS4,Differential alternative splicing,KIAA0895L
+mers_mers4_control,MERS4,Differential alternative splicing,ROGDI
+mers_mers4_control,MERS4,Differential alternative splicing,NADK
+mers_mers4_control,MERS4,Differential alternative splicing,AC019117.1
+mers_mers4_control,MERS4,Differential alternative splicing,PKM
+mers_mers4_control,MERS4,Differential alternative splicing,ADGRF1
+mers_mers4_control,MERS4,Differential alternative splicing,MAPK8IP3
+mers_mers4_control,MERS4,Differential alternative splicing,RNF146
+mers_mers4_control,MERS4,Differential alternative splicing,LRRC37BP1
+mers_mers4_control,MERS4,Differential alternative splicing,RNF13
+mers_mers4_control,MERS4,Differential alternative splicing,ASAH1
+mers_mers4_control,MERS4,Differential alternative splicing,HUS1
+mers_mers4_control,MERS4,Differential alternative splicing,MAP3K9
+mers_mers4_control,MERS4,Differential alternative splicing,NIT1
+mers_mers4_control,MERS4,Differential alternative splicing,GOLGB1
+mers_mers4_control,MERS4,Differential alternative splicing,SNAI3-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,RAB17
+mers_mers4_control,MERS4,Differential alternative splicing,TMEM254
+mers_mers4_control,MERS4,Differential alternative splicing,EOGT
+mers_mers4_control,MERS4,Differential alternative splicing,PHC2
+mers_mers4_control,MERS4,Differential alternative splicing,MED12
+mers_mers4_control,MERS4,Differential alternative splicing,AC005562.1
+mers_mers4_control,MERS4,Differential alternative splicing,CYP4F3
+mers_mers4_control,MERS4,Differential alternative splicing,SORBS2
+mers_mers4_control,MERS4,Differential alternative splicing,SPEG
+mers_mers4_control,MERS4,Differential alternative splicing,FBLIM1
+mers_mers4_control,MERS4,Differential alternative splicing,TPP1
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF280D
+mers_mers4_control,MERS4,Differential alternative splicing,BCL9
+mers_mers4_control,MERS4,Differential alternative splicing,TMBIM6
+mers_mers4_control,MERS4,Differential alternative splicing,AL157392.3
+mers_mers4_control,MERS4,Differential alternative splicing,EXOSC2
+mers_mers4_control,MERS4,Differential alternative splicing,ZNF202
+mers_mers4_control,MERS4,Differential alternative splicing,HDAC7
+mers_mers4_control,MERS4,Differential alternative splicing,FIRRE
+mers_mers4_control,MERS4,Differential alternative splicing,RAD52
+mers_mers4_control,MERS4,Differential alternative splicing,XPNPEP1
+mers_mers4_control,MERS4,Differential alternative splicing,CUL2
+mers_mers4_control,MERS4,Differential alternative splicing,MLXIPL
+mers_mers4_control,MERS4,Differential alternative splicing,WDR91
+mers_mers4_control,MERS4,Differential alternative splicing,CYRIB
+mers_mers4_control,MERS4,Differential alternative splicing,LINC00894
+mers_mers4_control,MERS4,Differential alternative splicing,IFT172
+mers_mers4_control,MERS4,Differential alternative splicing,PAIP1
+mers_mers4_control,MERS4,Differential alternative splicing,TMTC4
+mers_mers4_control,MERS4,Differential alternative splicing,CD79A
+mers_mers4_control,MERS4,Differential alternative splicing,TRIM3
+mers_mers4_control,MERS4,Differential alternative splicing,NSMCE2
+mers_mers4_control,MERS4,Differential alternative splicing,STRADA
+mers_mers4_control,MERS4,Differential alternative splicing,TP53I13
+mers_mers4_control,MERS4,Differential alternative splicing,GDAP1
+mers_mers4_control,MERS4,Differential alternative splicing,NMRAL2P
+mers_mers4_control,MERS4,Differential alternative splicing,TRAM2-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,OSBPL2
+mers_mers4_control,MERS4,Differential alternative splicing,ABCA5
+mers_mers4_control,MERS4,Differential alternative splicing,PAX8-AS1
+mers_mers4_control,MERS4,Differential alternative splicing,MYL5
+mers_mers4_control,MERS4,Differential alternative splicing,USP48
+mers_mers4_control,MERS4,Differential alternative splicing,VIPR1
+mers_mers4_control,MERS4,Differential alternative splicing,WDR26
+mers_mers4_control,MERS4,Differential alternative splicing,BCL2L11

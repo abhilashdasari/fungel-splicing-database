@@ -1,0 +1,1056 @@
+comparison_id,comparison_name,gene_set,gene_name
+sclc_sclc_control,SCLC,Upregulated genes,AL390719.1
+sclc_sclc_control,SCLC,Downregulated genes,TAL1
+sclc_sclc_control,SCLC,Differential exon usage,COL11A1
+sclc_sclc_control,SCLC,Differential intron excision,SERPINA1
+sclc_sclc_control,SCLC,Differential alternative splicing,MYO6
+sclc_sclc_control,SCLC,Upregulated genes,FNDC10
+sclc_sclc_control,SCLC,Downregulated genes,DAB1
+sclc_sclc_control,SCLC,Differential exon usage,MMEL1
+sclc_sclc_control,SCLC,Differential intron excision,TRAPPC5
+sclc_sclc_control,SCLC,Differential alternative splicing,ALS2CL
+sclc_sclc_control,SCLC,Upregulated genes,TMEM52
+sclc_sclc_control,SCLC,Downregulated genes,TCTEX1D1
+sclc_sclc_control,SCLC,Differential exon usage,SERPINA1
+sclc_sclc_control,SCLC,Differential intron excision,MARK3
+sclc_sclc_control,SCLC,Differential alternative splicing,MYO5B
+sclc_sclc_control,SCLC,Upregulated genes,ESPN
+sclc_sclc_control,SCLC,Downregulated genes,GBP4
+sclc_sclc_control,SCLC,Differential exon usage,MAP4K2
+sclc_sclc_control,SCLC,Differential intron excision,CD44
+sclc_sclc_control,SCLC,Differential alternative splicing,RAC1
+sclc_sclc_control,SCLC,Upregulated genes,PIK3CD-AS2
+sclc_sclc_control,SCLC,Downregulated genes,ITGA10
+sclc_sclc_control,SCLC,Differential exon usage,SPINK5
+sclc_sclc_control,SCLC,Differential intron excision,CTNND1
+sclc_sclc_control,SCLC,Differential alternative splicing,ITGB2
+sclc_sclc_control,SCLC,Upregulated genes,DISP3
+sclc_sclc_control,SCLC,Downregulated genes,ADAMTSL4
+sclc_sclc_control,SCLC,Differential exon usage,DNAJC7
+sclc_sclc_control,SCLC,Differential intron excision,MYO6
+sclc_sclc_control,SCLC,Differential alternative splicing,VEGFA
+sclc_sclc_control,SCLC,Upregulated genes,FBXO2
+sclc_sclc_control,SCLC,Downregulated genes,GPA33
+sclc_sclc_control,SCLC,Differential exon usage,NOTCH1
+sclc_sclc_control,SCLC,Differential intron excision,HMGN1
+sclc_sclc_control,SCLC,Differential alternative splicing,MTHFD2
+sclc_sclc_control,SCLC,Upregulated genes,AGMAT
+sclc_sclc_control,SCLC,Downregulated genes,RASAL2
+sclc_sclc_control,SCLC,Differential exon usage,ARHGEF4
+sclc_sclc_control,SCLC,Differential intron excision,LMO7
+sclc_sclc_control,SCLC,Differential alternative splicing,C4orf47
+sclc_sclc_control,SCLC,Upregulated genes,CLCNKB
+sclc_sclc_control,SCLC,Downregulated genes,PTGS2
+sclc_sclc_control,SCLC,Differential exon usage,MYL6
+sclc_sclc_control,SCLC,Differential intron excision,ACOT9
+sclc_sclc_control,SCLC,Differential alternative splicing,WASH3P
+sclc_sclc_control,SCLC,Upregulated genes,FAM131C
+sclc_sclc_control,SCLC,Downregulated genes,MYBPH
+sclc_sclc_control,SCLC,Differential exon usage,CCDC58
+sclc_sclc_control,SCLC,Differential intron excision,TPM1
+sclc_sclc_control,SCLC,Differential alternative splicing,ST3GAL5
+sclc_sclc_control,SCLC,Upregulated genes,ESPNP
+sclc_sclc_control,SCLC,Downregulated genes,PRKCE
+sclc_sclc_control,SCLC,Differential exon usage,NGEF
+sclc_sclc_control,SCLC,Differential intron excision,PRMT2
+sclc_sclc_control,SCLC,Differential alternative splicing,RNF167
+sclc_sclc_control,SCLC,Upregulated genes,Z98257.1
+sclc_sclc_control,SCLC,Downregulated genes,GNLY
+sclc_sclc_control,SCLC,Differential exon usage,EEF1D
+sclc_sclc_control,SCLC,Differential intron excision,RAC1
+sclc_sclc_control,SCLC,Differential alternative splicing,NBPF15
+sclc_sclc_control,SCLC,Upregulated genes,PLA2G2C
+sclc_sclc_control,SCLC,Downregulated genes,IL18R1
+sclc_sclc_control,SCLC,Differential exon usage,PTCRA
+sclc_sclc_control,SCLC,Differential intron excision,NASP
+sclc_sclc_control,SCLC,Differential alternative splicing,GATD1
+sclc_sclc_control,SCLC,Upregulated genes,CDA
+sclc_sclc_control,SCLC,Downregulated genes,IL1A
+sclc_sclc_control,SCLC,Differential exon usage,PLEKHG1
+sclc_sclc_control,SCLC,Differential intron excision,SPAG9
+sclc_sclc_control,SCLC,Differential alternative splicing,NEO1
+sclc_sclc_control,SCLC,Upregulated genes,RHCE
+sclc_sclc_control,SCLC,Downregulated genes,LIMS2
+sclc_sclc_control,SCLC,Differential exon usage,CFAP251
+sclc_sclc_control,SCLC,Differential intron excision,DDR1
+sclc_sclc_control,SCLC,Differential alternative splicing,WDR53
+sclc_sclc_control,SCLC,Upregulated genes,STMN1
+sclc_sclc_control,SCLC,Downregulated genes,NCKAP5
+sclc_sclc_control,SCLC,Differential exon usage,ACSM3
+sclc_sclc_control,SCLC,Differential intron excision,KIAA1217
+sclc_sclc_control,SCLC,Differential alternative splicing,SERPINA1
+sclc_sclc_control,SCLC,Upregulated genes,IFI6
+sclc_sclc_control,SCLC,Downregulated genes,NR4A2
+sclc_sclc_control,SCLC,Differential exon usage,WFDC2
+sclc_sclc_control,SCLC,Differential intron excision,DMKN
+sclc_sclc_control,SCLC,Differential alternative splicing,ATP5F1C
+sclc_sclc_control,SCLC,Upregulated genes,RCC1
+sclc_sclc_control,SCLC,Downregulated genes,RAPGEF4
+sclc_sclc_control,SCLC,Differential exon usage,KRT15
+sclc_sclc_control,SCLC,Differential intron excision,CASK
+sclc_sclc_control,SCLC,Differential alternative splicing,RWDD4
+sclc_sclc_control,SCLC,Upregulated genes,SERINC2
+sclc_sclc_control,SCLC,Downregulated genes,CALCRL
+sclc_sclc_control,SCLC,Differential exon usage,ZNF43
+sclc_sclc_control,SCLC,Differential intron excision,NCOR2
+sclc_sclc_control,SCLC,Differential alternative splicing,KANK1
+sclc_sclc_control,SCLC,Upregulated genes,ADGRB2
+sclc_sclc_control,SCLC,Downregulated genes,SLC11A1
+sclc_sclc_control,SCLC,Differential exon usage,RNF128
+sclc_sclc_control,SCLC,Differential intron excision,SLC9A3R2
+sclc_sclc_control,SCLC,Differential alternative splicing,CERS4
+sclc_sclc_control,SCLC,Upregulated genes,GJB5
+sclc_sclc_control,SCLC,Downregulated genes,SLC19A3
+sclc_sclc_control,SCLC,Differential exon usage,LDLRAD4
+sclc_sclc_control,SCLC,Differential intron excision,ADD3
+sclc_sclc_control,SCLC,Differential alternative splicing,SSR2
+sclc_sclc_control,SCLC,Upregulated genes,COL9A2
+sclc_sclc_control,SCLC,Downregulated genes,DNER
+sclc_sclc_control,SCLC,Differential exon usage,RHOC
+sclc_sclc_control,SCLC,Differential intron excision,PITPNA
+sclc_sclc_control,SCLC,Differential alternative splicing,PAK4
+sclc_sclc_control,SCLC,Upregulated genes,FOXO6
+sclc_sclc_control,SCLC,Downregulated genes,VIPR1
+sclc_sclc_control,SCLC,Differential exon usage,UBXN11
+sclc_sclc_control,SCLC,Differential intron excision,LGALS9
+sclc_sclc_control,SCLC,Differential alternative splicing,TARBP1
+sclc_sclc_control,SCLC,Upregulated genes,HPDL
+sclc_sclc_control,SCLC,Downregulated genes,ADAMTS9-AS1
+sclc_sclc_control,SCLC,Differential exon usage,CCDC171
+sclc_sclc_control,SCLC,Differential intron excision,PELO
+sclc_sclc_control,SCLC,Differential alternative splicing,HLA-F-AS1
+sclc_sclc_control,SCLC,Upregulated genes,RAD54L
+sclc_sclc_control,SCLC,Downregulated genes,DUBR
+sclc_sclc_control,SCLC,Differential exon usage,AHSA2P
+sclc_sclc_control,SCLC,Differential intron excision,FAT1
+sclc_sclc_control,SCLC,Differential alternative splicing,GPR157
+sclc_sclc_control,SCLC,Upregulated genes,DMRTA2
+sclc_sclc_control,SCLC,Downregulated genes,PCOLCE2
+sclc_sclc_control,SCLC,Differential exon usage,ILK
+sclc_sclc_control,SCLC,Differential intron excision,CAPN7
+sclc_sclc_control,SCLC,Differential alternative splicing,PDCD6
+sclc_sclc_control,SCLC,Upregulated genes,SLC1A7
+sclc_sclc_control,SCLC,Downregulated genes,B3GALNT1
+sclc_sclc_control,SCLC,Differential exon usage,CYBC1
+sclc_sclc_control,SCLC,Differential intron excision,CLINT1
+sclc_sclc_control,SCLC,Differential alternative splicing,LARP4B
+sclc_sclc_control,SCLC,Upregulated genes,AL445205.1
+sclc_sclc_control,SCLC,Downregulated genes,TFRC
+sclc_sclc_control,SCLC,Differential exon usage,SIPA1
+sclc_sclc_control,SCLC,Differential intron excision,MACF1
+sclc_sclc_control,SCLC,Differential alternative splicing,LMO7
+sclc_sclc_control,SCLC,Upregulated genes,AK4
+sclc_sclc_control,SCLC,Downregulated genes,KDR
+sclc_sclc_control,SCLC,Differential exon usage,AL139220.2
+sclc_sclc_control,SCLC,Differential intron excision,NAA38
+sclc_sclc_control,SCLC,Differential alternative splicing,PELO
+sclc_sclc_control,SCLC,Upregulated genes,HHLA3
+sclc_sclc_control,SCLC,Downregulated genes,PPBP
+sclc_sclc_control,SCLC,Differential exon usage,UPB1
+sclc_sclc_control,SCLC,Differential intron excision,NME2
+sclc_sclc_control,SCLC,Differential alternative splicing,DERL2
+sclc_sclc_control,SCLC,Upregulated genes,GBP6
+sclc_sclc_control,SCLC,Downregulated genes,HPGD
+sclc_sclc_control,SCLC,Differential exon usage,ABHD4
+sclc_sclc_control,SCLC,Differential intron excision,NEO1
+sclc_sclc_control,SCLC,Differential alternative splicing,UBE2I
+sclc_sclc_control,SCLC,Upregulated genes,BCAR3-AS1
+sclc_sclc_control,SCLC,Downregulated genes,MIR3945HG
+sclc_sclc_control,SCLC,Differential exon usage,SRP9
+sclc_sclc_control,SCLC,Differential intron excision,ESYT2
+sclc_sclc_control,SCLC,Differential alternative splicing,NUP54
+sclc_sclc_control,SCLC,Upregulated genes,SLC44A3-AS1
+sclc_sclc_control,SCLC,Downregulated genes,ITGA1
+sclc_sclc_control,SCLC,Differential exon usage,APOLD1
+sclc_sclc_control,SCLC,Differential intron excision,MYO18A
+sclc_sclc_control,SCLC,Differential alternative splicing,PPIP5K1
+sclc_sclc_control,SCLC,Upregulated genes,PPM1J
+sclc_sclc_control,SCLC,Downregulated genes,HK3
+sclc_sclc_control,SCLC,Differential exon usage,FHAD1
+sclc_sclc_control,SCLC,Differential intron excision,DUS4L-BCAP29
+sclc_sclc_control,SCLC,Differential alternative splicing,ZNF232
+sclc_sclc_control,SCLC,Upregulated genes,VTCN1
+sclc_sclc_control,SCLC,Downregulated genes,BTNL9
+sclc_sclc_control,SCLC,Differential exon usage,ABCA4
+sclc_sclc_control,SCLC,Differential intron excision,AC093484.3
+sclc_sclc_control,SCLC,Differential alternative splicing,MACROH2A1
+sclc_sclc_control,SCLC,Upregulated genes,TBX15
+sclc_sclc_control,SCLC,Downregulated genes,HLA-V
+sclc_sclc_control,SCLC,Differential exon usage,ROBO2
+sclc_sclc_control,SCLC,Differential intron excision,TP53TG1
+sclc_sclc_control,SCLC,Differential alternative splicing,CD99L2
+sclc_sclc_control,SCLC,Upregulated genes,HORMAD1
+sclc_sclc_control,SCLC,Downregulated genes,AL391807.1
+sclc_sclc_control,SCLC,Differential exon usage,LINC02478
+sclc_sclc_control,SCLC,Differential intron excision,ERBIN
+sclc_sclc_control,SCLC,Differential alternative splicing,QRICH2
+sclc_sclc_control,SCLC,Upregulated genes,RFX5-AS1
+sclc_sclc_control,SCLC,Downregulated genes,LINC00472
+sclc_sclc_control,SCLC,Differential exon usage,MYO5B
+sclc_sclc_control,SCLC,Differential intron excision,DTX2
+sclc_sclc_control,SCLC,Differential alternative splicing,NUMB
+sclc_sclc_control,SCLC,Upregulated genes,PGLYRP4
+sclc_sclc_control,SCLC,Downregulated genes,BVES
+sclc_sclc_control,SCLC,Differential exon usage,AP5Z1
+sclc_sclc_control,SCLC,Differential intron excision,MDK
+sclc_sclc_control,SCLC,Differential alternative splicing,MAGIX
+sclc_sclc_control,SCLC,Upregulated genes,S100A16
+sclc_sclc_control,SCLC,Downregulated genes,ADGRG6
+sclc_sclc_control,SCLC,Differential exon usage,NME1
+sclc_sclc_control,SCLC,Differential intron excision,AMY2A
+sclc_sclc_control,SCLC,Differential alternative splicing,BAG6
+sclc_sclc_control,SCLC,Upregulated genes,S100A14
+sclc_sclc_control,SCLC,Downregulated genes,SOSTDC1
+sclc_sclc_control,SCLC,Differential exon usage,MACC1
+sclc_sclc_control,SCLC,Differential intron excision,FAM104A
+sclc_sclc_control,SCLC,Differential alternative splicing,ERBIN
+sclc_sclc_control,SCLC,Upregulated genes,CREB3L4
+sclc_sclc_control,SCLC,Downregulated genes,AC004947.2
+sclc_sclc_control,SCLC,Differential exon usage,GOLGA6L5P
+sclc_sclc_control,SCLC,Differential intron excision,TPM4
+sclc_sclc_control,SCLC,Differential alternative splicing,FAM122C
+sclc_sclc_control,SCLC,Upregulated genes,NUP210L
+sclc_sclc_control,SCLC,Downregulated genes,AQP1
+sclc_sclc_control,SCLC,Differential exon usage,HMGN1
+sclc_sclc_control,SCLC,Differential intron excision,AHSA2P
+sclc_sclc_control,SCLC,Differential alternative splicing,SPATA20
+sclc_sclc_control,SCLC,Upregulated genes,SLC50A1
+sclc_sclc_control,SCLC,Downregulated genes,CAV2
+sclc_sclc_control,SCLC,Differential exon usage,VAV3
+sclc_sclc_control,SCLC,Differential intron excision,TIAL1
+sclc_sclc_control,SCLC,Differential alternative splicing,PGAP2
+sclc_sclc_control,SCLC,Upregulated genes,CD1A
+sclc_sclc_control,SCLC,Downregulated genes,CAV1
+sclc_sclc_control,SCLC,Differential exon usage,WFDC10B
+sclc_sclc_control,SCLC,Differential intron excision,BNIP2
+sclc_sclc_control,SCLC,Differential alternative splicing,CTNND1
+sclc_sclc_control,SCLC,Upregulated genes,LINC01133
+sclc_sclc_control,SCLC,Downregulated genes,TSPAN12
+sclc_sclc_control,SCLC,Differential exon usage,SQOR
+sclc_sclc_control,SCLC,Differential intron excision,TMEM126B
+sclc_sclc_control,SCLC,Differential alternative splicing,RWDD3
+sclc_sclc_control,SCLC,Upregulated genes,LRRC52-AS1
+sclc_sclc_control,SCLC,Downregulated genes,MSR1
+sclc_sclc_control,SCLC,Differential exon usage,COQ5
+sclc_sclc_control,SCLC,Differential intron excision,TECR
+sclc_sclc_control,SCLC,Differential alternative splicing,ECHDC2
+sclc_sclc_control,SCLC,Upregulated genes,TDRD5
+sclc_sclc_control,SCLC,Downregulated genes,LPL
+sclc_sclc_control,SCLC,Differential exon usage,AHNAK2
+sclc_sclc_control,SCLC,Differential intron excision,PAM16
+sclc_sclc_control,SCLC,Differential alternative splicing,HLA-DMB
+sclc_sclc_control,SCLC,Upregulated genes,C1orf53
+sclc_sclc_control,SCLC,Downregulated genes,PDLIM2
+sclc_sclc_control,SCLC,Differential exon usage,SCNN1A
+sclc_sclc_control,SCLC,Differential intron excision,PCBP4
+sclc_sclc_control,SCLC,Differential alternative splicing,BOK
+sclc_sclc_control,SCLC,Upregulated genes,SYT2
+sclc_sclc_control,SCLC,Downregulated genes,FAM189A2
+sclc_sclc_control,SCLC,Differential exon usage,VDAC3
+sclc_sclc_control,SCLC,Differential intron excision,CD46
+sclc_sclc_control,SCLC,Differential alternative splicing,TSEN2
+sclc_sclc_control,SCLC,Upregulated genes,TUBA5P
+sclc_sclc_control,SCLC,Downregulated genes,PALM2AKAP2
+sclc_sclc_control,SCLC,Differential exon usage,SPTBN5
+sclc_sclc_control,SCLC,Differential intron excision,NUMB
+sclc_sclc_control,SCLC,Differential alternative splicing,ZNF266
+sclc_sclc_control,SCLC,Upregulated genes,ETNK2
+sclc_sclc_control,SCLC,Downregulated genes,LAMC3
+sclc_sclc_control,SCLC,Differential exon usage,GUK1
+sclc_sclc_control,SCLC,Differential intron excision,FLNA
+sclc_sclc_control,SCLC,Differential alternative splicing,IFI44L
+sclc_sclc_control,SCLC,Upregulated genes,LRRN2
+sclc_sclc_control,SCLC,Downregulated genes,MRC1
+sclc_sclc_control,SCLC,Differential intron excision,NPIPA5
+sclc_sclc_control,SCLC,Differential alternative splicing,PCNX2
+sclc_sclc_control,SCLC,Upregulated genes,LINC01703
+sclc_sclc_control,SCLC,Downregulated genes,JCAD
+sclc_sclc_control,SCLC,Differential intron excision,TSC22D4
+sclc_sclc_control,SCLC,Differential alternative splicing,B3GALNT1
+sclc_sclc_control,SCLC,Upregulated genes,AL162595.1
+sclc_sclc_control,SCLC,Downregulated genes,FFAR4
+sclc_sclc_control,SCLC,Differential intron excision,AKR7L
+sclc_sclc_control,SCLC,Differential alternative splicing,GPSM3
+sclc_sclc_control,SCLC,Upregulated genes,PGBD5
+sclc_sclc_control,SCLC,Downregulated genes,FOLR3
+sclc_sclc_control,SCLC,Differential intron excision,SNRNP70
+sclc_sclc_control,SCLC,Differential alternative splicing,ANP32E
+sclc_sclc_control,SCLC,Upregulated genes,SLC35F3
+sclc_sclc_control,SCLC,Downregulated genes,CASP5
+sclc_sclc_control,SCLC,Differential intron excision,HAGH
+sclc_sclc_control,SCLC,Differential alternative splicing,DDR1
+sclc_sclc_control,SCLC,Upregulated genes,LINC01132
+sclc_sclc_control,SCLC,Downregulated genes,GUCY1A2
+sclc_sclc_control,SCLC,Differential intron excision,RPL11
+sclc_sclc_control,SCLC,Differential alternative splicing,TBRG1
+sclc_sclc_control,SCLC,Upregulated genes,PLD5
+sclc_sclc_control,SCLC,Downregulated genes,SLN
+sclc_sclc_control,SCLC,Differential intron excision,YIPF1
+sclc_sclc_control,SCLC,Differential alternative splicing,PTBP3
+sclc_sclc_control,SCLC,Upregulated genes,ZNF695
+sclc_sclc_control,SCLC,Downregulated genes,SLC2A3
+sclc_sclc_control,SCLC,Differential intron excision,ENAH
+sclc_sclc_control,SCLC,Differential alternative splicing,TMEM165
+sclc_sclc_control,SCLC,Upregulated genes,ATP6V1C2
+sclc_sclc_control,SCLC,Downregulated genes,CLEC12A
+sclc_sclc_control,SCLC,Differential intron excision,KRT15
+sclc_sclc_control,SCLC,Differential alternative splicing,ZBTB8OS
+sclc_sclc_control,SCLC,Upregulated genes,CENPA
+sclc_sclc_control,SCLC,Downregulated genes,CLEC12B
+sclc_sclc_control,SCLC,Differential intron excision,NPIPB11
+sclc_sclc_control,SCLC,Differential alternative splicing,MRM3
+sclc_sclc_control,SCLC,Upregulated genes,CGREF1
+sclc_sclc_control,SCLC,Downregulated genes,OLR1
+sclc_sclc_control,SCLC,Differential intron excision,LGALS9DP
+sclc_sclc_control,SCLC,Differential alternative splicing,TIA1
+sclc_sclc_control,SCLC,Upregulated genes,TRIM54
+sclc_sclc_control,SCLC,Downregulated genes,KLRD1
+sclc_sclc_control,SCLC,Differential alternative splicing,BDNF-AS
+sclc_sclc_control,SCLC,Upregulated genes,RMDN2-AS1
+sclc_sclc_control,SCLC,Downregulated genes,OVCH1
+sclc_sclc_control,SCLC,Differential alternative splicing,ACOT9
+sclc_sclc_control,SCLC,Upregulated genes,SIX2
+sclc_sclc_control,SCLC,Downregulated genes,LIN7A
+sclc_sclc_control,SCLC,Differential alternative splicing,RABEPK
+sclc_sclc_control,SCLC,Upregulated genes,BCL11A
+sclc_sclc_control,SCLC,Downregulated genes,TBX3
+sclc_sclc_control,SCLC,Differential alternative splicing,SLC25A45
+sclc_sclc_control,SCLC,Upregulated genes,CD207
+sclc_sclc_control,SCLC,Downregulated genes,HCAR2
+sclc_sclc_control,SCLC,Differential alternative splicing,PARD3
+sclc_sclc_control,SCLC,Upregulated genes,AC062029.1
+sclc_sclc_control,SCLC,Downregulated genes,HCAR3
+sclc_sclc_control,SCLC,Differential alternative splicing,PRMT2
+sclc_sclc_control,SCLC,Upregulated genes,AC026273.1
+sclc_sclc_control,SCLC,Downregulated genes,AL445985.1
+sclc_sclc_control,SCLC,Differential alternative splicing,SRSF10
+sclc_sclc_control,SCLC,Upregulated genes,FAM178B
+sclc_sclc_control,SCLC,Downregulated genes,ALOX5AP
+sclc_sclc_control,SCLC,Differential alternative splicing,BPTF
+sclc_sclc_control,SCLC,Upregulated genes,SLC9A2
+sclc_sclc_control,SCLC,Downregulated genes,DGKH
+sclc_sclc_control,SCLC,Differential alternative splicing,SPATA6L
+sclc_sclc_control,SCLC,Upregulated genes,SULT1C2
+sclc_sclc_control,SCLC,Downregulated genes,SCEL
+sclc_sclc_control,SCLC,Differential alternative splicing,RNF8
+sclc_sclc_control,SCLC,Upregulated genes,AC140479.2
+sclc_sclc_control,SCLC,Downregulated genes,EDNRB
+sclc_sclc_control,SCLC,Differential alternative splicing,PAM16
+sclc_sclc_control,SCLC,Upregulated genes,IL36G
+sclc_sclc_control,SCLC,Downregulated genes,STXBP6
+sclc_sclc_control,SCLC,Differential alternative splicing,DOCK9
+sclc_sclc_control,SCLC,Upregulated genes,INHBB
+sclc_sclc_control,SCLC,Downregulated genes,AL355916.1
+sclc_sclc_control,SCLC,Differential alternative splicing,POLL
+sclc_sclc_control,SCLC,Upregulated genes,PROC
+sclc_sclc_control,SCLC,Downregulated genes,PTPN21
+sclc_sclc_control,SCLC,Differential alternative splicing,PLEKHA1
+sclc_sclc_control,SCLC,Upregulated genes,ACMSD
+sclc_sclc_control,SCLC,Downregulated genes,ASPG
+sclc_sclc_control,SCLC,Differential alternative splicing,MUC1
+sclc_sclc_control,SCLC,Upregulated genes,LCT
+sclc_sclc_control,SCLC,Downregulated genes,SEMA6D
+sclc_sclc_control,SCLC,Differential alternative splicing,SPAG9
+sclc_sclc_control,SCLC,Upregulated genes,DPP4
+sclc_sclc_control,SCLC,Downregulated genes,GCOM1
+sclc_sclc_control,SCLC,Differential alternative splicing,RFESD
+sclc_sclc_control,SCLC,Upregulated genes,DPP4-DT
+sclc_sclc_control,SCLC,Downregulated genes,AQP9
+sclc_sclc_control,SCLC,Differential alternative splicing,AC004980.1
+sclc_sclc_control,SCLC,Upregulated genes,HOXD1
+sclc_sclc_control,SCLC,Downregulated genes,SMAD6
+sclc_sclc_control,SCLC,Differential alternative splicing,CHD1
+sclc_sclc_control,SCLC,Upregulated genes,PPP1R1C
+sclc_sclc_control,SCLC,Downregulated genes,NPTN-IT1
+sclc_sclc_control,SCLC,Differential alternative splicing,YPEL5
+sclc_sclc_control,SCLC,Upregulated genes,IGFBP2
+sclc_sclc_control,SCLC,Downregulated genes,AC087477.2
+sclc_sclc_control,SCLC,Differential alternative splicing,CRYZL2P
+sclc_sclc_control,SCLC,Upregulated genes,RUFY4
+sclc_sclc_control,SCLC,Downregulated genes,AC108134.3
+sclc_sclc_control,SCLC,Differential alternative splicing,MYO15B
+sclc_sclc_control,SCLC,Upregulated genes,AC010980.1
+sclc_sclc_control,SCLC,Downregulated genes,FENDRR
+sclc_sclc_control,SCLC,Differential alternative splicing,C7orf26
+sclc_sclc_control,SCLC,Upregulated genes,CT75
+sclc_sclc_control,SCLC,Downregulated genes,ARHGEF15
+sclc_sclc_control,SCLC,Differential alternative splicing,MMS19
+sclc_sclc_control,SCLC,Upregulated genes,NGEF
+sclc_sclc_control,SCLC,Downregulated genes,RAMP2-AS1
+sclc_sclc_control,SCLC,Differential alternative splicing,TRMO
+sclc_sclc_control,SCLC,Upregulated genes,RAMP1
+sclc_sclc_control,SCLC,Downregulated genes,TMEM100
+sclc_sclc_control,SCLC,Differential alternative splicing,ADGRG1
+sclc_sclc_control,SCLC,Upregulated genes,KIF1A
+sclc_sclc_control,SCLC,Downregulated genes,TBX2
+sclc_sclc_control,SCLC,Differential alternative splicing,ANXA6
+sclc_sclc_control,SCLC,Upregulated genes,LRRN1
+sclc_sclc_control,SCLC,Downregulated genes,AC015802.6
+sclc_sclc_control,SCLC,Differential alternative splicing,TCOF1
+sclc_sclc_control,SCLC,Upregulated genes,EGOT
+sclc_sclc_control,SCLC,Downregulated genes,ST6GALNAC2
+sclc_sclc_control,SCLC,Differential alternative splicing,LIMCH1
+sclc_sclc_control,SCLC,Upregulated genes,SLC6A11
+sclc_sclc_control,SCLC,Downregulated genes,SLC14A1
+sclc_sclc_control,SCLC,Differential alternative splicing,RASA4CP
+sclc_sclc_control,SCLC,Upregulated genes,ARPP21
+sclc_sclc_control,SCLC,Downregulated genes,CCDC68
+sclc_sclc_control,SCLC,Differential alternative splicing,BNIP2
+sclc_sclc_control,SCLC,Upregulated genes,CSPG5
+sclc_sclc_control,SCLC,Downregulated genes,DOK6
+sclc_sclc_control,SCLC,Differential alternative splicing,RPL17
+sclc_sclc_control,SCLC,Upregulated genes,AC137936.2
+sclc_sclc_control,SCLC,Downregulated genes,LINC01836
+sclc_sclc_control,SCLC,Differential alternative splicing,FAT1
+sclc_sclc_control,SCLC,Upregulated genes,AC097369.4
+sclc_sclc_control,SCLC,Downregulated genes,IQCN
+sclc_sclc_control,SCLC,Differential alternative splicing,PPIA
+sclc_sclc_control,SCLC,Upregulated genes,HGD
+sclc_sclc_control,SCLC,Downregulated genes,PRX
+sclc_sclc_control,SCLC,Differential alternative splicing,PPP3CB-AS1
+sclc_sclc_control,SCLC,Upregulated genes,ALG1L
+sclc_sclc_control,SCLC,Downregulated genes,FUT1
+sclc_sclc_control,SCLC,Differential alternative splicing,HEXD
+sclc_sclc_control,SCLC,Upregulated genes,PODXL2
+sclc_sclc_control,SCLC,Downregulated genes,SIGLEC11
+sclc_sclc_control,SCLC,Differential alternative splicing,CD44
+sclc_sclc_control,SCLC,Upregulated genes,KBTBD12
+sclc_sclc_control,SCLC,Downregulated genes,SIGLEC16
+sclc_sclc_control,SCLC,Differential alternative splicing,ANXA2
+sclc_sclc_control,SCLC,Upregulated genes,KY
+sclc_sclc_control,SCLC,Downregulated genes,FPR2
+sclc_sclc_control,SCLC,Differential alternative splicing,MACF1
+sclc_sclc_control,SCLC,Upregulated genes,TM4SF1-AS1
+sclc_sclc_control,SCLC,Downregulated genes,THBD
+sclc_sclc_control,SCLC,Differential alternative splicing,CASK
+sclc_sclc_control,SCLC,Upregulated genes,MED12L
+sclc_sclc_control,SCLC,Downregulated genes,SLC5A4
+sclc_sclc_control,SCLC,Differential alternative splicing,ABLIM1
+sclc_sclc_control,SCLC,Upregulated genes,ARL14
+sclc_sclc_control,SCLC,Downregulated genes,ANOS1
+sclc_sclc_control,SCLC,Differential alternative splicing,MICAL3
+sclc_sclc_control,SCLC,Upregulated genes,SPTSSB
+sclc_sclc_control,SCLC,Downregulated genes,VSIG4
+sclc_sclc_control,SCLC,Differential alternative splicing,PBRM1
+sclc_sclc_control,SCLC,Upregulated genes,LRRC31
+sclc_sclc_control,SCLC,Downregulated genes,TMSB15A
+sclc_sclc_control,SCLC,Differential alternative splicing,DGUOK
+sclc_sclc_control,SCLC,Upregulated genes,RPL39L
+sclc_sclc_control,SCLC,Downregulated genes,MT-TP
+sclc_sclc_control,SCLC,Differential alternative splicing,PHKA2
+sclc_sclc_control,SCLC,Upregulated genes,LINC02041
+sclc_sclc_control,SCLC,Differential alternative splicing,EPB41L2
+sclc_sclc_control,SCLC,Upregulated genes,PLAAT1
+sclc_sclc_control,SCLC,Differential alternative splicing,RPS6KB2
+sclc_sclc_control,SCLC,Upregulated genes,LINC02036
+sclc_sclc_control,SCLC,Differential alternative splicing,RNMT
+sclc_sclc_control,SCLC,Upregulated genes,MELTF
+sclc_sclc_control,SCLC,Differential alternative splicing,ARHGEF6
+sclc_sclc_control,SCLC,Upregulated genes,BDH1
+sclc_sclc_control,SCLC,Differential alternative splicing,KIAA1217
+sclc_sclc_control,SCLC,Upregulated genes,RNF212
+sclc_sclc_control,SCLC,Differential alternative splicing,CAMTA2
+sclc_sclc_control,SCLC,Upregulated genes,S100P
+sclc_sclc_control,SCLC,Differential alternative splicing,ECHDC1
+sclc_sclc_control,SCLC,Upregulated genes,AFAP1-AS1
+sclc_sclc_control,SCLC,Differential alternative splicing,SORBS1
+sclc_sclc_control,SCLC,Upregulated genes,HS3ST1
+sclc_sclc_control,SCLC,Differential alternative splicing,ESYT2
+sclc_sclc_control,SCLC,Upregulated genes,AC025539.1
+sclc_sclc_control,SCLC,Differential alternative splicing,DONSON
+sclc_sclc_control,SCLC,Upregulated genes,AC093809.1
+sclc_sclc_control,SCLC,Differential alternative splicing,VPS29
+sclc_sclc_control,SCLC,Upregulated genes,LINC02473
+sclc_sclc_control,SCLC,Differential alternative splicing,RITA1
+sclc_sclc_control,SCLC,Upregulated genes,UGT2B15
+sclc_sclc_control,SCLC,Differential alternative splicing,AAMDC
+sclc_sclc_control,SCLC,Upregulated genes,ALB
+sclc_sclc_control,SCLC,Differential alternative splicing,ACTN1
+sclc_sclc_control,SCLC,Upregulated genes,C4orf54
+sclc_sclc_control,SCLC,Differential alternative splicing,TCF7L2
+sclc_sclc_control,SCLC,Upregulated genes,GLRA3
+sclc_sclc_control,SCLC,Differential alternative splicing,DTX2
+sclc_sclc_control,SCLC,Upregulated genes,PLEKHG4B
+sclc_sclc_control,SCLC,Differential alternative splicing,DMKN
+sclc_sclc_control,SCLC,Upregulated genes,SLC6A3
+sclc_sclc_control,SCLC,Differential alternative splicing,UBA6-AS1
+sclc_sclc_control,SCLC,Upregulated genes,AC091849.2
+sclc_sclc_control,SCLC,Differential alternative splicing,MARK3
+sclc_sclc_control,SCLC,Upregulated genes,AC008875.3
+sclc_sclc_control,SCLC,Differential alternative splicing,ARMC10
+sclc_sclc_control,SCLC,Upregulated genes,CCL28
+sclc_sclc_control,SCLC,Differential alternative splicing,TMEM167B
+sclc_sclc_control,SCLC,Upregulated genes,ISL1
+sclc_sclc_control,SCLC,Differential alternative splicing,PIGQ
+sclc_sclc_control,SCLC,Upregulated genes,DEPDC1B
+sclc_sclc_control,SCLC,Differential alternative splicing,OCIAD1
+sclc_sclc_control,SCLC,Upregulated genes,TMEM171
+sclc_sclc_control,SCLC,Differential alternative splicing,RAB40C
+sclc_sclc_control,SCLC,Upregulated genes,AC008496.3
+sclc_sclc_control,SCLC,Differential alternative splicing,INO80E
+sclc_sclc_control,SCLC,Upregulated genes,THBS4
+sclc_sclc_control,SCLC,Differential alternative splicing,METTL26
+sclc_sclc_control,SCLC,Upregulated genes,ANKRD34B
+sclc_sclc_control,SCLC,Differential alternative splicing,ADD3
+sclc_sclc_control,SCLC,Upregulated genes,LINC00461
+sclc_sclc_control,SCLC,Differential alternative splicing,EXOC6B
+sclc_sclc_control,SCLC,Upregulated genes,CCNI2
+sclc_sclc_control,SCLC,Differential alternative splicing,PEA15
+sclc_sclc_control,SCLC,Upregulated genes,SOWAHA
+sclc_sclc_control,SCLC,Differential alternative splicing,ABHD16A
+sclc_sclc_control,SCLC,Upregulated genes,FSTL4
+sclc_sclc_control,SCLC,Differential alternative splicing,ANKRD27
+sclc_sclc_control,SCLC,Upregulated genes,MTND4P12
+sclc_sclc_control,SCLC,Differential alternative splicing,ILDR1
+sclc_sclc_control,SCLC,Upregulated genes,CXCL14
+sclc_sclc_control,SCLC,Differential alternative splicing,ZNF561
+sclc_sclc_control,SCLC,Upregulated genes,GFRA3
+sclc_sclc_control,SCLC,Differential alternative splicing,LPIN3
+sclc_sclc_control,SCLC,Upregulated genes,CXXC5
+sclc_sclc_control,SCLC,Differential alternative splicing,ARHGAP44
+sclc_sclc_control,SCLC,Upregulated genes,SPINK1
+sclc_sclc_control,SCLC,Differential alternative splicing,SHROOM1
+sclc_sclc_control,SCLC,Upregulated genes,FAT2
+sclc_sclc_control,SCLC,Differential alternative splicing,AC093157.1
+sclc_sclc_control,SCLC,Upregulated genes,HAVCR1
+sclc_sclc_control,SCLC,Differential alternative splicing,EVI5L
+sclc_sclc_control,SCLC,Upregulated genes,PTTG1
+sclc_sclc_control,SCLC,Differential alternative splicing,ERMP1
+sclc_sclc_control,SCLC,Upregulated genes,ATP10B
+sclc_sclc_control,SCLC,Differential alternative splicing,CAPN7
+sclc_sclc_control,SCLC,Upregulated genes,LINC02159
+sclc_sclc_control,SCLC,Differential alternative splicing,WDR20
+sclc_sclc_control,SCLC,Upregulated genes,GMDS
+sclc_sclc_control,SCLC,Differential alternative splicing,NCOR2
+sclc_sclc_control,SCLC,Upregulated genes,TUBB2B
+sclc_sclc_control,SCLC,Differential alternative splicing,TRIM37
+sclc_sclc_control,SCLC,Upregulated genes,AL031123.5
+sclc_sclc_control,SCLC,Differential alternative splicing,ARVCF
+sclc_sclc_control,SCLC,Upregulated genes,TFAP2A-AS1
+sclc_sclc_control,SCLC,Differential alternative splicing,EXOC7
+sclc_sclc_control,SCLC,Upregulated genes,AL441883.1
+sclc_sclc_control,SCLC,Differential alternative splicing,CD47
+sclc_sclc_control,SCLC,Upregulated genes,NHLRC1
+sclc_sclc_control,SCLC,Differential alternative splicing,HMGN5
+sclc_sclc_control,SCLC,Upregulated genes,H2BC5
+sclc_sclc_control,SCLC,Differential alternative splicing,MYO18A
+sclc_sclc_control,SCLC,Upregulated genes,H2BC8
+sclc_sclc_control,SCLC,Differential alternative splicing,SUN1
+sclc_sclc_control,SCLC,Upregulated genes,LTB
+sclc_sclc_control,SCLC,Differential alternative splicing,CRTC1
+sclc_sclc_control,SCLC,Upregulated genes,PACSIN1
+sclc_sclc_control,SCLC,Differential alternative splicing,ACLY
+sclc_sclc_control,SCLC,Upregulated genes,SPDEF
+sclc_sclc_control,SCLC,Differential alternative splicing,PYROXD1
+sclc_sclc_control,SCLC,Upregulated genes,LHFPL5
+sclc_sclc_control,SCLC,Differential alternative splicing,SYNE1
+sclc_sclc_control,SCLC,Upregulated genes,BNIP5
+sclc_sclc_control,SCLC,Differential alternative splicing,PHF14
+sclc_sclc_control,SCLC,Upregulated genes,CCDC167
+sclc_sclc_control,SCLC,Differential alternative splicing,TPM1
+sclc_sclc_control,SCLC,Upregulated genes,KCNK5
+sclc_sclc_control,SCLC,Differential alternative splicing,MYO5C
+sclc_sclc_control,SCLC,Upregulated genes,MYMX
+sclc_sclc_control,SCLC,Differential alternative splicing,N4BP2L2
+sclc_sclc_control,SCLC,Upregulated genes,AL355353.1
+sclc_sclc_control,SCLC,Differential alternative splicing,LRRC6
+sclc_sclc_control,SCLC,Upregulated genes,COL9A1
+sclc_sclc_control,SCLC,Differential alternative splicing,SNRNP70
+sclc_sclc_control,SCLC,Upregulated genes,AL365226.1
+sclc_sclc_control,SCLC,Differential alternative splicing,DENND4C
+sclc_sclc_control,SCLC,Upregulated genes,LCAL1
+sclc_sclc_control,SCLC,Differential alternative splicing,SUOX
+sclc_sclc_control,SCLC,Upregulated genes,SRSF12
+sclc_sclc_control,SCLC,Differential alternative splicing,CCDC18-AS1
+sclc_sclc_control,SCLC,Upregulated genes,CD24
+sclc_sclc_control,SCLC,Differential alternative splicing,CCSER2
+sclc_sclc_control,SCLC,Upregulated genes,IYD
+sclc_sclc_control,SCLC,Differential alternative splicing,ENTPD3-AS1
+sclc_sclc_control,SCLC,Upregulated genes,AL450345.2
+sclc_sclc_control,SCLC,Differential alternative splicing,LIPE
+sclc_sclc_control,SCLC,Upregulated genes,TBXT
+sclc_sclc_control,SCLC,Differential alternative splicing,RPRD2
+sclc_sclc_control,SCLC,Upregulated genes,LNCDAT
+sclc_sclc_control,SCLC,Differential alternative splicing,PPP1R7
+sclc_sclc_control,SCLC,Upregulated genes,KIF25
+sclc_sclc_control,SCLC,Differential alternative splicing,SLAMF7
+sclc_sclc_control,SCLC,Upregulated genes,CYP2W1
+sclc_sclc_control,SCLC,Differential alternative splicing,VEZT
+sclc_sclc_control,SCLC,Upregulated genes,PSMG3
+sclc_sclc_control,SCLC,Differential alternative splicing,BBC3
+sclc_sclc_control,SCLC,Upregulated genes,AC092171.3
+sclc_sclc_control,SCLC,Differential alternative splicing,ACTR3B
+sclc_sclc_control,SCLC,Upregulated genes,AC005532.1
+sclc_sclc_control,SCLC,Differential alternative splicing,SYNRG
+sclc_sclc_control,SCLC,Upregulated genes,AC005083.1
+sclc_sclc_control,SCLC,Differential alternative splicing,LRRFIP2
+sclc_sclc_control,SCLC,Upregulated genes,CDCA7L
+sclc_sclc_control,SCLC,Differential alternative splicing,SEC61A2
+sclc_sclc_control,SCLC,Upregulated genes,IGF2BP3
+sclc_sclc_control,SCLC,Differential alternative splicing,ENAH
+sclc_sclc_control,SCLC,Upregulated genes,RPS2P32
+sclc_sclc_control,SCLC,Differential alternative splicing,KIF13A
+sclc_sclc_control,SCLC,Upregulated genes,STK31
+sclc_sclc_control,SCLC,Differential alternative splicing,LGALS9
+sclc_sclc_control,SCLC,Upregulated genes,AC010719.1
+sclc_sclc_control,SCLC,Differential alternative splicing,MICA
+sclc_sclc_control,SCLC,Upregulated genes,HOXA10-AS
+sclc_sclc_control,SCLC,Differential alternative splicing,WDR27
+sclc_sclc_control,SCLC,Upregulated genes,HOXA10
+sclc_sclc_control,SCLC,Differential alternative splicing,ADCY6
+sclc_sclc_control,SCLC,Upregulated genes,ITPRID1
+sclc_sclc_control,SCLC,Differential alternative splicing,CPNE1
+sclc_sclc_control,SCLC,Upregulated genes,POU6F2
+sclc_sclc_control,SCLC,Differential alternative splicing,PSME3IP1
+sclc_sclc_control,SCLC,Upregulated genes,AC004847.1
+sclc_sclc_control,SCLC,Differential alternative splicing,EPB41
+sclc_sclc_control,SCLC,Upregulated genes,GTF2IP13
+sclc_sclc_control,SCLC,Differential alternative splicing,C12orf4
+sclc_sclc_control,SCLC,Upregulated genes,AC004870.2
+sclc_sclc_control,SCLC,Differential alternative splicing,D2HGDH
+sclc_sclc_control,SCLC,Upregulated genes,FIGNL1
+sclc_sclc_control,SCLC,Differential alternative splicing,FLNA
+sclc_sclc_control,SCLC,Upregulated genes,GTF2IP5
+sclc_sclc_control,SCLC,Differential alternative splicing,WARS1
+sclc_sclc_control,SCLC,Upregulated genes,FZD9
+sclc_sclc_control,SCLC,Differential alternative splicing,NASP
+sclc_sclc_control,SCLC,Upregulated genes,CLDN3
+sclc_sclc_control,SCLC,Differential alternative splicing,CD46
+sclc_sclc_control,SCLC,Upregulated genes,HSPB1
+sclc_sclc_control,SCLC,Differential alternative splicing,SLC25A13
+sclc_sclc_control,SCLC,Upregulated genes,ZP3
+sclc_sclc_control,SCLC,Differential alternative splicing,AC138894.1
+sclc_sclc_control,SCLC,Upregulated genes,ABCB4
+sclc_sclc_control,SCLC,Differential alternative splicing,TMEM126B
+sclc_sclc_control,SCLC,Upregulated genes,PON1
+sclc_sclc_control,SCLC,Differential alternative splicing,CARMIL2
+sclc_sclc_control,SCLC,Upregulated genes,DLX6-AS1
+sclc_sclc_control,SCLC,Differential alternative splicing,TRIM65
+sclc_sclc_control,SCLC,Upregulated genes,DLX6
+sclc_sclc_control,SCLC,Differential alternative splicing,DENND6B
+sclc_sclc_control,SCLC,Upregulated genes,AZGP1
+sclc_sclc_control,SCLC,Differential alternative splicing,MAP3K7
+sclc_sclc_control,SCLC,Upregulated genes,AZGP1P1
+sclc_sclc_control,SCLC,Differential alternative splicing,SMC5
+sclc_sclc_control,SCLC,Upregulated genes,TFR2
+sclc_sclc_control,SCLC,Differential alternative splicing,LRRC37A2
+sclc_sclc_control,SCLC,Upregulated genes,ACHE
+sclc_sclc_control,SCLC,Differential alternative splicing,CEACAM1
+sclc_sclc_control,SCLC,Upregulated genes,MUC3A
+sclc_sclc_control,SCLC,Differential alternative splicing,IFRD2
+sclc_sclc_control,SCLC,Upregulated genes,GPR37
+sclc_sclc_control,SCLC,Differential alternative splicing,GBF1
+sclc_sclc_control,SCLC,Upregulated genes,AKR1B10
+sclc_sclc_control,SCLC,Differential alternative splicing,AC008555.4
+sclc_sclc_control,SCLC,Upregulated genes,AC083880.1
+sclc_sclc_control,SCLC,Differential alternative splicing,PCBP1-AS1
+sclc_sclc_control,SCLC,Upregulated genes,KDM7A-DT
+sclc_sclc_control,SCLC,Differential alternative splicing,EIF3I
+sclc_sclc_control,SCLC,Upregulated genes,TRBV6-2
+sclc_sclc_control,SCLC,Differential alternative splicing,RIN3
+sclc_sclc_control,SCLC,Upregulated genes,TRBV6-5
+sclc_sclc_control,SCLC,Differential alternative splicing,SNHG12
+sclc_sclc_control,SCLC,Upregulated genes,TRBV18
+sclc_sclc_control,SCLC,Differential alternative splicing,ERVK13-1
+sclc_sclc_control,SCLC,Upregulated genes,AOC1
+sclc_sclc_control,SCLC,Differential alternative splicing,AGER
+sclc_sclc_control,SCLC,Upregulated genes,EN2
+sclc_sclc_control,SCLC,Differential alternative splicing,DGKZ
+sclc_sclc_control,SCLC,Upregulated genes,MNX1
+sclc_sclc_control,SCLC,Differential alternative splicing,BEST1
+sclc_sclc_control,SCLC,Upregulated genes,NPBWR1
+sclc_sclc_control,SCLC,Differential alternative splicing,TPM3
+sclc_sclc_control,SCLC,Upregulated genes,OPRK1
+sclc_sclc_control,SCLC,Differential alternative splicing,BRF1
+sclc_sclc_control,SCLC,Upregulated genes,TRIM55
+sclc_sclc_control,SCLC,Differential alternative splicing,RELL2
+sclc_sclc_control,SCLC,Upregulated genes,XKR9
+sclc_sclc_control,SCLC,Differential alternative splicing,SCARB1
+sclc_sclc_control,SCLC,Upregulated genes,ZFHX4
+sclc_sclc_control,SCLC,Differential alternative splicing,HSF4
+sclc_sclc_control,SCLC,Upregulated genes,ZFPM2-AS1
+sclc_sclc_control,SCLC,Differential alternative splicing,CHROMR
+sclc_sclc_control,SCLC,Upregulated genes,COL22A1
+sclc_sclc_control,SCLC,Differential alternative splicing,TMEM218
+sclc_sclc_control,SCLC,Upregulated genes,LY6K
+sclc_sclc_control,SCLC,Differential alternative splicing,SPG7
+sclc_sclc_control,SCLC,Upregulated genes,RHPN1-AS1
+sclc_sclc_control,SCLC,Differential alternative splicing,COX4I1
+sclc_sclc_control,SCLC,Upregulated genes,ELAVL2
+sclc_sclc_control,SCLC,Differential alternative splicing,ACCS
+sclc_sclc_control,SCLC,Upregulated genes,PRSS3
+sclc_sclc_control,SCLC,Differential alternative splicing,SEPTIN3
+sclc_sclc_control,SCLC,Upregulated genes,CCL19
+sclc_sclc_control,SCLC,Differential alternative splicing,MUTYH
+sclc_sclc_control,SCLC,Upregulated genes,CA9
+sclc_sclc_control,SCLC,Differential alternative splicing,POLR3C
+sclc_sclc_control,SCLC,Upregulated genes,HSPB1P1
+sclc_sclc_control,SCLC,Differential alternative splicing,SCARB2
+sclc_sclc_control,SCLC,Upregulated genes,BARX1
+sclc_sclc_control,SCLC,Differential alternative splicing,PTPN6
+sclc_sclc_control,SCLC,Upregulated genes,CTSV
+sclc_sclc_control,SCLC,Differential alternative splicing,ARGLU1
+sclc_sclc_control,SCLC,Upregulated genes,FOXE1
+sclc_sclc_control,SCLC,Differential alternative splicing,ACP5
+sclc_sclc_control,SCLC,Upregulated genes,BAAT
+sclc_sclc_control,SCLC,Differential alternative splicing,DDX52
+sclc_sclc_control,SCLC,Upregulated genes,LCN2
+sclc_sclc_control,SCLC,Differential alternative splicing,PLEKHG4
+sclc_sclc_control,SCLC,Upregulated genes,PTGES
+sclc_sclc_control,SCLC,Differential alternative splicing,CHID1
+sclc_sclc_control,SCLC,Upregulated genes,ASS1
+sclc_sclc_control,SCLC,Differential alternative splicing,ANO7
+sclc_sclc_control,SCLC,Upregulated genes,PAEP
+sclc_sclc_control,SCLC,Differential alternative splicing,LINC00342
+sclc_sclc_control,SCLC,Upregulated genes,GRIN1
+sclc_sclc_control,SCLC,Differential alternative splicing,ZNF653
+sclc_sclc_control,SCLC,Upregulated genes,ENTPD8
+sclc_sclc_control,SCLC,Differential alternative splicing,LAS1L
+sclc_sclc_control,SCLC,Upregulated genes,LINP1
+sclc_sclc_control,SCLC,Differential alternative splicing,LIMS2
+sclc_sclc_control,SCLC,Upregulated genes,DNAJC12
+sclc_sclc_control,SCLC,Differential alternative splicing,PSME1
+sclc_sclc_control,SCLC,Upregulated genes,HKDC1
+sclc_sclc_control,SCLC,Differential alternative splicing,PLD2
+sclc_sclc_control,SCLC,Upregulated genes,UNC5B-AS1
+sclc_sclc_control,SCLC,Differential alternative splicing,CIRBP
+sclc_sclc_control,SCLC,Upregulated genes,CNNM1
+sclc_sclc_control,SCLC,Differential alternative splicing,RASSF8-AS1
+sclc_sclc_control,SCLC,Upregulated genes,AL133215.2
+sclc_sclc_control,SCLC,Differential alternative splicing,RABL6
+sclc_sclc_control,SCLC,Upregulated genes,INA
+sclc_sclc_control,SCLC,Differential alternative splicing,GSDMB
+sclc_sclc_control,SCLC,Upregulated genes,HABP2
+sclc_sclc_control,SCLC,Differential alternative splicing,DDX11
+sclc_sclc_control,SCLC,Upregulated genes,ADAM8
+sclc_sclc_control,SCLC,Differential alternative splicing,SNHG1
+sclc_sclc_control,SCLC,Upregulated genes,LINC02688
+sclc_sclc_control,SCLC,Differential alternative splicing,ZGPAT
+sclc_sclc_control,SCLC,Upregulated genes,MUC5B
+sclc_sclc_control,SCLC,Differential alternative splicing,CREB3L4
+sclc_sclc_control,SCLC,Upregulated genes,IGF2
+sclc_sclc_control,SCLC,Differential alternative splicing,U2AF1L4
+sclc_sclc_control,SCLC,Upregulated genes,SLC22A18AS
+sclc_sclc_control,SCLC,Differential alternative splicing,MLST8
+sclc_sclc_control,SCLC,Upregulated genes,SLC22A18
+sclc_sclc_control,SCLC,Differential alternative splicing,RPP21
+sclc_sclc_control,SCLC,Upregulated genes,AC104031.1
+sclc_sclc_control,SCLC,Differential alternative splicing,RBM3
+sclc_sclc_control,SCLC,Upregulated genes,OR7E14P
+sclc_sclc_control,SCLC,Differential alternative splicing,STAG3L4
+sclc_sclc_control,SCLC,Upregulated genes,SAA2
+sclc_sclc_control,SCLC,Differential alternative splicing,ADA
+sclc_sclc_control,SCLC,Upregulated genes,SAA1
+sclc_sclc_control,SCLC,Differential alternative splicing,SCYL1
+sclc_sclc_control,SCLC,Upregulated genes,NELL1
+sclc_sclc_control,SCLC,Differential alternative splicing,EPHA1
+sclc_sclc_control,SCLC,Upregulated genes,GAS2
+sclc_sclc_control,SCLC,Differential alternative splicing,KAT6B
+sclc_sclc_control,SCLC,Upregulated genes,AP001636.3
+sclc_sclc_control,SCLC,Differential alternative splicing,DENND2B
+sclc_sclc_control,SCLC,Upregulated genes,TCN1
+sclc_sclc_control,SCLC,Differential alternative splicing,CFB
+sclc_sclc_control,SCLC,Upregulated genes,RCOR2
+sclc_sclc_control,SCLC,Differential alternative splicing,AHSA2P
+sclc_sclc_control,SCLC,Upregulated genes,TIGD3
+sclc_sclc_control,SCLC,Differential alternative splicing,NKTR
+sclc_sclc_control,SCLC,Upregulated genes,AP000769.1
+sclc_sclc_control,SCLC,Differential alternative splicing,DXO
+sclc_sclc_control,SCLC,Upregulated genes,OVOL1
+sclc_sclc_control,SCLC,Differential alternative splicing,PEX1
+sclc_sclc_control,SCLC,Upregulated genes,CCDC87
+sclc_sclc_control,SCLC,Differential alternative splicing,DUS1L
+sclc_sclc_control,SCLC,Upregulated genes,PC
+sclc_sclc_control,SCLC,Differential alternative splicing,MEG3
+sclc_sclc_control,SCLC,Upregulated genes,ACY3
+sclc_sclc_control,SCLC,Differential alternative splicing,COL13A1
+sclc_sclc_control,SCLC,Upregulated genes,ALDH3B2
+sclc_sclc_control,SCLC,Differential alternative splicing,UBXN11
+sclc_sclc_control,SCLC,Upregulated genes,MOGAT2
+sclc_sclc_control,SCLC,Differential alternative splicing,FBXW8
+sclc_sclc_control,SCLC,Upregulated genes,DGAT2
+sclc_sclc_control,SCLC,Differential alternative splicing,PDLIM7
+sclc_sclc_control,SCLC,Upregulated genes,MMP10
+sclc_sclc_control,SCLC,Differential alternative splicing,OPA1
+sclc_sclc_control,SCLC,Upregulated genes,AP002800.1
+sclc_sclc_control,SCLC,Differential alternative splicing,SNHG17
+sclc_sclc_control,SCLC,Upregulated genes,GLB1L3
+sclc_sclc_control,SCLC,Differential alternative splicing,ARMCX4
+sclc_sclc_control,SCLC,Upregulated genes,B3GAT1
+sclc_sclc_control,SCLC,Differential alternative splicing,IL18R1
+sclc_sclc_control,SCLC,Upregulated genes,B3GAT1-DT
+sclc_sclc_control,SCLC,Differential alternative splicing,GCOM1
+sclc_sclc_control,SCLC,Upregulated genes,CDCA3
+sclc_sclc_control,SCLC,Differential alternative splicing,RPS19
+sclc_sclc_control,SCLC,Upregulated genes,SLC2A14
+sclc_sclc_control,SCLC,Differential alternative splicing,AFMID
+sclc_sclc_control,SCLC,Upregulated genes,FAM90A1
+sclc_sclc_control,SCLC,Differential alternative splicing,DCTN2
+sclc_sclc_control,SCLC,Upregulated genes,KLRK1-AS1
+sclc_sclc_control,SCLC,Differential alternative splicing,ITFG2
+sclc_sclc_control,SCLC,Upregulated genes,PRB3
+sclc_sclc_control,SCLC,Differential alternative splicing,GON4L
+sclc_sclc_control,SCLC,Upregulated genes,BCL2L14
+sclc_sclc_control,SCLC,Differential alternative splicing,AKR7L
+sclc_sclc_control,SCLC,Upregulated genes,GPR19
+sclc_sclc_control,SCLC,Differential alternative splicing,MFF
+sclc_sclc_control,SCLC,Upregulated genes,DDN-AS1
+sclc_sclc_control,SCLC,Differential alternative splicing,DHX35
+sclc_sclc_control,SCLC,Upregulated genes,TROAP
+sclc_sclc_control,SCLC,Differential alternative splicing,SRSF4
+sclc_sclc_control,SCLC,Upregulated genes,DNAJC22
+sclc_sclc_control,SCLC,Differential alternative splicing,MCCC1
+sclc_sclc_control,SCLC,Upregulated genes,SCN8A
+sclc_sclc_control,SCLC,Differential alternative splicing,CFLAR
+sclc_sclc_control,SCLC,Upregulated genes,KRT86
+sclc_sclc_control,SCLC,Differential alternative splicing,CEACAM19
+sclc_sclc_control,SCLC,Upregulated genes,KRT5
+sclc_sclc_control,SCLC,Differential alternative splicing,AP000812.4
+sclc_sclc_control,SCLC,Upregulated genes,HOXC13
+sclc_sclc_control,SCLC,Differential alternative splicing,SPAG4
+sclc_sclc_control,SCLC,Upregulated genes,HOTAIR
+sclc_sclc_control,SCLC,Differential alternative splicing,ANKAR
+sclc_sclc_control,SCLC,Upregulated genes,HOXC11
+sclc_sclc_control,SCLC,Differential alternative splicing,PROSER3
+sclc_sclc_control,SCLC,Upregulated genes,HOXC10
+sclc_sclc_control,SCLC,Differential alternative splicing,SYNGAP1
+sclc_sclc_control,SCLC,Upregulated genes,HOXC9
+sclc_sclc_control,SCLC,Differential alternative splicing,HYAL3
+sclc_sclc_control,SCLC,Upregulated genes,METTL7B
+sclc_sclc_control,SCLC,Differential alternative splicing,SULT1A1
+sclc_sclc_control,SCLC,Upregulated genes,NXPH4
+sclc_sclc_control,SCLC,Differential alternative splicing,CENPT
+sclc_sclc_control,SCLC,Upregulated genes,AC083805.1
+sclc_sclc_control,SCLC,Differential alternative splicing,HDAC8
+sclc_sclc_control,SCLC,Upregulated genes,GRIP1
+sclc_sclc_control,SCLC,Differential alternative splicing,CIART
+sclc_sclc_control,SCLC,Upregulated genes,BTBD11
+sclc_sclc_control,SCLC,Differential alternative splicing,MST1
+sclc_sclc_control,SCLC,Upregulated genes,RASAL1
+sclc_sclc_control,SCLC,Differential alternative splicing,QKI
+sclc_sclc_control,SCLC,Upregulated genes,TESC
+sclc_sclc_control,SCLC,Differential alternative splicing,TMEM231
+sclc_sclc_control,SCLC,Upregulated genes,CIT
+sclc_sclc_control,SCLC,Differential alternative splicing,EPG5
+sclc_sclc_control,SCLC,Upregulated genes,B3GNT4
+sclc_sclc_control,SCLC,Differential alternative splicing,INF2
+sclc_sclc_control,SCLC,Upregulated genes,AC007368.1
+sclc_sclc_control,SCLC,Differential alternative splicing,AP002026.1
+sclc_sclc_control,SCLC,Upregulated genes,MMP17
+sclc_sclc_control,SCLC,Differential alternative splicing,DPH2
+sclc_sclc_control,SCLC,Upregulated genes,GGT4P
+sclc_sclc_control,SCLC,Differential alternative splicing,RPARP-AS1
+sclc_sclc_control,SCLC,Upregulated genes,GJB6
+sclc_sclc_control,SCLC,Differential alternative splicing,CCDC51
+sclc_sclc_control,SCLC,Upregulated genes,LINC00460
+sclc_sclc_control,SCLC,Differential alternative splicing,ARMCX2
+sclc_sclc_control,SCLC,Upregulated genes,PTCSC3
+sclc_sclc_control,SCLC,Differential alternative splicing,TNFSF13
+sclc_sclc_control,SCLC,Upregulated genes,AL132857.1
+sclc_sclc_control,SCLC,Differential alternative splicing,GORASP1
+sclc_sclc_control,SCLC,Upregulated genes,TRIM9
+sclc_sclc_control,SCLC,Differential alternative splicing,USP36
+sclc_sclc_control,SCLC,Upregulated genes,LINC02331
+sclc_sclc_control,SCLC,Differential alternative splicing,CCDC24
+sclc_sclc_control,SCLC,Upregulated genes,CCDC198
+sclc_sclc_control,SCLC,Differential alternative splicing,STOML1
+sclc_sclc_control,SCLC,Upregulated genes,SIX1
+sclc_sclc_control,SCLC,Differential alternative splicing,RPS6KA4
+sclc_sclc_control,SCLC,Upregulated genes,AL359232.1
+sclc_sclc_control,SCLC,Differential alternative splicing,ADAM15
+sclc_sclc_control,SCLC,Upregulated genes,PLEK2
+sclc_sclc_control,SCLC,Differential alternative splicing,SYTL2
+sclc_sclc_control,SCLC,Upregulated genes,ARG2
+sclc_sclc_control,SCLC,Differential alternative splicing,C19orf54
+sclc_sclc_control,SCLC,Upregulated genes,AL121820.2
+sclc_sclc_control,SCLC,Differential alternative splicing,DVL1
+sclc_sclc_control,SCLC,Upregulated genes,BATF
+sclc_sclc_control,SCLC,Differential alternative splicing,ITGA7
+sclc_sclc_control,SCLC,Upregulated genes,TMEM63C
+sclc_sclc_control,SCLC,Differential alternative splicing,ZC2HC1C
+sclc_sclc_control,SCLC,Upregulated genes,CATSPERB
+sclc_sclc_control,SCLC,Differential alternative splicing,PACRGL
+sclc_sclc_control,SCLC,Upregulated genes,OTUB2
+sclc_sclc_control,SCLC,Differential alternative splicing,MRPL55
+sclc_sclc_control,SCLC,Upregulated genes,SERPINA5
+sclc_sclc_control,SCLC,Differential alternative splicing,IRF3
+sclc_sclc_control,SCLC,Upregulated genes,AC013652.1
+sclc_sclc_control,SCLC,Differential alternative splicing,LIAS
+sclc_sclc_control,SCLC,Upregulated genes,OIP5
+sclc_sclc_control,SCLC,Differential alternative splicing,TP53TG1
+sclc_sclc_control,SCLC,Upregulated genes,CKMT1B
+sclc_sclc_control,SCLC,Differential alternative splicing,CCDC191
+sclc_sclc_control,SCLC,Upregulated genes,CKMT1A
+sclc_sclc_control,SCLC,Differential alternative splicing,SYTL3
+sclc_sclc_control,SCLC,Upregulated genes,AC092868.1
+sclc_sclc_control,SCLC,Differential alternative splicing,MID1
+sclc_sclc_control,SCLC,Upregulated genes,GCNT3
+sclc_sclc_control,SCLC,Differential alternative splicing,NCDN
+sclc_sclc_control,SCLC,Upregulated genes,DRAIC
+sclc_sclc_control,SCLC,Differential alternative splicing,MIB2
+sclc_sclc_control,SCLC,Upregulated genes,LOXL1-AS1
+sclc_sclc_control,SCLC,Differential alternative splicing,IFT81
+sclc_sclc_control,SCLC,Upregulated genes,CHRNB4
+sclc_sclc_control,SCLC,Upregulated genes,MIR9-3HG
+sclc_sclc_control,SCLC,Upregulated genes,MESP1
+sclc_sclc_control,SCLC,Upregulated genes,MESP2
+sclc_sclc_control,SCLC,Upregulated genes,AC015712.6
+sclc_sclc_control,SCLC,Upregulated genes,WASIR2
+sclc_sclc_control,SCLC,Upregulated genes,SNRNP25
+sclc_sclc_control,SCLC,Upregulated genes,RHBDL1
+sclc_sclc_control,SCLC,Upregulated genes,JPT2
+sclc_sclc_control,SCLC,Upregulated genes,NOXO1
+sclc_sclc_control,SCLC,Upregulated genes,NPW
+sclc_sclc_control,SCLC,Upregulated genes,AC009065.2
+sclc_sclc_control,SCLC,Upregulated genes,RAB26
+sclc_sclc_control,SCLC,Upregulated genes,CASKIN1
+sclc_sclc_control,SCLC,Upregulated genes,CCNF
+sclc_sclc_control,SCLC,Upregulated genes,TEDC2
+sclc_sclc_control,SCLC,Upregulated genes,AC106820.4
+sclc_sclc_control,SCLC,Upregulated genes,ZG16B
+sclc_sclc_control,SCLC,Upregulated genes,CLDN9
+sclc_sclc_control,SCLC,Upregulated genes,LINC01569
+sclc_sclc_control,SCLC,Upregulated genes,SMIM22
+sclc_sclc_control,SCLC,Upregulated genes,RMI2
+sclc_sclc_control,SCLC,Upregulated genes,CRYM
+sclc_sclc_control,SCLC,Upregulated genes,ERN2
+sclc_sclc_control,SCLC,Upregulated genes,SBK1
+sclc_sclc_control,SCLC,Upregulated genes,KIF22
+sclc_sclc_control,SCLC,Upregulated genes,AC106782.5
+sclc_sclc_control,SCLC,Upregulated genes,GPT2
+sclc_sclc_control,SCLC,Upregulated genes,ABCC11
+sclc_sclc_control,SCLC,Upregulated genes,TOX3
+sclc_sclc_control,SCLC,Upregulated genes,CCL17
+sclc_sclc_control,SCLC,Upregulated genes,CNGB1
+sclc_sclc_control,SCLC,Upregulated genes,CES3
+sclc_sclc_control,SCLC,Upregulated genes,AC126773.4
+sclc_sclc_control,SCLC,Upregulated genes,NQO1
+sclc_sclc_control,SCLC,Upregulated genes,BCO1
+sclc_sclc_control,SCLC,Upregulated genes,SLC7A5
+sclc_sclc_control,SCLC,Upregulated genes,CDH15
+sclc_sclc_control,SCLC,Upregulated genes,DPEP1
+sclc_sclc_control,SCLC,Upregulated genes,MFSD6L
+sclc_sclc_control,SCLC,Upregulated genes,KRT17P2
+sclc_sclc_control,SCLC,Upregulated genes,LGALS9C
+sclc_sclc_control,SCLC,Upregulated genes,ALDOC
+sclc_sclc_control,SCLC,Upregulated genes,SLFN13
+sclc_sclc_control,SCLC,Upregulated genes,AC015849.5
+sclc_sclc_control,SCLC,Upregulated genes,RDM1
+sclc_sclc_control,SCLC,Upregulated genes,YWHAEP7
+sclc_sclc_control,SCLC,Upregulated genes,SRCIN1
+sclc_sclc_control,SCLC,Upregulated genes,GSDMB
+sclc_sclc_control,SCLC,Upregulated genes,TMEM99
+sclc_sclc_control,SCLC,Upregulated genes,KRT32
+sclc_sclc_control,SCLC,Upregulated genes,KRT15
+sclc_sclc_control,SCLC,Upregulated genes,KRT14
+sclc_sclc_control,SCLC,Upregulated genes,KRT17
+sclc_sclc_control,SCLC,Upregulated genes,ETV4
+sclc_sclc_control,SCLC,Upregulated genes,AC008105.2
+sclc_sclc_control,SCLC,Upregulated genes,HOXB7
+sclc_sclc_control,SCLC,Upregulated genes,HOXB9
+sclc_sclc_control,SCLC,Upregulated genes,HOXB13
+sclc_sclc_control,SCLC,Upregulated genes,CA10
+sclc_sclc_control,SCLC,Upregulated genes,AC011921.1
+sclc_sclc_control,SCLC,Upregulated genes,SCN4A
+sclc_sclc_control,SCLC,Upregulated genes,AC145343.1
+sclc_sclc_control,SCLC,Upregulated genes,SOX9
+sclc_sclc_control,SCLC,Upregulated genes,AC080037.2
+sclc_sclc_control,SCLC,Upregulated genes,ST6GALNAC1
+sclc_sclc_control,SCLC,Upregulated genes,LINC01977
+sclc_sclc_control,SCLC,Upregulated genes,NPTX1
+sclc_sclc_control,SCLC,Upregulated genes,ONECUT2
+sclc_sclc_control,SCLC,Upregulated genes,SERPINB5
+sclc_sclc_control,SCLC,Upregulated genes,KF456478.1
+sclc_sclc_control,SCLC,Upregulated genes,CELF5
+sclc_sclc_control,SCLC,Upregulated genes,SMIM24
+sclc_sclc_control,SCLC,Upregulated genes,LRG1
+sclc_sclc_control,SCLC,Upregulated genes,FUT6
+sclc_sclc_control,SCLC,Upregulated genes,CCL25
+sclc_sclc_control,SCLC,Upregulated genes,ANGPTL4
+sclc_sclc_control,SCLC,Upregulated genes,EPHX3
+sclc_sclc_control,SCLC,Upregulated genes,UCA1
+sclc_sclc_control,SCLC,Upregulated genes,B3GNT3
+sclc_sclc_control,SCLC,Upregulated genes,KCNN1
+sclc_sclc_control,SCLC,Upregulated genes,CILP2
+sclc_sclc_control,SCLC,Upregulated genes,AC011503.2
+sclc_sclc_control,SCLC,Upregulated genes,SLC7A10
+sclc_sclc_control,SCLC,Upregulated genes,WDR62
+sclc_sclc_control,SCLC,Upregulated genes,AC022144.1
+sclc_sclc_control,SCLC,Upregulated genes,NCCRP1
+sclc_sclc_control,SCLC,Upregulated genes,CCNP
+sclc_sclc_control,SCLC,Upregulated genes,CEACAM5
+sclc_sclc_control,SCLC,Upregulated genes,LYPD3
+sclc_sclc_control,SCLC,Upregulated genes,CBLC
+sclc_sclc_control,SCLC,Upregulated genes,FOXA3
+sclc_sclc_control,SCLC,Upregulated genes,AC006262.1
+sclc_sclc_control,SCLC,Upregulated genes,PNMA8A
+sclc_sclc_control,SCLC,Upregulated genes,GRIN2D
+sclc_sclc_control,SCLC,Upregulated genes,FUT2
+sclc_sclc_control,SCLC,Upregulated genes,MYBPC2
+sclc_sclc_control,SCLC,Upregulated genes,PRKCG
+sclc_sclc_control,SCLC,Upregulated genes,PTPRH
+sclc_sclc_control,SCLC,Upregulated genes,COX6B2
+sclc_sclc_control,SCLC,Upregulated genes,SOX12
+sclc_sclc_control,SCLC,Upregulated genes,SLC52A3
+sclc_sclc_control,SCLC,Upregulated genes,FER1L4
+sclc_sclc_control,SCLC,Upregulated genes,SPAG4
+sclc_sclc_control,SCLC,Upregulated genes,ARHGAP40
+sclc_sclc_control,SCLC,Upregulated genes,MYBL2
+sclc_sclc_control,SCLC,Upregulated genes,WFDC2
+sclc_sclc_control,SCLC,Upregulated genes,EYA2
+sclc_sclc_control,SCLC,Upregulated genes,DOK5
+sclc_sclc_control,SCLC,Upregulated genes,TFAP2C
+sclc_sclc_control,SCLC,Upregulated genes,BMP7
+sclc_sclc_control,SCLC,Upregulated genes,C20orf197
+sclc_sclc_control,SCLC,Upregulated genes,MIR646HG
+sclc_sclc_control,SCLC,Upregulated genes,C20orf204
+sclc_sclc_control,SCLC,Upregulated genes,CLIC6
+sclc_sclc_control,SCLC,Upregulated genes,LINC01426
+sclc_sclc_control,SCLC,Upregulated genes,SIM2
+sclc_sclc_control,SCLC,Upregulated genes,MX2
+sclc_sclc_control,SCLC,Upregulated genes,UMODL1
+sclc_sclc_control,SCLC,Upregulated genes,TFF3
+sclc_sclc_control,SCLC,Upregulated genes,TFF1
+sclc_sclc_control,SCLC,Upregulated genes,AL844908.1
+sclc_sclc_control,SCLC,Upregulated genes,PCBP3
+sclc_sclc_control,SCLC,Upregulated genes,SERPIND1
+sclc_sclc_control,SCLC,Upregulated genes,AC244250.4
+sclc_sclc_control,SCLC,Upregulated genes,TMPRSS6
+sclc_sclc_control,SCLC,Upregulated genes,ELFN2
+sclc_sclc_control,SCLC,Upregulated genes,GCAT
+sclc_sclc_control,SCLC,Upregulated genes,CACNA1I
+sclc_sclc_control,SCLC,Upregulated genes,FAM83F
+sclc_sclc_control,SCLC,Upregulated genes,SEPTIN3
+sclc_sclc_control,SCLC,Upregulated genes,LINC01315
+sclc_sclc_control,SCLC,Upregulated genes,BIK
+sclc_sclc_control,SCLC,Upregulated genes,SULT4A1
+sclc_sclc_control,SCLC,Upregulated genes,UPK3A
+sclc_sclc_control,SCLC,Upregulated genes,SMC1B
+sclc_sclc_control,SCLC,Upregulated genes,GTSE1
+sclc_sclc_control,SCLC,Upregulated genes,PANX2
+sclc_sclc_control,SCLC,Upregulated genes,ADM2
+sclc_sclc_control,SCLC,Upregulated genes,KLHDC7B-DT
+sclc_sclc_control,SCLC,Upregulated genes,ARSL
+sclc_sclc_control,SCLC,Upregulated genes,NHS
+sclc_sclc_control,SCLC,Upregulated genes,AL928596.1
+sclc_sclc_control,SCLC,Upregulated genes,SMPX
+sclc_sclc_control,SCLC,Upregulated genes,PCSK1N
+sclc_sclc_control,SCLC,Upregulated genes,XAGE1A
+sclc_sclc_control,SCLC,Upregulated genes,XAGE1B
+sclc_sclc_control,SCLC,Upregulated genes,FAM155B
+sclc_sclc_control,SCLC,Upregulated genes,GJB1
+sclc_sclc_control,SCLC,Upregulated genes,POF1B
+sclc_sclc_control,SCLC,Upregulated genes,CLDN2
+sclc_sclc_control,SCLC,Upregulated genes,NLRP3P1
+sclc_sclc_control,SCLC,Upregulated genes,LINC01285
+sclc_sclc_control,SCLC,Upregulated genes,FIRRE
+sclc_sclc_control,SCLC,Upregulated genes,LDOC1
+sclc_sclc_control,SCLC,Upregulated genes,PNMA3
+sclc_sclc_control,SCLC,Upregulated genes,PNMA6A
+sclc_sclc_control,SCLC,Upregulated genes,DUSP9
+sclc_sclc_control,SCLC,Upregulated genes,SLC6A8
+sclc_sclc_control,SCLC,Upregulated genes,SRPK3
+sclc_sclc_control,SCLC,Upregulated genes,SSR4
+sclc_sclc_control,SCLC,Upregulated genes,LAGE3
+sclc_sclc_control,SCLC,Upregulated genes,CD24P4
+sclc_sclc_control,SCLC,Upregulated genes,AC136616.1

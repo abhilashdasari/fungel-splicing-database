@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Differential Splicing Explorer</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">FUNGEL differential splicing database</p>
+        <h1>Differential Splicing Explorer</h1>
+      </div>
+      <div class="header-actions">
+        <button id="downloadFiltered" type="button">Download CSV</button>
+        <a class="button-link" href="data/splicing_event_distribution.csv" download>Raw data</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="control-bar" aria-label="Filters">
+        <label>
+          Search
+          <input id="searchInput" type="search" placeholder="Gene set, disease, condition, comparison">
+        </label>
+        <label>
+          Disease group
+          <select id="diseaseFilter">
+            <option value="">All disease groups</option>
+          </select>
+        </label>
+        <label>
+          Minimum all-tool gene hits
+          <input id="minEvents" type="number" min="0" step="1" value="0">
+        </label>
+        <label>
+          Sort by
+          <select id="sortBy">
+            <option value="total_tool_gene_hits">All-tool gene hits</option>
+            <option value="total_rmats_events">Total events</option>
+            <option value="total_unique_genes">Unique genes</option>
+            <option value="DEXSeq_count">DEXSeq genes</option>
+            <option value="Sleuth_count">Sleuth genes</option>
+            <option value="Leafcutter_count">Leafcutter genes</option>
+            <option value="rMATS_gene_count">rMATS genes</option>
+            <option value="SE_count">SE events</option>
+            <option value="RI_count">RI events</option>
+            <option value="MXE_count">MXE events</option>
+            <option value="A3SS_count">A3SS events</option>
+            <option value="A5SS_count">A5SS events</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="metrics" aria-label="Summary metrics">
+        <article>
+          <span id="metricComparisons">0</span>
+          <p>comparisons</p>
+        </article>
+        <article>
+          <span id="metricEvents">0</span>
+          <p>spliced genes across 4 tools</p>
+        </article>
+        <article>
+          <span id="metricGenesSummed">0</span>
+          <p>unique spliced genes (sum of each comparison)</p>
+        </article>
+        <article>
+          <span id="metricGenesUnion">0</span>
+          <p>unique spliced genes (across all comparisons)</p>
+        </article>
+      </section>
+
+      <section class="workspace">
+        <section class="panel chart-panel">
+          <div class="panel-title">
+            <h2>Tool Composition</h2>
+            <p>DEXSeq, Sleuth, Leafcutter, and rMATS gene counts.</p>
+          </div>
+          <div id="toolChart" class="chart" role="img" aria-label="Stacked tool-level gene count chart"></div>
+        </section>
+
+        <section class="panel chart-panel">
+          <div class="panel-title">
+            <h2>Event Composition</h2>
+            <p>SE, RI, MXE, A3SS, and A5SS counts.</p>
+          </div>
+          <div id="compositionChart" class="chart" role="img" aria-label="Stacked splicing event chart"></div>
+        </section>
+      </section>
+
+      <section class="workspace">
+        <section class="panel">
+          <div class="panel-title">
+            <h2>Disease Summary</h2>
+            <p>All-tool gene hits by disease group.</p>
+          </div>
+          <div id="diseaseChart" class="chart compact-chart" role="img" aria-label="Disease group event totals"></div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-title">
+            <h2>Up/Downregulated Genes</h2>
+            <p>DEG direction counts across the filtered comparisons.</p>
+          </div>
+          <div id="upDownChart" class="chart compact-chart" role="img" aria-label="Upregulated and downregulated gene counts by comparison"></div>
+        </section>
+      </section>
+
+      <section class="panel table-panel">
+        <div class="panel-title">
+          <h2>Comparison Table</h2>
+          <p id="tableCount">0 rows</p>
+        </div>
+        <div class="table-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="display_name">Comparison</button></th>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="condition">Condition</button></th>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="disease_group_combined">Disease</button></th>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="total_unique_genes">Unique genes</button></th>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="total_tool_gene_hits">All tools</button></th>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="DEXSeq_count">DEXSeq</button></th>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="Sleuth_count">Sleuth</button></th>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="Leafcutter_count">Leafcutter</button></th>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="rMATS_gene_count">rMATS genes</button></th>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="total_rmats_events">rMATS events</button></th>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="SE_count">SE</button></th>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="RI_count">RI</button></th>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="MXE_count">MXE</button></th>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="A3SS_count">A3SS</button></th>
+                <th><button class="sort-header" type="button" data-table="comparison" data-key="A5SS_count">A5SS</button></th>
+              </tr>
+            </thead>
+            <tbody id="resultsBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel gene-panel">
+        <div class="panel-title">
+          <h2>Gene List Downloads</h2>
+          <p>Gene names exported from the 68-sheet workbook.</p>
+        </div>
+        <div class="gene-controls">
+          <label>
+            Comparison
+            <select id="geneComparison"></select>
+          </label>
+          <label>
+            Gene set
+            <select id="geneSetFilter">
+              <option value="">All gene sets</option>
+            </select>
+          </label>
+          <label>
+            Search genes
+            <input id="geneSearch" type="search" placeholder="e.g. SRSF3, BCL2L1">
+          </label>
+          <button id="downloadGenes" type="button">Download genes</button>
+        </div>
+        <div id="geneSummary" class="gene-summary"></div>
+        <div class="table-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th><button class="sort-header" type="button" data-table="genes" data-key="comparison_name">Comparison</button></th>
+                <th><button class="sort-header" type="button" data-table="genes" data-key="gene_set">Gene set</button></th>
+                <th><button class="sort-header" type="button" data-table="genes" data-key="gene_name">Gene name</button></th>
+              </tr>
+            </thead>
+            <tbody id="geneBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel webr-panel">
+        <div class="panel-title">
+          <h2>Run R With webR</h2>
+          <p>Runs in the browser on the currently filtered table.</p>
+        </div>
+        <textarea id="rCode" spellcheck="false">summary(filtered_data[, c("total_unique_genes", "total_tool_gene_hits", "DEXSeq_count", "Sleuth_count", "Leafcutter_count", "rMATS_gene_count", "total_rmats_events")])
+
+aggregate(cbind(total_tool_gene_hits, DEXSeq_count, Sleuth_count, Leafcutter_count, rMATS_gene_count) ~ disease_group_combined, filtered_data, sum)</textarea>
+        <div class="webr-actions">
+          <button id="runR" type="button">Run R analysis</button>
+          <span id="webrStatus">webR not loaded</span>
+        </div>
+        <pre id="rOutput" aria-live="polite"></pre>
+      </section>
+    </main>
+
+    <footer>
+      <p>Static GitHub Pages database. Data files are public and analyses run locally in the user's browser.</p>
+    </footer>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

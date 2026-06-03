@@ -1,0 +1,1158 @@
+[
+  {
+    "comparison_id": "mers_mers24_control",
+    "display_name": "MERS24",
+    "condition": "MERS",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/01_mers_mers24_control.csv",
+    "row_count": 11647,
+    "unique_gene_count": 7461,
+    "category_counts": {
+      "Upregulated genes": 2413,
+      "Downregulated genes": 1592,
+      "Differential exon usage": 2589,
+      "Differential transcript expression": 1743,
+      "Differential intron excision": 560,
+      "Differential alternative splicing": 2750
+    }
+  },
+  {
+    "comparison_id": "sars_sars24_control",
+    "display_name": "SARS24",
+    "condition": "SARS",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/02_sars_sars24_control.csv",
+    "row_count": 6825,
+    "unique_gene_count": 4973,
+    "category_counts": {
+      "Upregulated genes": 1579,
+      "Downregulated genes": 340,
+      "Differential exon usage": 1818,
+      "Differential transcript expression": 911,
+      "Differential intron excision": 180,
+      "Differential alternative splicing": 1997
+    }
+  },
+  {
+    "comparison_id": "covid_india_covid_19_control",
+    "display_name": "COVID-INDIA",
+    "condition": "COVID-India",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/03_covid_india_covid_19_control.csv",
+    "row_count": 30349,
+    "unique_gene_count": 18337,
+    "category_counts": {
+      "Upregulated genes": 2513,
+      "Downregulated genes": 5837,
+      "Differential exon usage": 12466,
+      "Differential transcript expression": 7425,
+      "Differential intron excision": 433,
+      "Differential alternative splicing": 1675
+    }
+  },
+  {
+    "comparison_id": "nafld_control_nafld",
+    "display_name": "NAFLD",
+    "condition": "NAFLD",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/04_nafld_control_nafld.csv",
+    "row_count": 23216,
+    "unique_gene_count": 14009,
+    "category_counts": {
+      "Upregulated genes": 1230,
+      "Downregulated genes": 1262,
+      "Differential exon usage": 11518,
+      "Differential transcript expression": 7238,
+      "Differential intron excision": 242,
+      "Differential alternative splicing": 1726
+    }
+  },
+  {
+    "comparison_id": "mers_mers12_control",
+    "display_name": "MERS12",
+    "condition": "MERS",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/05_mers_mers12_control.csv",
+    "row_count": 4457,
+    "unique_gene_count": 3524,
+    "category_counts": {
+      "Upregulated genes": 936,
+      "Downregulated genes": 513,
+      "Differential exon usage": 869,
+      "Differential transcript expression": 455,
+      "Differential intron excision": 176,
+      "Differential alternative splicing": 1508
+    }
+  },
+  {
+    "comparison_id": "liver_diseases_normal_dysplastic_nodule",
+    "display_name": "Dysplastic_nodule",
+    "condition": "Liver diseases",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/06_liver_diseases_normal_dysplastic_nodule.csv",
+    "row_count": 14608,
+    "unique_gene_count": 10465,
+    "category_counts": {
+      "Upregulated genes": 574,
+      "Downregulated genes": 1234,
+      "Differential exon usage": 8322,
+      "Differential transcript expression": 2628,
+      "Differential intron excision": 452,
+      "Differential alternative splicing": 1398
+    }
+  },
+  {
+    "comparison_id": "liver_diseases_normal_liver_cirrhosis",
+    "display_name": "Liver_cirrhosis",
+    "condition": "Liver diseases",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/07_liver_diseases_normal_liver_cirrhosis.csv",
+    "row_count": 13165,
+    "unique_gene_count": 9800,
+    "category_counts": {
+      "Upregulated genes": 444,
+      "Downregulated genes": 807,
+      "Differential exon usage": 7853,
+      "Differential transcript expression": 2239,
+      "Differential intron excision": 406,
+      "Differential alternative splicing": 1416
+    }
+  },
+  {
+    "comparison_id": "sars_sars2_control",
+    "display_name": "SARS2",
+    "condition": "SARS",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/08_sars_sars2_control.csv",
+    "row_count": 6825,
+    "unique_gene_count": 4973,
+    "category_counts": {
+      "Upregulated genes": 1579,
+      "Downregulated genes": 340,
+      "Differential exon usage": 1818,
+      "Differential transcript expression": 911,
+      "Differential intron excision": 180,
+      "Differential alternative splicing": 1997
+    }
+  },
+  {
+    "comparison_id": "sars_cov_2_covid_48hr_control_covid_48hr_infected",
+    "display_name": "SARS-CoV-2-48h",
+    "condition": "SARS-CoV-2",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/09_sars_cov_2_covid_48hr_control_covid_48hr_infected.csv",
+    "row_count": 7202,
+    "unique_gene_count": 5470,
+    "category_counts": {
+      "Upregulated genes": 1466,
+      "Downregulated genes": 1007,
+      "Differential exon usage": 1886,
+      "Differential transcript expression": 1174,
+      "Differential intron excision": 336,
+      "Differential alternative splicing": 1333
+    }
+  },
+  {
+    "comparison_id": "liver_diseases_normal_chronic_hepatitis",
+    "display_name": "Chronic_hepatitis",
+    "condition": "Liver diseases",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/10_liver_diseases_normal_chronic_hepatitis.csv",
+    "row_count": 11964,
+    "unique_gene_count": 8842,
+    "category_counts": {
+      "Upregulated genes": 86,
+      "Downregulated genes": 380,
+      "Differential exon usage": 7255,
+      "Differential transcript expression": 2628,
+      "Differential intron excision": 257,
+      "Differential alternative splicing": 1358
+    }
+  },
+  {
+    "comparison_id": "sars_sars4_control",
+    "display_name": "SARS4",
+    "condition": "SARS",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/11_sars_sars4_control.csv",
+    "row_count": 2319,
+    "unique_gene_count": 2032,
+    "category_counts": {
+      "Upregulated genes": 151,
+      "Downregulated genes": 222,
+      "Differential exon usage": 558,
+      "Differential transcript expression": 56,
+      "Differential intron excision": 102,
+      "Differential alternative splicing": 1230
+    }
+  },
+  {
+    "comparison_id": "mers_mers4_control",
+    "display_name": "MERS4",
+    "condition": "MERS",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/12_mers_mers4_control.csv",
+    "row_count": 2472,
+    "unique_gene_count": 2142,
+    "category_counts": {
+      "Upregulated genes": 183,
+      "Downregulated genes": 316,
+      "Differential exon usage": 559,
+      "Differential transcript expression": 115,
+      "Differential intron excision": 73,
+      "Differential alternative splicing": 1226
+    }
+  },
+  {
+    "comparison_id": "mers_mers2_control",
+    "display_name": "MERS2",
+    "condition": "MERS",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/13_mers_mers2_control.csv",
+    "row_count": 2035,
+    "unique_gene_count": 1812,
+    "category_counts": {
+      "Upregulated genes": 212,
+      "Downregulated genes": 127,
+      "Differential exon usage": 354,
+      "Differential transcript expression": 38,
+      "Differential intron excision": 85,
+      "Differential alternative splicing": 1219
+    }
+  },
+  {
+    "comparison_id": "ipf_ipf_control",
+    "display_name": "IPF",
+    "condition": "IPF",
+    "disease_group": "chronic_fibrotic",
+    "filename": "gene_lists/14_ipf_ipf_control.csv",
+    "row_count": 14082,
+    "unique_gene_count": 10177,
+    "category_counts": {
+      "Upregulated genes": 1815,
+      "Downregulated genes": 1707,
+      "Differential exon usage": 5251,
+      "Differential transcript expression": 3978,
+      "Differential intron excision": 199,
+      "Differential alternative splicing": 1132
+    }
+  },
+  {
+    "comparison_id": "sars_cov_2_variants_alpha_control_72hr",
+    "display_name": "SARS-CoV-2-Alpha-72h",
+    "condition": "SARS-CoV-2 Variants",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/15_sars_cov_2_variants_alpha_control_72hr.csv",
+    "row_count": 2912,
+    "unique_gene_count": 2589,
+    "category_counts": {
+      "Upregulated genes": 915,
+      "Downregulated genes": 350,
+      "Differential exon usage": 507,
+      "Differential transcript expression": 90,
+      "Differential intron excision": 165,
+      "Differential alternative splicing": 885
+    }
+  },
+  {
+    "comparison_id": "copd_control_copd",
+    "display_name": "COPD",
+    "condition": "COPD",
+    "disease_group": "chronic_fibrotic",
+    "filename": "gene_lists/16_copd_control_copd.csv",
+    "row_count": 9002,
+    "unique_gene_count": 6907,
+    "category_counts": {
+      "Upregulated genes": 182,
+      "Downregulated genes": 86,
+      "Differential exon usage": 3461,
+      "Differential transcript expression": 4023,
+      "Differential intron excision": 145,
+      "Differential alternative splicing": 1105
+    }
+  },
+  {
+    "comparison_id": "covid_europe_covid_19_control",
+    "display_name": "COVID-Austria",
+    "condition": "COVID-Europe",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/17_covid_europe_covid_19_control.csv",
+    "row_count": 33781,
+    "unique_gene_count": 18283,
+    "category_counts": {
+      "Upregulated genes": 4702,
+      "Downregulated genes": 4855,
+      "Differential exon usage": 14313,
+      "Differential transcript expression": 8552,
+      "Differential intron excision": 394,
+      "Differential alternative splicing": 965
+    }
+  },
+  {
+    "comparison_id": "sars_sars12_control",
+    "display_name": "SARS12",
+    "condition": "SARS",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/18_sars_sars12_control.csv",
+    "row_count": 1358,
+    "unique_gene_count": 1276,
+    "category_counts": {
+      "Upregulated genes": 126,
+      "Downregulated genes": 65,
+      "Differential exon usage": 168,
+      "Differential transcript expression": 4,
+      "Differential intron excision": 32,
+      "Differential alternative splicing": 963
+    }
+  },
+  {
+    "comparison_id": "sars_cov_2_covid_72hr_control_covid_72hr_infected",
+    "display_name": "SARS-CoV-2-72h",
+    "condition": "SARS-CoV-2",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/19_sars_cov_2_covid_72hr_control_covid_72hr_infected.csv",
+    "row_count": 2912,
+    "unique_gene_count": 2589,
+    "category_counts": {
+      "Upregulated genes": 915,
+      "Downregulated genes": 350,
+      "Differential exon usage": 507,
+      "Differential transcript expression": 90,
+      "Differential intron excision": 165,
+      "Differential alternative splicing": 885
+    }
+  },
+  {
+    "comparison_id": "sars_cov_2_covid_24hr_control_covid_24hr_infected",
+    "display_name": "SARS-CoV-2-24h",
+    "condition": "SARS-CoV-2",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/20_sars_cov_2_covid_24hr_control_covid_24hr_infected.csv",
+    "row_count": 6141,
+    "unique_gene_count": 4591,
+    "category_counts": {
+      "Upregulated genes": 1021,
+      "Downregulated genes": 82,
+      "Differential exon usage": 2337,
+      "Differential transcript expression": 1605,
+      "Differential intron excision": 225,
+      "Differential alternative splicing": 871
+    }
+  },
+  {
+    "comparison_id": "liver_diseases_normal_advanced_hcc",
+    "display_name": "Advanced_HCC",
+    "condition": "Liver diseases",
+    "disease_group": "Cancers",
+    "filename": "gene_lists/21_liver_diseases_normal_advanced_hcc.csv",
+    "row_count": 10689,
+    "unique_gene_count": 8166,
+    "category_counts": {
+      "Upregulated genes": 1256,
+      "Downregulated genes": 2960,
+      "Differential exon usage": 3016,
+      "Differential transcript expression": 2453,
+      "Differential intron excision": 261,
+      "Differential alternative splicing": 743
+    }
+  },
+  {
+    "comparison_id": "tuberculosis_live_72_ni_72",
+    "display_name": "MTB_live72_NI72",
+    "condition": "Tuberculosis",
+    "disease_group": "acute_bacterial",
+    "filename": "gene_lists/22_tuberculosis_live_72_ni_72.csv",
+    "row_count": 20170,
+    "unique_gene_count": 11695,
+    "category_counts": {
+      "Upregulated genes": 2096,
+      "Downregulated genes": 2836,
+      "Differential exon usage": 8097,
+      "Differential transcript expression": 5409,
+      "Differential intron excision": 391,
+      "Differential alternative splicing": 1341
+    }
+  },
+  {
+    "comparison_id": "sars_cov_2_variants_alpha_control_48hr",
+    "display_name": "SARS-CoV-2-Alpha-48h",
+    "condition": "SARS-CoV-2 Variants",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/23_sars_cov_2_variants_alpha_control_48hr.csv",
+    "row_count": 7202,
+    "unique_gene_count": 5470,
+    "category_counts": {
+      "Upregulated genes": 1466,
+      "Downregulated genes": 1007,
+      "Differential exon usage": 1886,
+      "Differential transcript expression": 1174,
+      "Differential intron excision": 336,
+      "Differential alternative splicing": 1333
+    }
+  },
+  {
+    "comparison_id": "tuberculosis_live_2_ni_2",
+    "display_name": "MTB_live2_NI2",
+    "condition": "Tuberculosis",
+    "disease_group": "acute_bacterial",
+    "filename": "gene_lists/24_tuberculosis_live_2_ni_2.csv",
+    "row_count": 8816,
+    "unique_gene_count": 6336,
+    "category_counts": {
+      "Upregulated genes": 2040,
+      "Downregulated genes": 2850,
+      "Differential exon usage": 1253,
+      "Differential transcript expression": 1655,
+      "Differential intron excision": 305,
+      "Differential alternative splicing": 713
+    }
+  },
+  {
+    "comparison_id": "sars_cov_2_variants_control_delta_72hr",
+    "display_name": "SARS-CoV-2-Delta-72h",
+    "condition": "SARS-CoV-2 Variants",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/25_sars_cov_2_variants_control_delta_72hr.csv",
+    "row_count": 2912,
+    "unique_gene_count": 2589,
+    "category_counts": {
+      "Upregulated genes": 915,
+      "Downregulated genes": 350,
+      "Differential exon usage": 507,
+      "Differential transcript expression": 90,
+      "Differential intron excision": 165,
+      "Differential alternative splicing": 885
+    }
+  },
+  {
+    "comparison_id": "tuberculosis_hi_72_ni_72",
+    "display_name": "MTB_hi72_NI72",
+    "condition": "Tuberculosis",
+    "disease_group": "acute_bacterial",
+    "filename": "gene_lists/26_tuberculosis_hi_72_ni_72.csv",
+    "row_count": 6123,
+    "unique_gene_count": 5073,
+    "category_counts": {
+      "Upregulated genes": 274,
+      "Downregulated genes": 156,
+      "Differential exon usage": 4071,
+      "Differential transcript expression": 1279,
+      "Differential intron excision": 42,
+      "Differential alternative splicing": 301
+    }
+  },
+  {
+    "comparison_id": "tuberculosis_live_48_ni_48",
+    "display_name": "MTB_live48_NI48",
+    "condition": "Tuberculosis",
+    "disease_group": "acute_bacterial",
+    "filename": "gene_lists/27_tuberculosis_live_48_ni_48.csv",
+    "row_count": 10833,
+    "unique_gene_count": 7431,
+    "category_counts": {
+      "Upregulated genes": 2784,
+      "Downregulated genes": 3077,
+      "Differential exon usage": 1735,
+      "Differential transcript expression": 2390,
+      "Differential intron excision": 263,
+      "Differential alternative splicing": 584
+    }
+  },
+  {
+    "comparison_id": "tuberculosis_live_18_ni_18",
+    "display_name": "MTB_live18_NI18",
+    "condition": "Tuberculosis",
+    "disease_group": "acute_bacterial",
+    "filename": "gene_lists/28_tuberculosis_live_18_ni_18.csv",
+    "row_count": 10833,
+    "unique_gene_count": 7431,
+    "category_counts": {
+      "Upregulated genes": 2784,
+      "Downregulated genes": 3077,
+      "Differential exon usage": 1735,
+      "Differential transcript expression": 2390,
+      "Differential intron excision": 263,
+      "Differential alternative splicing": 584
+    }
+  },
+  {
+    "comparison_id": "ards_ards_bmt_sepsis_bmt",
+    "display_name": "ARDS-BMT-Sepsis",
+    "condition": "ARDS",
+    "disease_group": "acute_lung",
+    "filename": "gene_lists/29_ards_ards_bmt_sepsis_bmt.csv",
+    "row_count": 2801,
+    "unique_gene_count": 2501,
+    "category_counts": {
+      "Upregulated genes": 523,
+      "Downregulated genes": 1141,
+      "Differential exon usage": 472,
+      "Differential transcript expression": 7,
+      "Differential intron excision": 88,
+      "Differential alternative splicing": 570
+    }
+  },
+  {
+    "comparison_id": "tobacco_smoke_cse_drug_control_drug",
+    "display_name": "CSE-drug",
+    "condition": "Tobacco smoke",
+    "disease_group": "chronic_fibrotic",
+    "filename": "gene_lists/30_tobacco_smoke_cse_drug_control_drug.csv",
+    "row_count": 1534,
+    "unique_gene_count": 1328,
+    "category_counts": {
+      "Upregulated genes": 317,
+      "Downregulated genes": 432,
+      "Differential exon usage": 96,
+      "Differential transcript expression": 175,
+      "Differential intron excision": 66,
+      "Differential alternative splicing": 448
+    }
+  },
+  {
+    "comparison_id": "tuberculosis_hi_48_ni_48",
+    "display_name": "MTB_hi48_NI48",
+    "condition": "Tuberculosis",
+    "disease_group": "acute_bacterial",
+    "filename": "gene_lists/31_tuberculosis_hi_48_ni_48.csv",
+    "row_count": 10293,
+    "unique_gene_count": 7103,
+    "category_counts": {
+      "Upregulated genes": 1982,
+      "Downregulated genes": 2660,
+      "Differential exon usage": 2106,
+      "Differential transcript expression": 2813,
+      "Differential intron excision": 259,
+      "Differential alternative splicing": 473
+    }
+  },
+  {
+    "comparison_id": "influenza_inf_48_control",
+    "display_name": "Influenza_48",
+    "condition": "Influenza",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/32_influenza_inf_48_control.csv",
+    "row_count": 1425,
+    "unique_gene_count": 1146,
+    "category_counts": {
+      "Upregulated genes": 468,
+      "Downregulated genes": 44,
+      "Differential exon usage": 227,
+      "Differential transcript expression": 144,
+      "Differential intron excision": 57,
+      "Differential alternative splicing": 485
+    }
+  },
+  {
+    "comparison_id": "tuberculosis_hi_18_ni_18",
+    "display_name": "MTB_hi18_NI18",
+    "condition": "Tuberculosis",
+    "disease_group": "acute_bacterial",
+    "filename": "gene_lists/33_tuberculosis_hi_18_ni_18.csv",
+    "row_count": 6123,
+    "unique_gene_count": 5073,
+    "category_counts": {
+      "Upregulated genes": 274,
+      "Downregulated genes": 156,
+      "Differential exon usage": 4071,
+      "Differential transcript expression": 1279,
+      "Differential intron excision": 42,
+      "Differential alternative splicing": 301
+    }
+  },
+  {
+    "comparison_id": "sars_cov_2_variants_control_delta_48hr",
+    "display_name": "SARS-CoV-2-Delta-48h",
+    "condition": "SARS-CoV-2 Variants",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/34_sars_cov_2_variants_control_delta_48hr.csv",
+    "row_count": 7202,
+    "unique_gene_count": 5470,
+    "category_counts": {
+      "Upregulated genes": 1466,
+      "Downregulated genes": 1007,
+      "Differential exon usage": 1886,
+      "Differential transcript expression": 1174,
+      "Differential intron excision": 336,
+      "Differential alternative splicing": 1333
+    }
+  },
+  {
+    "comparison_id": "tobacco_smoke_control_drug_tse_drug",
+    "display_name": "TSE-drug",
+    "condition": "Tobacco smoke",
+    "disease_group": "chronic_fibrotic",
+    "filename": "gene_lists/35_tobacco_smoke_control_drug_tse_drug.csv",
+    "row_count": 1913,
+    "unique_gene_count": 1645,
+    "category_counts": {
+      "Upregulated genes": 427,
+      "Downregulated genes": 575,
+      "Differential exon usage": 136,
+      "Differential transcript expression": 223,
+      "Differential intron excision": 69,
+      "Differential alternative splicing": 483
+    }
+  },
+  {
+    "comparison_id": "tuberculosis_hi_2_ni_2",
+    "display_name": "MTB_hi2_NI2",
+    "condition": "Tuberculosis",
+    "disease_group": "acute_bacterial",
+    "filename": "gene_lists/36_tuberculosis_hi_2_ni_2.csv",
+    "row_count": 6123,
+    "unique_gene_count": 5073,
+    "category_counts": {
+      "Upregulated genes": 274,
+      "Downregulated genes": 156,
+      "Differential exon usage": 4071,
+      "Differential transcript expression": 1279,
+      "Differential intron excision": 42,
+      "Differential alternative splicing": 301
+    }
+  },
+  {
+    "comparison_id": "tobacco_smoke_cse_vehicle_control_vehicle",
+    "display_name": "CSE-Nodrug",
+    "condition": "Tobacco smoke",
+    "disease_group": "chronic_fibrotic",
+    "filename": "gene_lists/37_tobacco_smoke_cse_vehicle_control_vehicle.csv",
+    "row_count": 1534,
+    "unique_gene_count": 1328,
+    "category_counts": {
+      "Upregulated genes": 317,
+      "Downregulated genes": 432,
+      "Differential exon usage": 96,
+      "Differential transcript expression": 175,
+      "Differential intron excision": 66,
+      "Differential alternative splicing": 448
+    }
+  },
+  {
+    "comparison_id": "tobacco_smoke_control_vehicle_tse_vehicle",
+    "display_name": "TSE-Nodrug",
+    "condition": "Tobacco smoke",
+    "disease_group": "chronic_fibrotic",
+    "filename": "gene_lists/38_tobacco_smoke_control_vehicle_tse_vehicle.csv",
+    "row_count": 1913,
+    "unique_gene_count": 1645,
+    "category_counts": {
+      "Upregulated genes": 427,
+      "Downregulated genes": 575,
+      "Differential exon usage": 136,
+      "Differential transcript expression": 223,
+      "Differential intron excision": 69,
+      "Differential alternative splicing": 483
+    }
+  },
+  {
+    "comparison_id": "nafl_nash_spectrum_nafl_normal_weight",
+    "display_name": "NAFL_normal",
+    "condition": "NAFL/NASH spectrum",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/39_nafl_nash_spectrum_nafl_normal_weight.csv",
+    "row_count": 103,
+    "unique_gene_count": 98,
+    "category_counts": {
+      "Upregulated genes": 22,
+      "Downregulated genes": 21,
+      "Differential exon usage": 2,
+      "Differential transcript expression": 3,
+      "Differential intron excision": 7,
+      "Differential alternative splicing": 48
+    }
+  },
+  {
+    "comparison_id": "nafl_nash_spectrum_nash_normal_weight",
+    "display_name": "NASH_normal",
+    "condition": "NAFL/NASH spectrum",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/40_nafl_nash_spectrum_nash_normal_weight.csv",
+    "row_count": 103,
+    "unique_gene_count": 98,
+    "category_counts": {
+      "Upregulated genes": 22,
+      "Downregulated genes": 21,
+      "Differential exon usage": 2,
+      "Differential transcript expression": 3,
+      "Differential intron excision": 7,
+      "Differential alternative splicing": 48
+    }
+  },
+  {
+    "comparison_id": "liver_diseases_normal_early_hcc",
+    "display_name": "Early_HCC",
+    "condition": "Liver diseases",
+    "disease_group": "Cancers",
+    "filename": "gene_lists/41_liver_diseases_normal_early_hcc.csv",
+    "row_count": 3086,
+    "unique_gene_count": 2735,
+    "category_counts": {
+      "Upregulated genes": 420,
+      "Downregulated genes": 617,
+      "Differential exon usage": 1182,
+      "Differential transcript expression": 444,
+      "Differential intron excision": 76,
+      "Differential alternative splicing": 347
+    }
+  },
+  {
+    "comparison_id": "sars_cov_2_covid_0hr_control_covid_0hr_infected",
+    "display_name": "SARS-CoV-2-0h",
+    "condition": "SARS-CoV-2",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/42_sars_cov_2_covid_0hr_control_covid_0hr_infected.csv",
+    "row_count": 691,
+    "unique_gene_count": 671,
+    "category_counts": {
+      "Upregulated genes": 2,
+      "Downregulated genes": 0,
+      "Differential exon usage": 307,
+      "Differential transcript expression": 29,
+      "Differential intron excision": 4,
+      "Differential alternative splicing": 349
+    }
+  },
+  {
+    "comparison_id": "nafl_nash_spectrum_nash_obese",
+    "display_name": "NASH_Obese",
+    "condition": "NAFL/NASH spectrum",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/43_nafl_nash_spectrum_nash_obese.csv",
+    "row_count": 103,
+    "unique_gene_count": 98,
+    "category_counts": {
+      "Upregulated genes": 22,
+      "Downregulated genes": 21,
+      "Differential exon usage": 2,
+      "Differential transcript expression": 3,
+      "Differential intron excision": 7,
+      "Differential alternative splicing": 48
+    }
+  },
+  {
+    "comparison_id": "influenza_inf_8_control",
+    "display_name": "Influenza_8",
+    "condition": "Influenza",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/44_influenza_inf_8_control.csv",
+    "row_count": 429,
+    "unique_gene_count": 417,
+    "category_counts": {
+      "Upregulated genes": 31,
+      "Downregulated genes": 3,
+      "Differential exon usage": 45,
+      "Differential transcript expression": 1,
+      "Differential intron excision": 11,
+      "Differential alternative splicing": 338
+    }
+  },
+  {
+    "comparison_id": "nafl_nash_spectrum_nafl_obese",
+    "display_name": "NAFL_Obese",
+    "condition": "NAFL/NASH spectrum",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/45_nafl_nash_spectrum_nafl_obese.csv",
+    "row_count": 103,
+    "unique_gene_count": 98,
+    "category_counts": {
+      "Upregulated genes": 22,
+      "Downregulated genes": 21,
+      "Differential exon usage": 2,
+      "Differential transcript expression": 3,
+      "Differential intron excision": 7,
+      "Differential alternative splicing": 48
+    }
+  },
+  {
+    "comparison_id": "nsclc_control_nsclc",
+    "display_name": "NSCLC",
+    "condition": "NSCLC",
+    "disease_group": "Cancers",
+    "filename": "gene_lists/46_nsclc_control_nsclc.csv",
+    "row_count": 1055,
+    "unique_gene_count": 999,
+    "category_counts": {
+      "Upregulated genes": 498,
+      "Downregulated genes": 108,
+      "Differential exon usage": 52,
+      "Differential transcript expression": 0,
+      "Differential intron excision": 63,
+      "Differential alternative splicing": 334
+    }
+  },
+  {
+    "comparison_id": "sars_cov_2_variants_control_delta_24hr",
+    "display_name": "SARS-CoV-2-Delta-24h",
+    "condition": "SARS-CoV-2 Variants",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/47_sars_cov_2_variants_control_delta_24hr.csv",
+    "row_count": 6141,
+    "unique_gene_count": 4591,
+    "category_counts": {
+      "Upregulated genes": 1021,
+      "Downregulated genes": 82,
+      "Differential exon usage": 2337,
+      "Differential transcript expression": 1605,
+      "Differential intron excision": 225,
+      "Differential alternative splicing": 871
+    }
+  },
+  {
+    "comparison_id": "influenza_inf_24_control",
+    "display_name": "Influenza_24",
+    "condition": "Influenza",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/48_influenza_inf_24_control.csv",
+    "row_count": 891,
+    "unique_gene_count": 797,
+    "category_counts": {
+      "Upregulated genes": 400,
+      "Downregulated genes": 20,
+      "Differential exon usage": 104,
+      "Differential transcript expression": 35,
+      "Differential intron excision": 23,
+      "Differential alternative splicing": 309
+    }
+  },
+  {
+    "comparison_id": "asthma_asthma_control_base",
+    "display_name": "Asthma-base",
+    "condition": "Asthma",
+    "disease_group": "chronic_fibrotic",
+    "filename": "gene_lists/49_asthma_asthma_control_base.csv",
+    "row_count": 309,
+    "unique_gene_count": 309,
+    "category_counts": {
+      "Upregulated genes": 17,
+      "Downregulated genes": 4,
+      "Differential exon usage": 0,
+      "Differential transcript expression": 0,
+      "Differential intron excision": 11,
+      "Differential alternative splicing": 277
+    }
+  },
+  {
+    "comparison_id": "sars_cov_2_variants_alpha_control_24hr",
+    "display_name": "SARS-CoV-2-Alpha-24h",
+    "condition": "SARS-CoV-2 Variants",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/50_sars_cov_2_variants_alpha_control_24hr.csv",
+    "row_count": 6141,
+    "unique_gene_count": 4591,
+    "category_counts": {
+      "Upregulated genes": 1021,
+      "Downregulated genes": 82,
+      "Differential exon usage": 2337,
+      "Differential transcript expression": 1605,
+      "Differential intron excision": 225,
+      "Differential alternative splicing": 871
+    }
+  },
+  {
+    "comparison_id": "tuberculosis_hi_72_live_72",
+    "display_name": "MTB_hi72_Live72",
+    "condition": "Tuberculosis",
+    "disease_group": "acute_bacterial",
+    "filename": "gene_lists/51_tuberculosis_hi_72_live_72.csv",
+    "row_count": 12139,
+    "unique_gene_count": 8123,
+    "category_counts": {
+      "Upregulated genes": 2919,
+      "Downregulated genes": 2820,
+      "Differential exon usage": 2475,
+      "Differential transcript expression": 2023,
+      "Differential intron excision": 507,
+      "Differential alternative splicing": 1395
+    }
+  },
+  {
+    "comparison_id": "ards_ards_sepsis",
+    "display_name": "ARDS-Sepsis",
+    "condition": "ARDS",
+    "disease_group": "acute_lung",
+    "filename": "gene_lists/52_ards_ards_sepsis.csv",
+    "row_count": 2801,
+    "unique_gene_count": 2501,
+    "category_counts": {
+      "Upregulated genes": 523,
+      "Downregulated genes": 1141,
+      "Differential exon usage": 472,
+      "Differential transcript expression": 7,
+      "Differential intron excision": 88,
+      "Differential alternative splicing": 570
+    }
+  },
+  {
+    "comparison_id": "asthma_asthma_control_albuterol",
+    "display_name": "Asthma-albuterol",
+    "condition": "Asthma",
+    "disease_group": "chronic_fibrotic",
+    "filename": "gene_lists/53_asthma_asthma_control_albuterol.csv",
+    "row_count": 220,
+    "unique_gene_count": 219,
+    "category_counts": {
+      "Upregulated genes": 11,
+      "Downregulated genes": 3,
+      "Differential exon usage": 1,
+      "Differential transcript expression": 0,
+      "Differential intron excision": 9,
+      "Differential alternative splicing": 196
+    }
+  },
+  {
+    "comparison_id": "gall_bladder_cancer_control",
+    "display_name": "Gall_bladder_cancer",
+    "condition": "Gall bladder",
+    "disease_group": "Cancers",
+    "filename": "gene_lists/54_gall_bladder_cancer_control.csv",
+    "row_count": 5258,
+    "unique_gene_count": 4193,
+    "category_counts": {
+      "Upregulated genes": 1600,
+      "Downregulated genes": 1732,
+      "Differential exon usage": 453,
+      "Differential transcript expression": 866,
+      "Differential intron excision": 68,
+      "Differential alternative splicing": 539
+    }
+  },
+  {
+    "comparison_id": "sars_cov_2_covid_12hr_control_covid_12hr_infected",
+    "display_name": "SARS-CoV-2-12h",
+    "condition": "SARS-CoV-2",
+    "disease_group": "viral_infections",
+    "filename": "gene_lists/55_sars_cov_2_covid_12hr_control_covid_12hr_infected.csv",
+    "row_count": 240,
+    "unique_gene_count": 233,
+    "category_counts": {
+      "Upregulated genes": 36,
+      "Downregulated genes": 0,
+      "Differential exon usage": 9,
+      "Differential transcript expression": 6,
+      "Differential intron excision": 4,
+      "Differential alternative splicing": 185
+    }
+  },
+  {
+    "comparison_id": "tuberculosis_hi_48_live_48",
+    "display_name": "MTB_hi48_Live48",
+    "condition": "Tuberculosis",
+    "disease_group": "acute_bacterial",
+    "filename": "gene_lists/56_tuberculosis_hi_48_live_48.csv",
+    "row_count": 12295,
+    "unique_gene_count": 8139,
+    "category_counts": {
+      "Upregulated genes": 2804,
+      "Downregulated genes": 2763,
+      "Differential exon usage": 2859,
+      "Differential transcript expression": 2318,
+      "Differential intron excision": 430,
+      "Differential alternative splicing": 1121
+    }
+  },
+  {
+    "comparison_id": "tuberculosis_hi_18_live_18",
+    "display_name": "MTB_hi18_Live18",
+    "condition": "Tuberculosis",
+    "disease_group": "acute_bacterial",
+    "filename": "gene_lists/57_tuberculosis_hi_18_live_18.csv",
+    "row_count": 10833,
+    "unique_gene_count": 7431,
+    "category_counts": {
+      "Upregulated genes": 2784,
+      "Downregulated genes": 3077,
+      "Differential exon usage": 1735,
+      "Differential transcript expression": 2390,
+      "Differential intron excision": 263,
+      "Differential alternative splicing": 584
+    }
+  },
+  {
+    "comparison_id": "tuberculosis_hi_2_live_2",
+    "display_name": "MTB_hi2_Live2",
+    "condition": "Tuberculosis",
+    "disease_group": "acute_bacterial",
+    "filename": "gene_lists/58_tuberculosis_hi_2_live_2.csv",
+    "row_count": 12295,
+    "unique_gene_count": 8139,
+    "category_counts": {
+      "Upregulated genes": 2804,
+      "Downregulated genes": 2763,
+      "Differential exon usage": 2859,
+      "Differential transcript expression": 2318,
+      "Differential intron excision": 430,
+      "Differential alternative splicing": 1121
+    }
+  },
+  {
+    "comparison_id": "asthma_asthma_control_vit_d",
+    "display_name": "Asthma-VitD",
+    "condition": "Asthma",
+    "disease_group": "chronic_fibrotic",
+    "filename": "gene_lists/59_asthma_asthma_control_vit_d.csv",
+    "row_count": 91,
+    "unique_gene_count": 90,
+    "category_counts": {
+      "Upregulated genes": 0,
+      "Downregulated genes": 1,
+      "Differential exon usage": 1,
+      "Differential transcript expression": 0,
+      "Differential intron excision": 11,
+      "Differential alternative splicing": 78
+    }
+  },
+  {
+    "comparison_id": "nafl_nash_spectrum_normal_weight_obese",
+    "display_name": "Normal_Obese",
+    "condition": "NAFL/NASH spectrum",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/60_nafl_nash_spectrum_normal_weight_obese.csv",
+    "row_count": 103,
+    "unique_gene_count": 98,
+    "category_counts": {
+      "Upregulated genes": 22,
+      "Downregulated genes": 21,
+      "Differential exon usage": 2,
+      "Differential transcript expression": 3,
+      "Differential intron excision": 7,
+      "Differential alternative splicing": 48
+    }
+  },
+  {
+    "comparison_id": "nafl_nash_spectrum_nafl_nash",
+    "display_name": "NAFL_NASH",
+    "condition": "NAFL/NASH spectrum",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/61_nafl_nash_spectrum_nafl_nash.csv",
+    "row_count": 103,
+    "unique_gene_count": 98,
+    "category_counts": {
+      "Upregulated genes": 22,
+      "Downregulated genes": 21,
+      "Differential exon usage": 2,
+      "Differential transcript expression": 3,
+      "Differential intron excision": 7,
+      "Differential alternative splicing": 48
+    }
+  },
+  {
+    "comparison_id": "sclc_sclc_control",
+    "display_name": "SCLC",
+    "condition": "SCLC",
+    "disease_group": "Cancers",
+    "filename": "gene_lists/62_sclc_sclc_control.csv",
+    "row_count": 1055,
+    "unique_gene_count": 999,
+    "category_counts": {
+      "Upregulated genes": 498,
+      "Downregulated genes": 108,
+      "Differential exon usage": 52,
+      "Differential transcript expression": 0,
+      "Differential intron excision": 63,
+      "Differential alternative splicing": 334
+    }
+  },
+  {
+    "comparison_id": "liver_damage_ploidy_diploid_aged_diploid_young",
+    "display_name": "2n-aged_2n-young",
+    "condition": "Liver damage & Ploidy",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/63_liver_damage_ploidy_diploid_aged_diploid_young.csv",
+    "row_count": 1198,
+    "unique_gene_count": 1168,
+    "category_counts": {
+      "Upregulated genes": 272,
+      "Downregulated genes": 519,
+      "Differential exon usage": 160,
+      "Differential transcript expression": 0,
+      "Differential intron excision": 9,
+      "Differential alternative splicing": 238
+    }
+  },
+  {
+    "comparison_id": "liver_damage_ploidy_diploid_aged_polyploid_aged",
+    "display_name": "2n-aged_P-aged",
+    "condition": "Liver damage & Ploidy",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/64_liver_damage_ploidy_diploid_aged_polyploid_aged.csv",
+    "row_count": 1198,
+    "unique_gene_count": 1168,
+    "category_counts": {
+      "Upregulated genes": 272,
+      "Downregulated genes": 519,
+      "Differential exon usage": 160,
+      "Differential transcript expression": 0,
+      "Differential intron excision": 9,
+      "Differential alternative splicing": 238
+    }
+  },
+  {
+    "comparison_id": "liver_damage_ploidy_diploid_aged_polyploid_young",
+    "display_name": "2n-aged_P-young",
+    "condition": "Liver damage & Ploidy",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/65_liver_damage_ploidy_diploid_aged_polyploid_young.csv",
+    "row_count": 1198,
+    "unique_gene_count": 1168,
+    "category_counts": {
+      "Upregulated genes": 272,
+      "Downregulated genes": 519,
+      "Differential exon usage": 160,
+      "Differential transcript expression": 0,
+      "Differential intron excision": 9,
+      "Differential alternative splicing": 238
+    }
+  },
+  {
+    "comparison_id": "liver_damage_ploidy_diploid_young_polyploid_aged",
+    "display_name": "2n-young_P-aged",
+    "condition": "Liver damage & Ploidy",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/66_liver_damage_ploidy_diploid_young_polyploid_aged.csv",
+    "row_count": 1198,
+    "unique_gene_count": 1168,
+    "category_counts": {
+      "Upregulated genes": 272,
+      "Downregulated genes": 519,
+      "Differential exon usage": 160,
+      "Differential transcript expression": 0,
+      "Differential intron excision": 9,
+      "Differential alternative splicing": 238
+    }
+  },
+  {
+    "comparison_id": "liver_damage_ploidy_diploid_young_polyploid_young",
+    "display_name": "2n-young_P-young",
+    "condition": "Liver damage & Ploidy",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/67_liver_damage_ploidy_diploid_young_polyploid_young.csv",
+    "row_count": 1198,
+    "unique_gene_count": 1168,
+    "category_counts": {
+      "Upregulated genes": 272,
+      "Downregulated genes": 519,
+      "Differential exon usage": 160,
+      "Differential transcript expression": 0,
+      "Differential intron excision": 9,
+      "Differential alternative splicing": 238
+    }
+  },
+  {
+    "comparison_id": "liver_damage_ploidy_polyploid_aged_polyploid_young",
+    "display_name": "P-aged_P-young",
+    "condition": "Liver damage & Ploidy",
+    "disease_group": "hepatobiliary",
+    "filename": "gene_lists/68_liver_damage_ploidy_polyploid_aged_polyploid_young.csv",
+    "row_count": 1198,
+    "unique_gene_count": 1168,
+    "category_counts": {
+      "Upregulated genes": 272,
+      "Downregulated genes": 519,
+      "Differential exon usage": 160,
+      "Differential transcript expression": 0,
+      "Differential intron excision": 9,
+      "Differential alternative splicing": 238
+    }
+  }
+]

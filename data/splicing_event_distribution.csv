@@ -1,0 +1,69 @@
+"comparison_id","condition","disease_group","disease_group_combined","section_target","total_unique_genes","total_rmats_events","SE_count","pct_SE","RI_count","pct_RI","MXE_count","pct_MXE","A3SS_count","pct_A3SS","A5SS_count","pct_A5SS"
+"mers_mers24_control","MERS","viral_infections","viral_infections","3_3_viral_timecourse",7461,3268,2091,63.98,452,13.83,182,5.57,294,9,249,7.62
+"sars_sars24_control","SARS","viral_infections","viral_infections","3_3_viral_timecourse",4973,2350,1303,55.45,487,20.72,105,4.47,236,10.04,219,9.32
+"covid_india_covid_19_control","COVID-India","viral_infections","viral_infections","3_3_viral_timecourse",18337,1969,274,13.92,307,15.59,1237,62.82,88,4.47,63,3.2
+"nafld_control_nafld","NAFLD","hepatobiliary","hepatobiliary","3_7_hepatobiliary",13619,1889,147,7.78,215,11.38,1432,75.81,57,3.02,38,2.01
+"mers_mers12_control","MERS","viral_infections","viral_infections","3_3_viral_timecourse",3524,1690,1074,63.55,249,14.73,69,4.08,171,10.12,127,7.51
+"liver_diseases_normal_dysplastic_nodule","Liver diseases","hepatobiliary","hepatobiliary","3_7_hepatobiliary",10465,1573,463,29.43,184,11.7,762,48.44,96,6.1,68,4.32
+"liver_diseases_normal_liver_cirrhosis","Liver diseases","hepatobiliary","hepatobiliary","3_7_hepatobiliary",9800,1561,477,30.56,228,14.61,700,44.84,83,5.32,73,4.68
+"sars_sars2_control","SARS","viral_infections","viral_infections","3_3_viral_timecourse",2120,1554,968,62.29,225,14.48,84,5.41,136,8.75,141,9.07
+"sars_cov_2_covid_48hr_control_covid_48hr_infected","SARS-CoV-2","viral_infections","viral_infections","3_3_viral_timecourse",5470,1515,845,55.78,290,19.14,106,7,140,9.24,134,8.84
+"liver_diseases_normal_chronic_hepatitis","Liver diseases","hepatobiliary","hepatobiliary","3_7_hepatobiliary",8842,1463,330,22.56,126,8.61,906,61.93,59,4.03,42,2.87
+"sars_sars4_control","SARS","viral_infections","viral_infections","3_3_viral_timecourse",2032,1369,852,62.24,221,16.14,64,4.67,118,8.62,114,8.33
+"mers_mers4_control","MERS","viral_infections","viral_infections","3_3_viral_timecourse",2142,1365,839,61.47,230,16.85,64,4.69,114,8.35,118,8.64
+"mers_mers2_control","MERS","viral_infections","viral_infections","3_3_viral_timecourse",1812,1353,916,67.7,170,12.56,42,3.1,111,8.2,114,8.43
+"ipf_ipf_control","IPF","chronic_fibrotic","chronic_fibrotic","3_5_chronic_fibrotic",10177,1312,536,40.85,431,32.85,120,9.15,144,10.98,81,6.17
+"sars_cov_2_variants_alpha_control_72hr","SARS-CoV-2 Variants","viral_infections","viral_infections","3_3_viral_timecourse",7292,1274,695,54.55,281,22.06,48,3.77,151,11.85,99,7.77
+"copd_control_copd","COPD","chronic_fibrotic","chronic_fibrotic","3_5_chronic_fibrotic",6907,1149,88,7.66,73,6.35,958,83.38,12,1.04,18,1.57
+"covid_europe_covid_19_control","COVID-Europe","viral_infections","viral_infections","3_3_viral_timecourse",18282,1119,307,27.44,271,24.22,419,37.44,40,3.57,82,7.33
+"sars_sars12_control","SARS","viral_infections","viral_infections","3_3_viral_timecourse",1276,1057,667,63.1,161,15.23,44,4.16,83,7.85,102,9.65
+"sars_cov_2_covid_72hr_control_covid_72hr_infected","SARS-CoV-2","viral_infections","viral_infections","3_3_viral_timecourse",2588,990,613,61.92,131,13.23,64,6.46,94,9.49,88,8.89
+"sars_cov_2_covid_24hr_control_covid_24hr_infected","SARS-CoV-2","viral_infections","viral_infections","3_3_viral_timecourse",4591,977,466,47.7,134,13.72,213,21.8,88,9.01,76,7.78
+"liver_diseases_normal_advanced_hcc","Liver diseases","hepatobiliary","Cancers","3_7_hepatobiliary",8166,850,389,45.76,117,13.76,238,28,57,6.71,49,5.76
+"tuberculosis_live_72_ni_72","Tuberculosis","acute_bacterial","acute_bacterial","3_4_acute_bacterial",9529,838,469,55.97,165,19.69,42,5.01,78,9.31,84,10.02
+"sars_cov_2_variants_alpha_control_48hr","SARS-CoV-2 Variants","viral_infections","viral_infections","3_3_viral_timecourse",2539,744,473,63.58,126,16.94,28,3.76,60,8.06,57,7.66
+"tuberculosis_live_2_ni_2","Tuberculosis","acute_bacterial","acute_bacterial","3_4_acute_bacterial",5008,726,341,46.97,198,27.27,24,3.31,82,11.29,81,11.16
+"sars_cov_2_variants_control_delta_72hr","SARS-CoV-2 Variants","viral_infections","viral_infections","3_3_viral_timecourse",4858,670,380,56.72,145,21.64,27,4.03,59,8.81,59,8.81
+"tuberculosis_hi_72_ni_72","Tuberculosis","acute_bacterial","acute_bacterial","3_4_acute_bacterial",9865,649,344,53,143,22.03,35,5.39,48,7.4,79,12.17
+"tuberculosis_live_48_ni_48","Tuberculosis","acute_bacterial","acute_bacterial","3_4_acute_bacterial",7245,647,354,54.71,125,19.32,49,7.57,61,9.43,58,8.96
+"tuberculosis_live_18_ni_18","Tuberculosis","acute_bacterial","acute_bacterial","3_4_acute_bacterial",7441,625,364,58.24,122,19.52,35,5.6,65,10.4,39,6.24
+"ards_ards_bmt_sepsis_bmt","ARDS","acute_lung","acute_lung","3_4_acute_bacterial",2501,623,384,61.64,96,15.41,45,7.22,56,8.99,42,6.74
+"tobacco_smoke_cse_drug_control_drug","Tobacco smoke","chronic_fibrotic","chronic_fibrotic","3_5_chronic_fibrotic",937,555,340,61.26,78,14.05,30,5.41,43,7.75,64,11.53
+"tuberculosis_hi_48_ni_48","Tuberculosis","acute_bacterial","acute_bacterial","3_4_acute_bacterial",8305,538,312,57.99,96,17.84,36,6.69,49,9.11,45,8.36
+"influenza_inf_48_control","Influenza","viral_infections","viral_infections","3_3_viral_timecourse",1146,534,290,54.31,110,20.6,31,5.81,57,10.67,46,8.61
+"tuberculosis_hi_18_ni_18","Tuberculosis","acute_bacterial","acute_bacterial","3_4_acute_bacterial",6416,512,280,54.69,100,19.53,38,7.42,54,10.55,40,7.81
+"sars_cov_2_variants_control_delta_48hr","SARS-CoV-2 Variants","viral_infections","viral_infections","3_3_viral_timecourse",1309,497,319,64.19,70,14.08,14,2.82,46,9.26,48,9.66
+"tobacco_smoke_control_drug_tse_drug","Tobacco smoke","chronic_fibrotic","chronic_fibrotic","3_5_chronic_fibrotic",852,482,344,71.37,58,12.03,17,3.53,26,5.39,37,7.68
+"tuberculosis_hi_2_ni_2","Tuberculosis","acute_bacterial","acute_bacterial","3_4_acute_bacterial",3509,481,191,39.71,150,31.19,13,2.7,69,14.35,58,12.06
+"tobacco_smoke_cse_vehicle_control_vehicle","Tobacco smoke","chronic_fibrotic","chronic_fibrotic","3_5_chronic_fibrotic",714,449,309,68.82,43,9.58,19,4.23,39,8.69,39,8.69
+"tobacco_smoke_control_vehicle_tse_vehicle","Tobacco smoke","chronic_fibrotic","chronic_fibrotic","3_5_chronic_fibrotic",837,443,287,64.79,54,12.19,22,4.97,50,11.29,30,6.77
+"nafl_nash_spectrum_nafl_normal_weight","NAFL/NASH spectrum","hepatobiliary","hepatobiliary","3_7_hepatobiliary",12015,384,105,27.34,29,7.55,222,57.81,15,3.91,13,3.39
+"nafl_nash_spectrum_nash_normal_weight","NAFL/NASH spectrum","hepatobiliary","hepatobiliary","3_7_hepatobiliary",12799,383,99,25.85,33,8.62,221,57.7,16,4.18,14,3.66
+"liver_diseases_normal_early_hcc","Liver diseases","hepatobiliary","Cancers","3_7_hepatobiliary",2735,375,200,53.33,56,14.93,74,19.73,21,5.6,24,6.4
+"sars_cov_2_covid_0hr_control_covid_0hr_infected","SARS-CoV-2","viral_infections","viral_infections","3_3_viral_timecourse",671,372,164,44.09,95,25.54,13,3.49,55,14.78,45,12.1
+"nafl_nash_spectrum_nash_obese","NAFL/NASH spectrum","hepatobiliary","hepatobiliary","3_7_hepatobiliary",12424,364,99,27.2,32,8.79,202,55.49,17,4.67,14,3.85
+"influenza_inf_8_control","Influenza","viral_infections","viral_infections","3_3_viral_timecourse",417,362,191,52.76,88,24.31,20,5.52,28,7.73,35,9.67
+"nafl_nash_spectrum_nafl_obese","NAFL/NASH spectrum","hepatobiliary","hepatobiliary","3_7_hepatobiliary",11595,358,101,28.21,29,8.1,195,54.47,17,4.75,16,4.47
+"nsclc_control_nsclc","NSCLC","lung_cancer","Cancers","3_6_lung_cancer",999,358,207,57.82,67,18.72,31,8.66,27,7.54,26,7.26
+"sars_cov_2_variants_control_delta_24hr","SARS-CoV-2 Variants","viral_infections","viral_infections","3_3_viral_timecourse",945,342,216,63.16,43,12.57,21,6.14,42,12.28,20,5.85
+"influenza_inf_24_control","Influenza","viral_infections","viral_infections","3_3_viral_timecourse",797,334,189,56.59,70,20.96,20,5.99,31,9.28,24,7.19
+"asthma_asthma_control_base","Asthma","chronic_fibrotic","chronic_fibrotic","3_5_chronic_fibrotic",309,303,153,50.5,79,26.07,17,5.61,34,11.22,20,6.6
+"sars_cov_2_variants_alpha_control_24hr","SARS-CoV-2 Variants","viral_infections","viral_infections","3_3_viral_timecourse",342,273,166,60.81,37,13.55,4,1.47,32,11.72,34,12.45
+"tuberculosis_hi_72_live_72","Tuberculosis","acute_bacterial","acute_bacterial","3_4_acute_bacterial",788,249,138,55.42,24,9.64,17,6.83,29,11.65,41,16.47
+"ards_ards_sepsis","ARDS","acute_lung","acute_lung","3_4_acute_bacterial",340,238,149,62.61,36,15.13,10,4.2,25,10.5,18,7.56
+"asthma_asthma_control_albuterol","Asthma","chronic_fibrotic","chronic_fibrotic","3_5_chronic_fibrotic",219,210,133,63.33,23,10.95,14,6.67,23,10.95,17,8.1
+"gall_bladder_cancer_control","Gall bladder","hepatobiliary","Cancers","3_7_hepatobiliary",1412,200,115,57.5,35,17.5,30,15,5,2.5,15,7.5
+"sars_cov_2_covid_12hr_control_covid_12hr_infected","SARS-CoV-2","viral_infections","viral_infections","3_3_viral_timecourse",233,196,136,69.39,17,8.67,7,3.57,21,10.71,15,7.65
+"tuberculosis_hi_48_live_48","Tuberculosis","acute_bacterial","acute_bacterial","3_4_acute_bacterial",409,154,88,57.14,15,9.74,15,9.74,12,7.79,24,15.58
+"tuberculosis_hi_18_live_18","Tuberculosis","acute_bacterial","acute_bacterial","3_4_acute_bacterial",266,153,96,62.75,29,18.95,1,0.65,10,6.54,17,11.11
+"tuberculosis_hi_2_live_2","Tuberculosis","acute_bacterial","acute_bacterial","3_4_acute_bacterial",137,123,57,46.34,28,22.76,4,3.25,20,16.26,14,11.38
+"asthma_asthma_control_vit_d","Asthma","chronic_fibrotic","chronic_fibrotic","3_5_chronic_fibrotic",90,84,42,50,18,21.43,2,2.38,13,15.48,9,10.71
+"nafl_nash_spectrum_normal_weight_obese","NAFL/NASH spectrum","hepatobiliary","hepatobiliary","3_7_hepatobiliary",98,49,31,63.27,5,10.2,3,6.12,3,6.12,7,14.29
+"nafl_nash_spectrum_nafl_nash","NAFL/NASH spectrum","hepatobiliary","hepatobiliary","3_7_hepatobiliary",28,17,13,76.47,3,17.65,0,0,1,5.88,0,0
+"sclc_sclc_control","SCLC","lung_cancer","Cancers","3_6_lung_cancer",5241,4,0,0,4,100,0,0,0,0,0,0
+"liver_damage_ploidy_diploid_aged_diploid_young","Liver damage & Ploidy","hepatobiliary","hepatobiliary","3_7_hepatobiliary",2026,0,0,0,0,0,0,0,0,0,0,0
+"liver_damage_ploidy_diploid_aged_polyploid_aged","Liver damage & Ploidy","hepatobiliary","hepatobiliary","3_7_hepatobiliary",2065,0,0,0,0,0,0,0,0,0,0,0
+"liver_damage_ploidy_diploid_aged_polyploid_young","Liver damage & Ploidy","hepatobiliary","hepatobiliary","3_7_hepatobiliary",3751,0,0,0,0,0,0,0,0,0,0,0
+"liver_damage_ploidy_diploid_young_polyploid_aged","Liver damage & Ploidy","hepatobiliary","hepatobiliary","3_7_hepatobiliary",701,0,0,0,0,0,0,0,0,0,0,0
+"liver_damage_ploidy_diploid_young_polyploid_young","Liver damage & Ploidy","hepatobiliary","hepatobiliary","3_7_hepatobiliary",1168,0,0,0,0,0,0,0,0,0,0,0
+"liver_damage_ploidy_polyploid_aged_polyploid_young","Liver damage & Ploidy","hepatobiliary","hepatobiliary","3_7_hepatobiliary",468,0,0,0,0,0,0,0,0,0,0,0
