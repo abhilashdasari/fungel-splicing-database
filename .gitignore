@@ -1,0 +1,46 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# JavaScript dependencies and build output, if tools are added locally
+node_modules/
+dist/
+build/
+.cache/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Local data drafts not used by the hosted website
+data/*.txt
+data/*.xlsx
+data/*.xls
+data/*.tsv
+
+# Local analysis outputs and notebooks
+analysis_outputs/
+results/
+*.ipynb_checkpoints/
+
+# Keep website assets and required public data tracked:
+# index.html, style.css, app.js, README.md
+# data/*.csv, data/*.json, data/gene_lists/*.csv

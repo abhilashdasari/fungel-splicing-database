@@ -3,6 +3,15 @@ const TOOL_DATA_URL = "data/splicing_tool_distribution.csv";
 const NAME_MAP_URL = "data/comparison_name_mapping.csv";
 const GENE_MANIFEST_URL = "data/gene_list_manifest.json";
 const UNIQUE_GENE_SETS_URL = "data/unique_gene_sets.json";
+const GENE_METADATA_URL = "data/mart_export.csv";
+const GENE_METADATA_COLUMNS = [
+  "Gene type",
+  "Gene description",
+  "Strand",
+  "Gene start (bp)",
+  "Gene end (bp)",
+  "Chromosome/scaffold name",
+];
 const TOOL_TYPES = [
   { key: "DEXSeq_count", label: "DEXSeq", color: "#0f766e" },
   { key: "Sleuth_count", label: "Sleuth", color: "#b7791f" },
@@ -23,9 +32,9 @@ let filteredRows = [];
 let nameMap = new Map();
 let geneManifest = [];
 let uniqueGeneSets = {};
+let geneMetadataByName = new Map();
 let currentGeneRows = [];
 let filteredGeneRows = [];
-let webRInstance = null;
 const comparisonSort = { key: "total_tool_gene_hits", direction: "desc" };
 const geneSort = { key: "gene_name", direction: "asc" };
 
@@ -47,21 +56,18 @@ const els = {
   downloadFiltered: document.querySelector("#downloadFiltered"),
   geneComparison: document.querySelector("#geneComparison"),
   geneSetFilter: document.querySelector("#geneSetFilter"),
+  geneTypeFilter: document.querySelector("#geneTypeFilter"),
   geneSearch: document.querySelector("#geneSearch"),
   geneSummary: document.querySelector("#geneSummary"),
   geneBody: document.querySelector("#geneBody"),
   downloadGenes: document.querySelector("#downloadGenes"),
   sortButtons: document.querySelectorAll(".sort-header"),
-  runR: document.querySelector("#runR"),
-  rCode: document.querySelector("#rCode"),
-  rOutput: document.querySelector("#rOutput"),
-  webRStatus: document.querySelector("#webrStatus"),
 };
 
 init();
 
 async function init() {
-  const [csv, toolCsv, mapCsv, manifest, uniqueSets] = await Promise.all([
+  const [csv, toolCsv, mapCsv, manifest, uniqueSets, geneMetadataCsv] = await Promise.all([
     fetchText(DATA_URL),
     fetchText(TOOL_DATA_URL),
     fetchText(NAME_MAP_URL),
@@ -73,11 +79,13 @@ async function init() {
       if (!response.ok) throw new Error(`Could not load ${UNIQUE_GENE_SETS_URL}`);
       return response.json();
     }),
+    fetchText(GENE_METADATA_URL),
   ]);
 
   nameMap = new Map(parseCsv(mapCsv).map((row) => [row.old_name, row.new_name]));
   geneManifest = manifest;
   uniqueGeneSets = uniqueSets;
+  geneMetadataByName = buildGeneMetadataMap(parseCsv(geneMetadataCsv));
   toolRows = parseCsv(toolCsv).map(normalizeToolRow);
   allRows = parseCsv(csv).map(normalizeRow);
   attachToolCounts(allRows, toolRows);
@@ -107,6 +115,7 @@ function bindEvents() {
   els.downloadFiltered.addEventListener("click", downloadFilteredCsv);
   els.geneComparison.addEventListener("change", loadSelectedGeneList);
   els.geneSetFilter.addEventListener("input", applyGeneFilters);
+  els.geneTypeFilter.addEventListener("input", applyGeneFilters);
   els.geneSearch.addEventListener("input", applyGeneFilters);
   els.downloadGenes.addEventListener("click", downloadGeneCsv);
   els.sortButtons.forEach((button) => {
@@ -126,7 +135,6 @@ function bindEvents() {
       }
     });
   });
-  els.runR.addEventListener("click", runRAnalysis);
 }
 
 function normalizeRow(row) {
@@ -156,6 +164,25 @@ function normalizeRow(row) {
 function normalizeToolRow(row) {
   row.gene_count = Number(row.gene_count || 0);
   return row;
+}
+
+function buildGeneMetadataMap(rows) {
+  const metadata = new Map();
+  rows.forEach((row) => {
+    if (!row["Gene name"] || metadata.has(row["Gene name"])) return;
+    metadata.set(row["Gene name"], Object.fromEntries(
+      GENE_METADATA_COLUMNS.map((column) => [column, row[column] || ""])
+    ));
+  });
+  return metadata;
+}
+
+function enrichGeneRow(row) {
+  const metadata = geneMetadataByName.get(row.gene_name) || {};
+  return {
+    ...row,
+    ...Object.fromEntries(GENE_METADATA_COLUMNS.map((column) => [column, metadata[column] || ""])),
+  };
 }
 
 function attachToolCounts(rows, tools) {
@@ -200,13 +227,23 @@ function populateGeneComparisons(manifest) {
   els.geneComparison.innerHTML = "";
   manifest
     .slice()
-    .sort((a, b) => a.display_name.localeCompare(b.display_name))
+    .sort(compareGeneComparisonOptions)
     .forEach((item) => {
       const option = document.createElement("option");
       option.value = item.comparison_id;
       option.textContent = `${item.display_name} (${formatNumber(item.unique_gene_count)} unique genes)`;
       els.geneComparison.appendChild(option);
     });
+}
+
+function compareGeneComparisonOptions(a, b) {
+  const aStartsWithDigit = /^\d/.test(a.display_name);
+  const bStartsWithDigit = /^\d/.test(b.display_name);
+  if (aStartsWithDigit !== bStartsWithDigit) return aStartsWithDigit ? 1 : -1;
+  return a.display_name.localeCompare(b.display_name, undefined, {
+    numeric: true,
+    sensitivity: "base",
+  });
 }
 
 function applyFilters() {
@@ -477,10 +514,11 @@ async function loadSelectedGeneList() {
   const selected = geneManifest.find((item) => item.comparison_id === els.geneComparison.value);
   if (!selected) return;
 
-  els.geneBody.innerHTML = '<tr><td class="empty" colspan="3">Loading gene list...</td></tr>';
+  els.geneBody.innerHTML = '<tr><td class="empty" colspan="9">Loading gene list...</td></tr>';
   const csv = await fetchText(`data/${selected.filename}`);
-  currentGeneRows = parseCsv(csv);
+  currentGeneRows = parseCsv(csv).map(enrichGeneRow);
   populateGeneSetFilter(currentGeneRows);
+  populateGeneTypeFilter(currentGeneRows);
   applyGeneFilters();
 }
 
@@ -497,15 +535,39 @@ function populateGeneSetFilter(rows) {
   els.geneSetFilter.value = geneSets.includes(previousValue) ? previousValue : "";
 }
 
+function populateGeneTypeFilter(rows) {
+  const previousValue = els.geneTypeFilter.value;
+  const geneTypes = [...new Set(rows.map((row) => row["Gene type"]).filter(Boolean))].sort();
+  els.geneTypeFilter.innerHTML = '<option value="">All gene types</option>';
+  geneTypes.forEach((geneType) => {
+    const option = document.createElement("option");
+    option.value = geneType;
+    option.textContent = geneType;
+    els.geneTypeFilter.appendChild(option);
+  });
+  els.geneTypeFilter.value = geneTypes.includes(previousValue) ? previousValue : "";
+}
+
 function applyGeneFilters() {
   const selected = geneManifest.find((item) => item.comparison_id === els.geneComparison.value);
   const geneSet = els.geneSetFilter.value;
+  const geneType = els.geneTypeFilter.value;
   const query = els.geneSearch.value.trim().toLowerCase();
 
   filteredGeneRows = currentGeneRows.filter((row) => {
+    const searchable = [
+      row.gene_name,
+      row["Gene type"],
+      row["Gene description"],
+      row["Chromosome/scaffold name"],
+    ]
+      .join(" ")
+      .toLowerCase();
+
     return (
       (!geneSet || row.gene_set === geneSet) &&
-      (!query || row.gene_name.toLowerCase().includes(query))
+      (!geneType || row["Gene type"] === geneType) &&
+      (!query || searchable.includes(query))
     );
   });
   filteredGeneRows.sort((a, b) => compareValues(a, b, geneSort.key, geneSort.direction));
@@ -540,7 +602,7 @@ function renderGeneTable(rows) {
     const tr = document.createElement("tr");
     const td = document.createElement("td");
     td.className = "empty";
-    td.colSpan = 3;
+    td.colSpan = 9;
     td.textContent = "No genes match the current filters.";
     tr.appendChild(td);
     els.geneBody.appendChild(tr);
@@ -549,7 +611,17 @@ function renderGeneTable(rows) {
 
   rows.forEach((row) => {
     const tr = document.createElement("tr");
-    [row.comparison_name, row.gene_set, row.gene_name].forEach((value) => {
+    [
+      row.comparison_name,
+      row.gene_set,
+      row.gene_name,
+      row["Gene type"],
+      row["Gene description"],
+      row.Strand,
+      row["Gene start (bp)"],
+      row["Gene end (bp)"],
+      row["Chromosome/scaffold name"],
+    ].forEach((value) => {
       const td = document.createElement("td");
       td.textContent = value;
       tr.appendChild(td);
@@ -557,35 +629,6 @@ function renderGeneTable(rows) {
     els.geneBody.appendChild(tr);
   });
 
-}
-
-async function runRAnalysis() {
-  els.runR.disabled = true;
-  els.rOutput.textContent = "";
-
-  try {
-    if (!webRInstance) {
-      els.webRStatus.textContent = "Loading webR...";
-      const { WebR } = await import("https://webr.r-wasm.org/latest/webr.mjs");
-      webRInstance = new WebR();
-      await webRInstance.init();
-    }
-
-    els.webRStatus.textContent = "Running R...";
-    const csv = toCsv(filteredRows);
-    await webRInstance.FS.writeFile("/filtered_splicing_data.csv", csv);
-    await webRInstance.evalRVoid('filtered_data <- read.csv("/filtered_splicing_data.csv", check.names = FALSE)');
-
-    const result = await webRInstance.evalR(`capture.output({ ${els.rCode.value} })`);
-    const output = await result.toArray();
-    els.rOutput.textContent = output.join("\n");
-    els.webRStatus.textContent = "R analysis complete";
-  } catch (error) {
-    els.rOutput.textContent = error.stack || error.message;
-    els.webRStatus.textContent = "R analysis failed";
-  } finally {
-    els.runR.disabled = false;
-  }
 }
 
 function downloadFilteredCsv() {

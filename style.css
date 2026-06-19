@@ -69,8 +69,7 @@ main {
 button,
 .button-link,
 select,
-input,
-textarea {
+input {
   border: 1px solid var(--line);
   border-radius: 8px;
   font: inherit;
@@ -92,8 +91,7 @@ button:hover,
   background: var(--accent-dark);
 }
 
-.header-actions,
-.webr-actions {
+.header-actions {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -116,8 +114,7 @@ label {
 }
 
 input,
-select,
-textarea {
+select {
   width: 100%;
   min-height: 42px;
   padding: 10px 11px;
@@ -203,7 +200,7 @@ svg {
 
 .gene-controls {
   display: grid;
-  grid-template-columns: minmax(220px, 1.4fr) minmax(180px, 1fr) minmax(180px, 1fr) auto;
+  grid-template-columns: minmax(220px, 1.4fr) minmax(170px, 1fr) minmax(170px, 1fr) minmax(180px, 1fr) auto;
   align-items: end;
   gap: 14px;
   padding: 8px 18px 16px;
@@ -237,6 +234,10 @@ table {
   min-width: 1240px;
   border-collapse: collapse;
   font-size: 0.88rem;
+}
+
+.gene-table {
+  min-width: 1900px;
 }
 
 th,
@@ -297,37 +298,23 @@ th:nth-child(n + 4) {
   text-align: right;
 }
 
-.webr-panel textarea {
-  display: block;
-  width: calc(100% - 36px);
-  min-height: 150px;
-  margin: 8px 18px 12px;
-  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
-  font-size: 0.9rem;
-  resize: vertical;
+.gene-table td,
+.gene-table th {
+  text-align: left;
 }
 
-.webr-actions {
-  padding: 0 18px 14px;
+.gene-table td:nth-child(5) {
+  max-width: 520px;
+  white-space: normal;
 }
 
-#webrStatus {
-  color: var(--muted);
-  font-size: 0.9rem;
-}
-
-pre {
-  min-height: 140px;
-  max-height: 360px;
-  margin: 0;
-  padding: 16px 18px;
-  overflow: auto;
-  border-top: 1px solid var(--line);
-  background: #101513;
-  color: #edf6f0;
-  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
-  font-size: 0.85rem;
-  line-height: 1.5;
+.gene-table td:nth-child(6),
+.gene-table th:nth-child(6),
+.gene-table td:nth-child(7),
+.gene-table th:nth-child(7),
+.gene-table td:nth-child(8),
+.gene-table th:nth-child(8) {
+  text-align: right;
 }
 
 footer {

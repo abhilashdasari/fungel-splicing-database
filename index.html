@@ -156,6 +156,12 @@
             </select>
           </label>
           <label>
+            Gene type
+            <select id="geneTypeFilter">
+              <option value="">All gene types</option>
+            </select>
+          </label>
+          <label>
             Search genes
             <input id="geneSearch" type="search" placeholder="e.g. SRSF3, BCL2L1">
           </label>
@@ -163,12 +169,18 @@
         </div>
         <div id="geneSummary" class="gene-summary"></div>
         <div class="table-scroll">
-          <table>
+          <table class="gene-table">
             <thead>
               <tr>
                 <th><button class="sort-header" type="button" data-table="genes" data-key="comparison_name">Comparison</button></th>
                 <th><button class="sort-header" type="button" data-table="genes" data-key="gene_set">Gene set</button></th>
                 <th><button class="sort-header" type="button" data-table="genes" data-key="gene_name">Gene name</button></th>
+                <th><button class="sort-header" type="button" data-table="genes" data-key="Gene type">Gene type</button></th>
+                <th><button class="sort-header" type="button" data-table="genes" data-key="Gene description">Gene description</button></th>
+                <th><button class="sort-header" type="button" data-table="genes" data-key="Strand">Strand</button></th>
+                <th><button class="sort-header" type="button" data-table="genes" data-key="Gene start (bp)">Gene start (bp)</button></th>
+                <th><button class="sort-header" type="button" data-table="genes" data-key="Gene end (bp)">Gene end (bp)</button></th>
+                <th><button class="sort-header" type="button" data-table="genes" data-key="Chromosome/scaffold name">Chromosome/scaffold name</button></th>
               </tr>
             </thead>
             <tbody id="geneBody"></tbody>
@@ -176,20 +188,6 @@
         </div>
       </section>
 
-      <section class="panel webr-panel">
-        <div class="panel-title">
-          <h2>Run R With webR</h2>
-          <p>Runs in the browser on the currently filtered table.</p>
-        </div>
-        <textarea id="rCode" spellcheck="false">summary(filtered_data[, c("total_unique_genes", "total_tool_gene_hits", "DEXSeq_count", "Sleuth_count", "Leafcutter_count", "rMATS_gene_count", "total_rmats_events")])
-
-aggregate(cbind(total_tool_gene_hits, DEXSeq_count, Sleuth_count, Leafcutter_count, rMATS_gene_count) ~ disease_group_combined, filtered_data, sum)</textarea>
-        <div class="webr-actions">
-          <button id="runR" type="button">Run R analysis</button>
-          <span id="webrStatus">webR not loaded</span>
-        </div>
-        <pre id="rOutput" aria-live="polite"></pre>
-      </section>
     </main>
 
     <footer>
